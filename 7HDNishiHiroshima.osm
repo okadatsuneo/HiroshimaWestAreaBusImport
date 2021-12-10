@@ -1,0 +1,1930 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-1056365' lat='34.39788597' lon='132.4284757'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70000 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='1' />
+    <tag k='name' v='西広島駅・己斐' />
+    <tag k='name:en' v='Nishi-hiroshima Sta./Koi' />
+    <tag k='name:ja' v='西広島駅・己斐' />
+    <tag k='name:ja-Hira' v='にしひろしまえきこい' />
+    <tag k='name:ko' v='니시히로시마 역·코이' />
+    <tag k='name:zh-Hans' v='西广岛站・己斐' />
+    <tag k='name:zh-Hant' v='西廣島站・己斐' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056366' lat='34.39780264' lon='132.4283424'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70000 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='2' />
+    <tag k='name' v='西広島駅・己斐' />
+    <tag k='name:en' v='Nishi-hiroshima Sta./Koi' />
+    <tag k='name:ja' v='西広島駅・己斐' />
+    <tag k='name:ja-Hira' v='にしひろしまえきこい' />
+    <tag k='name:ko' v='니시히로시마 역·코이' />
+    <tag k='name:zh-Hans' v='西广岛站・己斐' />
+    <tag k='name:zh-Hant' v='西廣島站・己斐' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056367' lat='34.39768598' lon='132.4282258'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70000 3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='3' />
+    <tag k='name' v='西広島駅・己斐' />
+    <tag k='name:en' v='Nishi-hiroshima Sta./Koi' />
+    <tag k='name:ja' v='西広島駅・己斐' />
+    <tag k='name:ja-Hira' v='にしひろしまえきこい' />
+    <tag k='name:ko' v='니시히로시마 역·코이' />
+    <tag k='name:zh-Hans' v='西广岛站・己斐' />
+    <tag k='name:zh-Hant' v='西廣島站・己斐' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056368' lat='34.39925252' lon='132.4302422'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70010 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='己斐橋' />
+    <tag k='name:en' v='Koibashi' />
+    <tag k='name:ja' v='己斐橋' />
+    <tag k='name:ja-Hira' v='こいばし' />
+    <tag k='name:ko' v='고이바시' />
+    <tag k='name:zh-Hans' v='己斐桥' />
+    <tag k='name:zh-Hant' v='己斐橋' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056369' lat='34.39976909' lon='132.428159'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70020 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='己斐中二丁目' />
+    <tag k='name:en' v='Koi-naka-nichome (Koi-naka 2)' />
+    <tag k='name:ja' v='己斐中二丁目' />
+    <tag k='name:ja-Hira' v='こいなかにちょうめ' />
+    <tag k='name:ko' v='고이 나카 2초메' />
+    <tag k='name:zh-Hans' v='己斐中二丁目' />
+    <tag k='name:zh-Hant' v='己斐中二丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056370' lat='34.39988576' lon='132.4290923'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70020 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='己斐中二丁目' />
+    <tag k='name:en' v='Koi-naka-nichome (Koi-naka 2)' />
+    <tag k='name:ja' v='己斐中二丁目' />
+    <tag k='name:ja-Hira' v='こいなかにちょうめ' />
+    <tag k='name:ko' v='고이 나카 2초메' />
+    <tag k='name:zh-Hans' v='己斐中二丁目' />
+    <tag k='name:zh-Hant' v='己斐中二丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056371' lat='34.39975239' lon='132.4259092'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70030 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='みどり幼稚園' />
+    <tag k='name:en' v='Midori Yochien (Midori Kindergarten)' />
+    <tag k='name:ja' v='みどり幼稚園' />
+    <tag k='name:ja-Hira' v='みどりようちえん' />
+    <tag k='name:ko' v='미도리 유치원' />
+    <tag k='name:zh-Hans' v='绿幼稚园' />
+    <tag k='name:zh-Hant' v='綠幼稚園' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056372' lat='34.39970239' lon='132.4257925'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70030 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='みどり幼稚園' />
+    <tag k='name:en' v='Midori Yochien (Midori Kindergarten)' />
+    <tag k='name:ja' v='みどり幼稚園' />
+    <tag k='name:ja-Hira' v='みどりようちえん' />
+    <tag k='name:ko' v='미도리 유치원' />
+    <tag k='name:zh-Hans' v='绿幼稚园' />
+    <tag k='name:zh-Hant' v='綠幼稚園' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056373' lat='34.40086887' lon='132.4223428'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70040 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='己斐小学校' />
+    <tag k='name:en' v='Koi Shogakko (Koi Elementary School)' />
+    <tag k='name:ja' v='己斐小学校' />
+    <tag k='name:ja-Hira' v='こいしょうがっこう' />
+    <tag k='name:ko' v='고이 초등학교' />
+    <tag k='name:zh-Hans' v='己斐小学' />
+    <tag k='name:zh-Hant' v='己斐小學' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056374' lat='34.40075222' lon='132.4225094'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70040 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='己斐小学校' />
+    <tag k='name:en' v='Koi Shogakko (Koi Elementary School)' />
+    <tag k='name:ja' v='己斐小学校' />
+    <tag k='name:ja-Hira' v='こいしょうがっこう' />
+    <tag k='name:ko' v='고이 초등학교' />
+    <tag k='name:zh-Hans' v='己斐小学' />
+    <tag k='name:zh-Hant' v='己斐小學' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056375' lat='34.40298528' lon='132.4201095'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70050 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='紅葉園' />
+    <tag k='name:en' v='Koyoen' />
+    <tag k='name:ja' v='紅葉園' />
+    <tag k='name:ja-Hira' v='こうようえん' />
+    <tag k='name:ko' v='고요엔' />
+    <tag k='name:zh-Hans' v='红叶园' />
+    <tag k='name:zh-Hant' v='紅葉園' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056376' lat='34.40293528' lon='132.4200095'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70050 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='紅葉園' />
+    <tag k='name:en' v='Koyoen' />
+    <tag k='name:ja' v='紅葉園' />
+    <tag k='name:ja-Hira' v='こうようえん' />
+    <tag k='name:ko' v='고요엔' />
+    <tag k='name:zh-Hans' v='红叶园' />
+    <tag k='name:zh-Hant' v='紅葉園' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056377' lat='34.40633491' lon='132.4197594'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70060 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='己斐中学校入口' />
+    <tag k='name:en' v='Koi Chugakko-iriguchi (Koi Junior High School)' />
+    <tag k='name:ja' v='己斐中学校入口' />
+    <tag k='name:ja-Hira' v='こいちゅうがっこういりぐち' />
+    <tag k='name:ko' v='고이 중학교' />
+    <tag k='name:zh-Hans' v='己斐中学入口' />
+    <tag k='name:zh-Hant' v='己斐中學入口' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056378' lat='34.40638491' lon='132.4197094'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70060 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='己斐中学校入口' />
+    <tag k='name:en' v='Koi Chugakko-iriguchi (Koi Junior High School)' />
+    <tag k='name:ja' v='己斐中学校入口' />
+    <tag k='name:ja-Hira' v='こいちゅうがっこういりぐち' />
+    <tag k='name:ko' v='고이 중학교' />
+    <tag k='name:zh-Hans' v='己斐中学入口' />
+    <tag k='name:zh-Hant' v='己斐中學入口' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056379' lat='34.40875133' lon='132.4201259'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70070 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='1' />
+    <tag k='name' v='己斐峠入口' />
+    <tag k='name:en' v='Koi-toge-iriguchi' />
+    <tag k='name:ja' v='己斐峠入口' />
+    <tag k='name:ja-Hira' v='こいとうげいりぐち' />
+    <tag k='name:ko' v='고이 토게 이리구치' />
+    <tag k='name:zh-Hans' v='己斐峠入口' />
+    <tag k='name:zh-Hant' v='己斐峠入口' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056380' lat='34.40968456' lon='132.4199926'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70070 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='2' />
+    <tag k='name' v='己斐峠入口' />
+    <tag k='name:en' v='Koi-toge-iriguchi' />
+    <tag k='name:ja' v='己斐峠入口' />
+    <tag k='name:ja-Hira' v='こいとうげいりぐち' />
+    <tag k='name:ko' v='고이 토게 이리구치' />
+    <tag k='name:zh-Hans' v='己斐峠入口' />
+    <tag k='name:zh-Hant' v='己斐峠入口' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056381' lat='34.40936792' lon='132.4197426'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70070 3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='3' />
+    <tag k='name' v='己斐峠入口' />
+    <tag k='name:en' v='Koi-toge-iriguchi' />
+    <tag k='name:ja' v='己斐峠入口' />
+    <tag k='name:ja-Hira' v='こいとうげいりぐち' />
+    <tag k='name:ko' v='고이 토게 이리구치' />
+    <tag k='name:zh-Hans' v='己斐峠入口' />
+    <tag k='name:zh-Hant' v='己斐峠入口' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056382' lat='34.40933458' lon='132.4194426'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70070 4' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='4' />
+    <tag k='name' v='己斐峠入口' />
+    <tag k='name:en' v='Koi-toge-iriguchi' />
+    <tag k='name:ja' v='己斐峠入口' />
+    <tag k='name:ja-Hira' v='こいとうげいりぐち' />
+    <tag k='name:ko' v='고이 토게 이리구치' />
+    <tag k='name:zh-Hans' v='己斐峠入口' />
+    <tag k='name:zh-Hant' v='己斐峠入口' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056383' lat='34.41086779' lon='132.4212091'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70080 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='己斐上四丁目' />
+    <tag k='name:en' v='Koi-ue-yonchome (Koi-ue 4)' />
+    <tag k='name:ja' v='己斐上四丁目' />
+    <tag k='name:ja-Hira' v='こいうえよんちょうめ' />
+    <tag k='name:ko' v='고이 우에 4초메' />
+    <tag k='name:zh-Hans' v='己斐上四丁目' />
+    <tag k='name:zh-Hant' v='己斐上四丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056384' lat='34.41103444' lon='132.4213091'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70080 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='己斐上四丁目' />
+    <tag k='name:en' v='Koi-ue-yonchome (Koi-ue 4)' />
+    <tag k='name:ja' v='己斐上四丁目' />
+    <tag k='name:ja-Hira' v='こいうえよんちょうめ' />
+    <tag k='name:ko' v='고이 우에 4초메' />
+    <tag k='name:zh-Hans' v='己斐上四丁目' />
+    <tag k='name:zh-Hant' v='己斐上四丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056385' lat='34.41265096' lon='132.4230588'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70090 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='己斐上四丁目上' />
+    <tag k='name:en' v='Koi-ue-yonchome-kami (Koi-ue 4-kami)' />
+    <tag k='name:ja' v='己斐上四丁目上' />
+    <tag k='name:ja-Hira' v='こいうえよんちょうめかみ' />
+    <tag k='name:ko' v='고이 우에 4초메 카미' />
+    <tag k='name:zh-Hans' v='己斐上四丁目上' />
+    <tag k='name:zh-Hant' v='己斐上四丁目上' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056386' lat='34.4129176' lon='132.4229588'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70090 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='己斐上四丁目上' />
+    <tag k='name:en' v='Koi-ue-yonchome-kami (Koi-ue 4-kami)' />
+    <tag k='name:ja' v='己斐上四丁目上' />
+    <tag k='name:ja-Hira' v='こいうえよんちょうめかみ' />
+    <tag k='name:ko' v='고이 우에 4초메 카미' />
+    <tag k='name:zh-Hans' v='己斐上四丁目上' />
+    <tag k='name:zh-Hant' v='己斐上四丁目上' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056387' lat='34.41500069' lon='132.4222255'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70100 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='無線台下' />
+    <tag k='name:en' v='Musendai-shita' />
+    <tag k='name:ja' v='無線台下' />
+    <tag k='name:ja-Hira' v='むせんだいした' />
+    <tag k='name:ko' v='무센다이 시타' />
+    <tag k='name:zh-Hans' v='无线台下' />
+    <tag k='name:zh-Hant' v='無線臺下' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056388' lat='34.41520067' lon='132.4222421'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70100 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='無線台下' />
+    <tag k='name:en' v='Musendai-shita' />
+    <tag k='name:ja' v='無線台下' />
+    <tag k='name:ja-Hira' v='むせんだいした' />
+    <tag k='name:ko' v='무센다이 시타' />
+    <tag k='name:zh-Hans' v='无线台下' />
+    <tag k='name:zh-Hant' v='無線臺下' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056389' lat='34.41593391' lon='132.4212422'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70110 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='緑ヶ丘入口' />
+    <tag k='name:en' v='Midorigaoka-iriguchi' />
+    <tag k='name:ja' v='緑ヶ丘入口' />
+    <tag k='name:ja-Hira' v='みどりがおかいりぐち' />
+    <tag k='name:ko' v='미도리가오카 이리구치' />
+    <tag k='name:zh-Hans' v='绿丘入口' />
+    <tag k='name:zh-Hant' v='綠丘入口' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056390' lat='34.4160339' lon='132.4212755'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70110 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='緑ヶ丘入口' />
+    <tag k='name:en' v='Midorigaoka-iriguchi' />
+    <tag k='name:ja' v='緑ヶ丘入口' />
+    <tag k='name:ja-Hira' v='みどりがおかいりぐち' />
+    <tag k='name:ko' v='미도리가오카 이리구치' />
+    <tag k='name:zh-Hans' v='绿丘入口' />
+    <tag k='name:zh-Hant' v='綠丘入口' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056391' lat='34.41586722' lon='132.419659'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70120 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='やまなみ' />
+    <tag k='name:en' v='Yamanami' />
+    <tag k='name:ja' v='やまなみ' />
+    <tag k='name:ja-Hira' v='やまなみ' />
+    <tag k='name:ko' v='야마나미' />
+    <tag k='name:zh-Hans' v='Yamanami' />
+    <tag k='name:zh-Hant' v='Yamanami' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056392' lat='34.41598388' lon='132.419709'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70120 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='やまなみ' />
+    <tag k='name:en' v='Yamanami' />
+    <tag k='name:ja' v='やまなみ' />
+    <tag k='name:ja-Hira' v='やまなみ' />
+    <tag k='name:ko' v='야마나미' />
+    <tag k='name:zh-Hans' v='Yamanami' />
+    <tag k='name:zh-Hant' v='Yamanami' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056393' lat='34.41523394' lon='132.4186424'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70130 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='広電己斐団地' />
+    <tag k='name:en' v='Hiroden Koi Danchi' />
+    <tag k='name:ja' v='広電己斐団地' />
+    <tag k='name:ja-Hira' v='ひろでんこいだんち' />
+    <tag k='name:ko' v='히로덴 코이 단치' />
+    <tag k='name:zh-Hans' v='广电己斐团地' />
+    <tag k='name:zh-Hant' v='廣電己斐團地' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056394' lat='34.41531726' lon='132.4186258'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70130 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='広電己斐団地' />
+    <tag k='name:en' v='Hiroden Koi Danchi' />
+    <tag k='name:ja' v='広電己斐団地' />
+    <tag k='name:ja-Hira' v='ひろでんこいだんち' />
+    <tag k='name:ko' v='히로덴 코이 단치' />
+    <tag k='name:zh-Hans' v='广电己斐团地' />
+    <tag k='name:zh-Hant' v='廣電己斐團地' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056395' lat='34.4143008' lon='132.424092'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70140 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='1' />
+    <tag k='name' v='国迫団地' />
+    <tag k='name:en' v='Kunisako Danchi' />
+    <tag k='name:ja' v='国迫団地' />
+    <tag k='name:ja-Hira' v='くにさこだんち' />
+    <tag k='name:ko' v='구니사코 단치' />
+    <tag k='name:zh-Hans' v='国迫团地' />
+    <tag k='name:zh-Hant' v='國迫團地' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056396' lat='34.4143508' lon='132.4241253'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70140 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='2' />
+    <tag k='name' v='国迫団地' />
+    <tag k='name:en' v='Kunisako Danchi' />
+    <tag k='name:ja' v='国迫団地' />
+    <tag k='name:ja-Hira' v='くにさこだんち' />
+    <tag k='name:ko' v='구니사코 단치' />
+    <tag k='name:zh-Hans' v='国迫团地' />
+    <tag k='name:zh-Hant' v='國迫團地' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056397' lat='34.41435081' lon='132.424742'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70140 3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='3' />
+    <tag k='name' v='国迫団地' />
+    <tag k='name:en' v='Kunisako Danchi' />
+    <tag k='name:ja' v='国迫団地' />
+    <tag k='name:ja-Hira' v='くにさこだんち' />
+    <tag k='name:ko' v='구니사코 단치' />
+    <tag k='name:zh-Hans' v='国迫团地' />
+    <tag k='name:zh-Hant' v='國迫團地' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056398' lat='34.41380086' lon='132.4244753'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70140 4' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='4' />
+    <tag k='name' v='国迫団地' />
+    <tag k='name:en' v='Kunisako Danchi' />
+    <tag k='name:ja' v='国迫団地' />
+    <tag k='name:ja-Hira' v='くにさこだんち' />
+    <tag k='name:ko' v='구니사코 단치' />
+    <tag k='name:zh-Hans' v='国迫团地' />
+    <tag k='name:zh-Hant' v='國迫團地' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056399' lat='34.41573405' lon='132.4280749'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70150 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大迫団地下' />
+    <tag k='name:en' v='Osako Danchi-shimo' />
+    <tag k='name:ja' v='大迫団地下' />
+    <tag k='name:ja-Hira' v='おおさこだんちしも' />
+    <tag k='name:ko' v='오사코 단치 시모' />
+    <tag k='name:zh-Hans' v='大迫团地下' />
+    <tag k='name:zh-Hant' v='大迫團地下' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056400' lat='34.41578404' lon='132.4279083'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70150 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大迫団地下' />
+    <tag k='name:en' v='Osako Danchi-shimo' />
+    <tag k='name:ja' v='大迫団地下' />
+    <tag k='name:ja-Hira' v='おおさこだんちしも' />
+    <tag k='name:ko' v='오사코 단치 시모' />
+    <tag k='name:zh-Hans' v='大迫团地下' />
+    <tag k='name:zh-Hant' v='大迫團地下' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056401' lat='34.41405091' lon='132.4287916'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70160 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大迫団地' />
+    <tag k='name:en' v='Osakodanchi' />
+    <tag k='name:ja' v='大迫団地' />
+    <tag k='name:ja-Hira' v='おおさこだんち' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056402' lat='34.40923455' lon='132.4165595'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70170 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='明山台下' />
+    <tag k='name:en' v='Akeyamadai-shimo' />
+    <tag k='name:ja' v='明山台下' />
+    <tag k='name:ja-Hira' v='あけやまだいしも' />
+    <tag k='name:ko' v='아케야마다이 시모' />
+    <tag k='name:zh-Hans' v='明山台下' />
+    <tag k='name:zh-Hant' v='明山臺下' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056403' lat='34.40918455' lon='132.4165262'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70170 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='明山台下' />
+    <tag k='name:en' v='Akeyamadai-shimo' />
+    <tag k='name:ja' v='明山台下' />
+    <tag k='name:ja-Hira' v='あけやまだいしも' />
+    <tag k='name:ko' v='아케야마다이 시모' />
+    <tag k='name:zh-Hans' v='明山台下' />
+    <tag k='name:zh-Hant' v='明山臺下' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056404' lat='34.40980112' lon='132.414793'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70180 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='明山台中' />
+    <tag k='name:en' v='Akeyamadai-naka' />
+    <tag k='name:ja' v='明山台中' />
+    <tag k='name:ja-Hira' v='あけやまだいなか' />
+    <tag k='name:ko' v='아케야마다이 나카' />
+    <tag k='name:zh-Hans' v='明山台中' />
+    <tag k='name:zh-Hant' v='明山臺中' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056405' lat='34.40975113' lon='132.4147597'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70180 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='明山台中' />
+    <tag k='name:en' v='Akeyamadai-naka' />
+    <tag k='name:ja' v='明山台中' />
+    <tag k='name:ja-Hira' v='あけやまだいなか' />
+    <tag k='name:ko' v='아케야마다이 나카' />
+    <tag k='name:zh-Hans' v='明山台中' />
+    <tag k='name:zh-Hant' v='明山臺中' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056406' lat='34.40808461' lon='132.4132265'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70190 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='閑静園' />
+    <tag k='name:en' v='Kanseien' />
+    <tag k='name:ja' v='閑静園' />
+    <tag k='name:ja-Hira' v='かんせいえん' />
+    <tag k='name:ko' v='간세이엔' />
+    <tag k='name:zh-Hans' v='闲静园' />
+    <tag k='name:zh-Hant' v='閑靜園' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056407' lat='34.40803462' lon='132.4132265'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70190 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='閑静園' />
+    <tag k='name:en' v='Kanseien' />
+    <tag k='name:ja' v='閑静園' />
+    <tag k='name:ja-Hira' v='かんせいえん' />
+    <tag k='name:ko' v='간세이엔' />
+    <tag k='name:zh-Hans' v='闲静园' />
+    <tag k='name:zh-Hant' v='閑靜園' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056408' lat='34.40530153' lon='132.4106935'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70200 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='もみじが丘入口' />
+    <tag k='name:en' v='Momijigaoka-iriguchi' />
+    <tag k='name:ja' v='もみじが丘入口' />
+    <tag k='name:ja-Hira' v='もみじがおかいりぐち' />
+    <tag k='name:ko' v='모미지가오카 이리구치' />
+    <tag k='name:zh-Hans' v='红叶丘入口' />
+    <tag k='name:zh-Hant' v='紅葉丘入口' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056409' lat='34.40515155' lon='132.4108935'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70200 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='もみじが丘入口' />
+    <tag k='name:en' v='Momijigaoka-iriguchi' />
+    <tag k='name:ja' v='もみじが丘入口' />
+    <tag k='name:ja-Hira' v='もみじがおかいりぐち' />
+    <tag k='name:ko' v='모미지가오카 이리구치' />
+    <tag k='name:zh-Hans' v='红叶丘入口' />
+    <tag k='name:zh-Hant' v='紅葉丘入口' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056410' lat='34.4033351' lon='132.4121435'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70210 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='もみじが丘中央' />
+    <tag k='name:en' v='Momijigaoka-chuo' />
+    <tag k='name:ja' v='もみじが丘中央' />
+    <tag k='name:ja-Hira' v='もみじがおかちゅうおう' />
+    <tag k='name:ko' v='모미지가오카 추오' />
+    <tag k='name:zh-Hans' v='红叶丘中央' />
+    <tag k='name:zh-Hant' v='紅葉丘中央' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056411' lat='34.40315178' lon='132.4120935'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70210 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='もみじが丘中央' />
+    <tag k='name:en' v='Momijigaoka-chuo' />
+    <tag k='name:ja' v='もみじが丘中央' />
+    <tag k='name:ja-Hira' v='もみじがおかちゅうおう' />
+    <tag k='name:ko' v='모미지가오카 추오' />
+    <tag k='name:zh-Hans' v='红叶丘中央' />
+    <tag k='name:zh-Hant' v='紅葉丘中央' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056412' lat='34.40211856' lon='132.4122102'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70220 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='もみじが丘南' />
+    <tag k='name:en' v='Momijigaoka-minami' />
+    <tag k='name:ja' v='もみじが丘南' />
+    <tag k='name:ja-Hira' v='もみじがおかみなみ' />
+    <tag k='name:ko' v='모미지가오카 미나미' />
+    <tag k='name:zh-Hans' v='红叶丘南' />
+    <tag k='name:zh-Hant' v='紅葉丘南' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056413' lat='34.40221855' lon='132.4121102'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70220 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='もみじが丘南' />
+    <tag k='name:en' v='Momijigaoka-minami' />
+    <tag k='name:ja' v='もみじが丘南' />
+    <tag k='name:ja-Hira' v='もみじがおかみなみ' />
+    <tag k='name:ko' v='모미지가오카 미나미' />
+    <tag k='name:zh-Hans' v='红叶丘南' />
+    <tag k='name:zh-Hant' v='紅葉丘南' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056414' lat='34.40406837' lon='132.4132434'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70230 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='もみじが丘第二公園' />
+    <tag k='name:en' v='Momijigaoka Daini Koen (Momijigaoka Daini Park)' />
+    <tag k='name:ja' v='もみじが丘第二公園' />
+    <tag k='name:ja-Hira' v='もみじがおかだいにこうえん' />
+    <tag k='name:ko' v='모미지가오카 다이니 공원' />
+    <tag k='name:zh-Hans' v='红叶丘第二公园' />
+    <tag k='name:zh-Hant' v='紅葉丘第二公園' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056415' lat='34.40405171' lon='132.4130767'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70230 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='もみじが丘第二公園' />
+    <tag k='name:en' v='Momijigaoka Daini Koen (Momijigaoka Daini Park)' />
+    <tag k='name:ja' v='もみじが丘第二公園' />
+    <tag k='name:ja-Hira' v='もみじがおかだいにこうえん' />
+    <tag k='name:ko' v='모미지가오카 다이니 공원' />
+    <tag k='name:zh-Hans' v='红叶丘第二公园' />
+    <tag k='name:zh-Hant' v='紅葉丘第二公園' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056416' lat='34.40486831' lon='132.4144766'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70240 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='共立ハイツ上' />
+    <tag k='name:en' v='Kyoritsu Heights-kami' />
+    <tag k='name:ja' v='共立ハイツ上' />
+    <tag k='name:ja-Hira' v='きょうりつはいつかみ' />
+    <tag k='name:ko' v='교리쓰 하이츠 카미' />
+    <tag k='name:zh-Hans' v='共立公寓上' />
+    <tag k='name:zh-Hant' v='共立公寓上' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056417' lat='34.40478498' lon='132.4143433'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70240 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='共立ハイツ上' />
+    <tag k='name:en' v='Kyoritsu Heights-kami' />
+    <tag k='name:ja' v='共立ハイツ上' />
+    <tag k='name:ja-Hira' v='きょうりつはいつかみ' />
+    <tag k='name:ko' v='교리쓰 하이츠 카미' />
+    <tag k='name:zh-Hans' v='共立公寓上' />
+    <tag k='name:zh-Hant' v='共立公寓上' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056418' lat='34.40435173' lon='132.4163098'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70250 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='共立ハイツ' />
+    <tag k='name:en' v='Kyoritsu Heights' />
+    <tag k='name:ja' v='共立ハイツ' />
+    <tag k='name:ja-Hira' v='きょうりつはいつ' />
+    <tag k='name:ko' v='교리쓰 하이츠' />
+    <tag k='name:zh-Hans' v='共立公寓' />
+    <tag k='name:zh-Hant' v='共立公寓' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056419' lat='34.42603248' lon='132.4012434'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70570 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='五月が丘三丁目' />
+    <tag k='name:en' v='Satsukigaoka-sanchome (Satsukigaoka 3)' />
+    <tag k='name:ja' v='五月が丘三丁目' />
+    <tag k='name:ja-Hira' v='さつきがおかさんちょうめ' />
+    <tag k='name:ko' v='사쓰키가오카 3초메' />
+    <tag k='name:zh-Hans' v='五月丘三丁目' />
+    <tag k='name:zh-Hant' v='五月丘三丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056420' lat='34.42576584' lon='132.40131'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70570 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='五月が丘三丁目' />
+    <tag k='name:en' v='Satsukigaoka-sanchome (Satsukigaoka 3)' />
+    <tag k='name:ja' v='五月が丘三丁目' />
+    <tag k='name:ja-Hira' v='さつきがおかさんちょうめ' />
+    <tag k='name:ko' v='사쓰키가오카 3초메' />
+    <tag k='name:zh-Hans' v='五月丘三丁目' />
+    <tag k='name:zh-Hant' v='五月丘三丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056421' lat='34.42173293' lon='132.4005603'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70580 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='五月が丘二丁目' />
+    <tag k='name:en' v='Satsukigaoka-nichome (Satsukigaoka 2)' />
+    <tag k='name:ja' v='五月が丘二丁目' />
+    <tag k='name:ja-Hira' v='さつきがおかにちょうめ' />
+    <tag k='name:ko' v='사쓰키가오카 2초메' />
+    <tag k='name:zh-Hans' v='五月丘二丁目' />
+    <tag k='name:zh-Hant' v='五月丘二丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056422' lat='34.42196624' lon='132.4007269'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70580 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='五月が丘二丁目' />
+    <tag k='name:en' v='Satsukigaoka-nichome (Satsukigaoka 2)' />
+    <tag k='name:ja' v='五月が丘二丁目' />
+    <tag k='name:ja-Hira' v='さつきがおかにちょうめ' />
+    <tag k='name:ko' v='사쓰키가오카 2초메' />
+    <tag k='name:zh-Hans' v='五月丘二丁目' />
+    <tag k='name:zh-Hant' v='五月丘二丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056423' lat='34.41806668' lon='132.401777'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70590 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='五月が丘一丁目' />
+    <tag k='name:en' v='Satsukigaoka-itchome (Satsukigaoka 1)' />
+    <tag k='name:ja' v='五月が丘一丁目' />
+    <tag k='name:ja-Hira' v='さつきがおかいっちょうめ' />
+    <tag k='name:ko' v='사쓰키가오카 1초메' />
+    <tag k='name:zh-Hans' v='五月丘一丁目' />
+    <tag k='name:zh-Hant' v='五月丘一丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056424' lat='34.41829998' lon='132.4017437'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70590 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='五月が丘一丁目' />
+    <tag k='name:en' v='Satsukigaoka-itchome (Satsukigaoka 1)' />
+    <tag k='name:ja' v='五月が丘一丁目' />
+    <tag k='name:ja-Hira' v='さつきがおかいっちょうめ' />
+    <tag k='name:ko' v='사쓰키가오카 1초메' />
+    <tag k='name:zh-Hans' v='五月丘一丁目' />
+    <tag k='name:zh-Hant' v='五月丘一丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056425' lat='34.42854892' lon='132.4034931'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70630 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='五月が丘四丁目' />
+    <tag k='name:en' v='Satsukigaoka-yonchome (Satsukigaoka 4)' />
+    <tag k='name:ja' v='五月が丘四丁目' />
+    <tag k='name:ja-Hira' v='さつきがおかよんちょうめ' />
+    <tag k='name:ko' v='사쓰키가오카 4초메' />
+    <tag k='name:zh-Hans' v='五月丘四丁目' />
+    <tag k='name:zh-Hant' v='五月丘四丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056426' lat='34.42849892' lon='132.4032431'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70630 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='五月が丘四丁目' />
+    <tag k='name:en' v='Satsukigaoka-yonchome (Satsukigaoka 4)' />
+    <tag k='name:ja' v='五月が丘四丁目' />
+    <tag k='name:ja-Hira' v='さつきがおかよんちょうめ' />
+    <tag k='name:ko' v='사쓰키가오카 4초메' />
+    <tag k='name:zh-Hans' v='五月丘四丁目' />
+    <tag k='name:zh-Hant' v='五月丘四丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056427' lat='34.42901557' lon='132.4052929'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70640 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='五月が丘四丁目上' />
+    <tag k='name:en' v='Satsukigaoka-yonchome-kami (Satsukigaoka 4-kami)' />
+    <tag k='name:ja' v='五月が丘四丁目上' />
+    <tag k='name:ja-Hira' v='さつきがおかよんちょうめかみ' />
+    <tag k='name:ko' v='사쓰키가오카 4초메 카미' />
+    <tag k='name:zh-Hans' v='五月丘四丁目上' />
+    <tag k='name:zh-Hant' v='五月丘四丁目上' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056428' lat='34.42904889' lon='132.4051929'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70640 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='五月が丘四丁目上' />
+    <tag k='name:en' v='Satsukigaoka-yonchome-kami (Satsukigaoka 4-kami)' />
+    <tag k='name:ja' v='五月が丘四丁目上' />
+    <tag k='name:ja-Hira' v='さつきがおかよんちょうめかみ' />
+    <tag k='name:ko' v='사쓰키가오카 4초메 카미' />
+    <tag k='name:zh-Hans' v='五月丘四丁目上' />
+    <tag k='name:zh-Hant' v='五月丘四丁目上' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056429' lat='34.43034875' lon='132.4049929'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70650 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='五月が丘団地' />
+    <tag k='name:ja' v='五月が丘団地' />
+    <tag k='name:ja-Hira' v='さつきがおかだんち' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056430' lat='34.41293415' lon='132.4164427'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70920 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='1' />
+    <tag k='name' v='広電己斐団地入口' />
+    <tag k='name:en' v='Hiroden Koi Danchi-iriguchi' />
+    <tag k='name:ja' v='広電己斐団地入口' />
+    <tag k='name:ja-Hira' v='ひろでんこいだんちいりぐち' />
+    <tag k='name:ko' v='히로덴 코이 단치 이리구치' />
+    <tag k='name:zh-Hans' v='广电己斐团地入口' />
+    <tag k='name:zh-Hant' v='廣電己斐團地入口' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056431' lat='34.41260085' lon='132.416626'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70920 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='2' />
+    <tag k='name' v='広電己斐団地入口' />
+    <tag k='name:en' v='Hiroden Koi Danchi-iriguchi' />
+    <tag k='name:ja' v='広電己斐団地入口' />
+    <tag k='name:ja-Hira' v='ひろでんこいだんちいりぐち' />
+    <tag k='name:ko' v='히로덴 코이 단치 이리구치' />
+    <tag k='name:zh-Hans' v='广电己斐团地入口' />
+    <tag k='name:zh-Hant' v='廣電己斐團地入口' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056432' lat='34.41300082' lon='132.417076'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70920 3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='3' />
+    <tag k='name' v='広電己斐団地入口' />
+    <tag k='name:en' v='Hiroden Koi Danchi-iriguchi' />
+    <tag k='name:ja' v='広電己斐団地入口' />
+    <tag k='name:ja-Hira' v='ひろでんこいだんちいりぐち' />
+    <tag k='name:ko' v='히로덴 코이 단치 이리구치' />
+    <tag k='name:zh-Hans' v='广电己斐团地入口' />
+    <tag k='name:zh-Hant' v='廣電己斐團地入口' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056433' lat='34.41300081' lon='132.4168427'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70920 4' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='4' />
+    <tag k='name' v='広電己斐団地入口' />
+    <tag k='name:en' v='Hiroden Koi Danchi-iriguchi' />
+    <tag k='name:ja' v='広電己斐団地入口' />
+    <tag k='name:ja-Hira' v='ひろでんこいだんちいりぐち' />
+    <tag k='name:ko' v='히로덴 코이 단치 이리구치' />
+    <tag k='name:zh-Hans' v='广电己斐团地入口' />
+    <tag k='name:zh-Hant' v='廣電己斐團地入口' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056434' lat='34.41610038' lon='132.4109597'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70930 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='己斐峠' />
+    <tag k='name:en' v='Koi-toge' />
+    <tag k='name:ja' v='己斐峠' />
+    <tag k='name:ja-Hira' v='こいとうげ' />
+    <tag k='name:ko' v='고이 토게' />
+    <tag k='name:zh-Hans' v='己斐峠' />
+    <tag k='name:zh-Hant' v='己斐峠' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056435' lat='34.41590039' lon='132.4101764'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70930 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='己斐峠' />
+    <tag k='name:en' v='Koi-toge' />
+    <tag k='name:ja' v='己斐峠' />
+    <tag k='name:ja-Hira' v='こいとうげ' />
+    <tag k='name:ko' v='고이 토게' />
+    <tag k='name:zh-Hans' v='己斐峠' />
+    <tag k='name:zh-Hant' v='己斐峠' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056436' lat='34.41075106' lon='132.4172427'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70940 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='己斐上三丁目' />
+    <tag k='name:en' v='Koi-ue-sanchome (Koi-ue 3)' />
+    <tag k='name:ja' v='己斐上三丁目' />
+    <tag k='name:ja-Hira' v='こいうえさんちょうめ' />
+    <tag k='name:ko' v='고이 우에 3초메' />
+    <tag k='name:zh-Hans' v='己斐上三丁目' />
+    <tag k='name:zh-Hant' v='己斐上三丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056437' lat='34.41075106' lon='132.4170928'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70940 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='己斐上三丁目' />
+    <tag k='name:en' v='Koi-ue-sanchome (Koi-ue 3)' />
+    <tag k='name:ja' v='己斐上三丁目' />
+    <tag k='name:ja-Hira' v='こいうえさんちょうめ' />
+    <tag k='name:ko' v='고이 우에 3초메' />
+    <tag k='name:zh-Hans' v='己斐上三丁目' />
+    <tag k='name:zh-Hant' v='己斐上三丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056438' lat='34.40115203' lon='132.4136102'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70970 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='高須台五丁目' />
+    <tag k='name:en' v='Takasudai-gochome (Takasudai 5)' />
+    <tag k='name:ja' v='高須台五丁目' />
+    <tag k='name:ja-Hira' v='たかすだいごちょうめ' />
+    <tag k='name:ko' v='다카스다이 5초메' />
+    <tag k='name:zh-Hans' v='高须台五丁目' />
+    <tag k='name:zh-Hant' v='高須臺五丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056439' lat='34.40106869' lon='132.4127602'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70970 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='高須台五丁目' />
+    <tag k='name:en' v='Takasudai-gochome (Takasudai 5)' />
+    <tag k='name:ja' v='高須台五丁目' />
+    <tag k='name:ja-Hira' v='たかすだいごちょうめ' />
+    <tag k='name:ko' v='다카스다이 5초메' />
+    <tag k='name:zh-Hans' v='高须台五丁目' />
+    <tag k='name:zh-Hant' v='高須臺五丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056440' lat='34.40115208' lon='132.4166099'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70980 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='高須台四丁目' />
+    <tag k='name:en' v='Takasudai-yonchome (Takasudai 4)' />
+    <tag k='name:ja' v='高須台四丁目' />
+    <tag k='name:ja-Hira' v='たかすだいよんちょうめ' />
+    <tag k='name:ko' v='다카스다이 4초메' />
+    <tag k='name:zh-Hans' v='高须台四丁目' />
+    <tag k='name:zh-Hant' v='高須臺四丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056441' lat='34.40100208' lon='132.41591'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70980 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='高須台四丁目' />
+    <tag k='name:en' v='Takasudai-yonchome (Takasudai 4)' />
+    <tag k='name:ja' v='高須台四丁目' />
+    <tag k='name:ja-Hira' v='たかすだいよんちょうめ' />
+    <tag k='name:ko' v='다카스다이 4초메' />
+    <tag k='name:zh-Hans' v='高须台四丁目' />
+    <tag k='name:zh-Hant' v='高須臺四丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056442' lat='34.39900233' lon='132.4177099'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70990 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='高須台中央' />
+    <tag k='name:en' v='Takasudai-chuo' />
+    <tag k='name:ja' v='高須台中央' />
+    <tag k='name:ja-Hira' v='たかすだいちゅうおう' />
+    <tag k='name:ko' v='다카스다이 추오' />
+    <tag k='name:zh-Hans' v='高须台中央' />
+    <tag k='name:zh-Hant' v='高須臺中央' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056443' lat='34.39890233' lon='132.4175599'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='70990 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='高須台中央' />
+    <tag k='name:en' v='Takasudai-chuo' />
+    <tag k='name:ja' v='高須台中央' />
+    <tag k='name:ja-Hira' v='たかすだいちゅうおう' />
+    <tag k='name:ko' v='다카스다이 추오' />
+    <tag k='name:zh-Hans' v='高须台中央' />
+    <tag k='name:zh-Hant' v='高須臺中央' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056444' lat='34.39691917' lon='132.4149102'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71000 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='高須小学校' />
+    <tag k='name:en' v='Takasu Shogakko (Takasu Elementary School)' />
+    <tag k='name:ja' v='高須小学校' />
+    <tag k='name:ja-Hira' v='たかすしょうがっこう' />
+    <tag k='name:ko' v='다카스 초등학교' />
+    <tag k='name:zh-Hans' v='高须小学' />
+    <tag k='name:zh-Hant' v='高須小學' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056445' lat='34.39703581' lon='132.4143936'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71000 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='高須小学校' />
+    <tag k='name:en' v='Takasu Shogakko (Takasu Elementary School)' />
+    <tag k='name:ja' v='高須小学校' />
+    <tag k='name:ja-Hira' v='たかすしょうがっこう' />
+    <tag k='name:ko' v='다카스 초등학교' />
+    <tag k='name:zh-Hans' v='高须小学' />
+    <tag k='name:zh-Hant' v='高須小學' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056446' lat='34.39465267' lon='132.410644'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71010 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='学院東門前' />
+    <tag k='name:en' v='Gakuin-higashimon-mae' />
+    <tag k='name:ja' v='学院東門前' />
+    <tag k='name:ja-Hira' v='がくいんひがしもんまえ' />
+    <tag k='name:ko' v='가쿠인 히가시몬 마에' />
+    <tag k='name:zh-Hans' v='学院东门前' />
+    <tag k='name:zh-Hant' v='學院東門前' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056447' lat='34.39465267' lon='132.410544'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71010 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='学院東門前（ＨＤ）' />
+    <tag k='name:en' v='Gakuin-higashimon-mae' />
+    <tag k='name:ja' v='学院東門前（ＨＤ）' />
+    <tag k='name:ja-Hira' v='がくいんひがしもんまえ' />
+    <tag k='name:ko' v='가쿠인 히가시몬 마에' />
+    <tag k='name:zh-Hans' v='学院东门前' />
+    <tag k='name:zh-Hant' v='學院東門前' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056448' lat='34.39390279' lon='132.4129939'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71020 4' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='古江' />
+    <tag k='name:en' v='Furue' />
+    <tag k='name:ja' v='古江' />
+    <tag k='name:ja-Hira' v='ふるえ' />
+    <tag k='name:ko' v='후루에' />
+    <tag k='name:zh-Hans' v='古江' />
+    <tag k='name:zh-Hant' v='古江' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056449' lat='34.39391945' lon='132.4128272'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71020 5' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='古江' />
+    <tag k='name:en' v='Furue' />
+    <tag k='name:ja' v='古江' />
+    <tag k='name:ja-Hira' v='ふるえ' />
+    <tag k='name:ko' v='후루에' />
+    <tag k='name:zh-Hans' v='古江' />
+    <tag k='name:zh-Hant' v='古江' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056450' lat='34.39416965' lon='132.4256095'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71040 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='1' />
+    <tag k='name' v='己斐本町２丁目' />
+    <tag k='name:en' v='Koi-honmachi-nichome (Koi-honmachi 3)' />
+    <tag k='name:ja' v='己斐本町２丁目' />
+    <tag k='name:ja-Hira' v='こいほんまちにちょうめ' />
+    <tag k='name:ko' v='고이혼마치 2초메' />
+    <tag k='name:zh-Hans' v='己斐本町2丁目' />
+    <tag k='name:zh-Hant' v='己斐本町2丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056451' lat='34.39325307' lon='132.4250596'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71040 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='2' />
+    <tag k='name' v='己斐本町２丁目' />
+    <tag k='name:en' v='Koi-honmachi-nichome (Koi-honmachi 3)' />
+    <tag k='name:ja' v='己斐本町２丁目' />
+    <tag k='name:ja-Hira' v='こいほんまちにちょうめ' />
+    <tag k='name:ko' v='고이혼마치 2초메' />
+    <tag k='name:zh-Hans' v='己斐本町2丁目' />
+    <tag k='name:zh-Hant' v='己斐本町2丁目' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056452' lat='34.3965861' lon='132.4280592'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71050 4' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='4' />
+    <tag k='name' v='西広島駅・己斐' />
+    <tag k='name:en' v='Nishi-hiroshima Sta./Koi' />
+    <tag k='name:ja' v='西広島駅・己斐' />
+    <tag k='name:ja-Hira' v='にしひろしまえきこい' />
+    <tag k='name:ko' v='니시히로시마 역·코이' />
+    <tag k='name:zh-Hans' v='西广岛站・己斐' />
+    <tag k='name:zh-Hant' v='西廣島站・己斐' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056453' lat='34.39650277' lon='132.4276925'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71050 6' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='5' />
+    <tag k='name' v='西広島駅・己斐' />
+    <tag k='name:en' v='Nishi-hiroshima Sta./Koi' />
+    <tag k='name:ja' v='西広島駅・己斐' />
+    <tag k='name:ja-Hira' v='にしひろしまえきこい' />
+    <tag k='name:ko' v='니시히로시마 역·코이' />
+    <tag k='name:zh-Hans' v='西广岛站・己斐' />
+    <tag k='name:zh-Hant' v='西廣島站・己斐' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056454' lat='34.39865277' lon='132.4410747'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71070 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='上天満町' />
+    <tag k='name:en' v='Kami-tenmacho' />
+    <tag k='name:ja' v='上天満町' />
+    <tag k='name:ja-Hira' v='かみてんまちょう' />
+    <tag k='name:ko' v='가미텐마초' />
+    <tag k='name:zh-Hans' v='上天满町' />
+    <tag k='name:zh-Hant' v='上天滿町' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056455' lat='34.39843613' lon='132.4411747'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71070 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='上天満町' />
+    <tag k='name:en' v='Kami-tenmacho' />
+    <tag k='name:ja' v='上天満町' />
+    <tag k='name:ja-Hira' v='かみてんまちょう' />
+    <tag k='name:ko' v='가미텐마초' />
+    <tag k='name:zh-Hans' v='上天满町' />
+    <tag k='name:zh-Hant' v='上天滿町' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056456' lat='34.39731971' lon='132.4484074'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71080 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='1' />
+    <tag k='name' v='十日市' />
+    <tag k='name:en' v='Tokaichi' />
+    <tag k='name:ja' v='十日市' />
+    <tag k='name:ja-Hira' v='とうかいち' />
+    <tag k='name:ko' v='도카이치' />
+    <tag k='name:zh-Hans' v='十日市' />
+    <tag k='name:zh-Hant' v='十日市' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056457' lat='34.39703641' lon='132.4484741'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71080 3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='3' />
+    <tag k='name' v='十日市' />
+    <tag k='name:en' v='Tokaichi' />
+    <tag k='name:ja' v='十日市' />
+    <tag k='name:ja-Hira' v='とうかいち' />
+    <tag k='name:ko' v='도카이치' />
+    <tag k='name:zh-Hans' v='十日市' />
+    <tag k='name:zh-Hant' v='十日市' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056458' lat='34.4144506' lon='132.4137595'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71100 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='己斐城山墓苑前' />
+    <tag k='name:en' v='Koi Shiroyama Boen-mae' />
+    <tag k='name:ja' v='己斐城山墓苑前' />
+    <tag k='name:ja-Hira' v='こいしろやまぼえんまえ' />
+    <tag k='name:ko' v='고이 시로야마 보엔 마에' />
+    <tag k='name:zh-Hans' v='己斐城山墓苑前' />
+    <tag k='name:zh-Hant' v='己斐城山墓苑前' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056459' lat='34.41471725' lon='132.4139928'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71100 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='己斐城山墓苑前' />
+    <tag k='name:en' v='Koi Shiroyama Boen-mae' />
+    <tag k='name:ja' v='己斐城山墓苑前' />
+    <tag k='name:ja-Hira' v='こいしろやまぼえんまえ' />
+    <tag k='name:ko' v='고이 시로야마 보엔 마에' />
+    <tag k='name:zh-Hans' v='己斐城山墓苑前' />
+    <tag k='name:zh-Hant' v='己斐城山墓苑前' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056460' lat='34.41073451' lon='132.4239255'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71110 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='日生東団地' />
+    <tag k='name:en' v='Nissei-higashi Danchi' />
+    <tag k='name:ja' v='日生東団地' />
+    <tag k='name:ja-Hira' v='にっせいひがしだんち' />
+    <tag k='name:ko' v='닛세이 히가시 단치' />
+    <tag k='name:zh-Hans' v='日生东团地' />
+    <tag k='name:zh-Hant' v='日生東團地' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056461' lat='34.41080117' lon='132.4239422'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71110 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='日生東団地' />
+    <tag k='name:en' v='Nissei-higashi Danchi' />
+    <tag k='name:ja' v='日生東団地' />
+    <tag k='name:ja-Hira' v='にっせいひがしだんち' />
+    <tag k='name:ko' v='닛세이 히가시 단치' />
+    <tag k='name:zh-Hans' v='日生东团地' />
+    <tag k='name:zh-Hant' v='日生東團地' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056462' lat='34.39513679' lon='132.45884'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71130 22' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='22' />
+    <tag k='name' v='紙屋町(紙屋町東電停前)' />
+    <tag k='name:en' v='Kamiyacho' />
+    <tag k='name:ja' v='紙屋町(紙屋町東電停前)' />
+    <tag k='name:ja-Hira' v='かみやちょう' />
+    <tag k='name:ko' v='가미야초' />
+    <tag k='name:zh-Hans' v='纸屋町' />
+    <tag k='name:zh-Hant' v='紙屋町' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056463' lat='34.39555336' lon='132.4559236'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71130 33' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='33' />
+    <tag k='name' v='紙屋町(エディオン西館前)' />
+    <tag k='name:en' v='Kamiyacho' />
+    <tag k='name:ja' v='紙屋町(エディオン西館前)' />
+    <tag k='name:ja-Hira' v='かみやちょう' />
+    <tag k='name:ko' v='가미야초' />
+    <tag k='name:zh-Hans' v='纸屋町' />
+    <tag k='name:zh-Hant' v='紙屋町' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056464' lat='34.39610328' lon='132.454807'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71140 27' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='27' />
+    <tag k='name' v='紙屋町' />
+    <tag k='name:ja' v='紙屋町' />
+    <tag k='name:ja-Hira' v='かみやちょう' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056465' lat='34.39728618' lon='132.437125'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71150 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='都町' />
+    <tag k='name:en' v='Miyakomachi' />
+    <tag k='name:ja' v='都町' />
+    <tag k='name:ja-Hira' v='みやこまち' />
+    <tag k='name:ko' v='미야코마치' />
+    <tag k='name:zh-Hans' v='都町' />
+    <tag k='name:zh-Hant' v='都町' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056466' lat='34.3969529' lon='132.437825'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71150 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='都町' />
+    <tag k='name:en' v='Miyakomachi' />
+    <tag k='name:ja' v='都町' />
+    <tag k='name:ja-Hira' v='みやこまち' />
+    <tag k='name:ko' v='미야코마치' />
+    <tag k='name:zh-Hans' v='都町' />
+    <tag k='name:zh-Hant' v='都町' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056467' lat='34.39775277' lon='132.4357418'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71160 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='福島町' />
+    <tag k='name:en' v='Fukushimacho' />
+    <tag k='name:ja' v='福島町' />
+    <tag k='name:ja-Hira' v='ふくしまちょう' />
+    <tag k='name:ko' v='후쿠시마초' />
+    <tag k='name:zh-Hans' v='福岛町' />
+    <tag k='name:zh-Hant' v='福島町' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056468' lat='34.39775277' lon='132.4355418'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71160 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='福島町' />
+    <tag k='name:en' v='Fukushimacho' />
+    <tag k='name:ja' v='福島町' />
+    <tag k='name:ja-Hira' v='ふくしまちょう' />
+    <tag k='name:ko' v='후쿠시마초' />
+    <tag k='name:zh-Hans' v='福岛町' />
+    <tag k='name:zh-Hant' v='福島町' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056469' lat='34.39433693' lon='132.4619731'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71170 6' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='6' />
+    <tag k='name' v='八丁堀(東急ハンズ前)' />
+    <tag k='name:en' v='Hatchobori' />
+    <tag k='name:ja' v='八丁堀(東急ハンズ前)' />
+    <tag k='name:ja-Hira' v='はっちょうぼり' />
+    <tag k='name:ko' v='핫초보리' />
+    <tag k='name:zh-Hans' v='八丁堀' />
+    <tag k='name:zh-Hant' v='八丁堀' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056470' lat='34.40233548' lon='132.4279756'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71180 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='イトーピア入口' />
+    <tag k='name:en' v='Itopia-iriguchi' />
+    <tag k='name:ja' v='イトーピア入口' />
+    <tag k='name:ja-Hira' v='いとーぴあいりぐち' />
+    <tag k='name:ko' v='이토피아 이리구치' />
+    <tag k='name:zh-Hans' v='ITOHPIA入口' />
+    <tag k='name:zh-Hant' v='ITOHPIA入口' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056471' lat='34.40230216' lon='132.4281256'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71180 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='イトーピア入口' />
+    <tag k='name:en' v='Itopia-iriguchi' />
+    <tag k='name:ja' v='イトーピア入口' />
+    <tag k='name:ja-Hira' v='いとーぴあいりぐち' />
+    <tag k='name:ko' v='이토피아 이리구치' />
+    <tag k='name:zh-Hans' v='ITOHPIA入口' />
+    <tag k='name:zh-Hant' v='ITOHPIA入口' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056472' lat='34.40368533' lon='132.4277255'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71190 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='集会所前' />
+    <tag k='name:en' v='Shukaisho-mae' />
+    <tag k='name:ja' v='集会所前' />
+    <tag k='name:ja-Hira' v='しゅうかいしょまえ' />
+    <tag k='name:ko' v='슈카이쇼 마에' />
+    <tag k='name:zh-Hans' v='集会所前' />
+    <tag k='name:zh-Hant' v='集會所前' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056473' lat='34.40345202' lon='132.4273756'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71190 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='集会所前' />
+    <tag k='name:en' v='Shukaisho-mae' />
+    <tag k='name:ja' v='集会所前' />
+    <tag k='name:ja-Hira' v='しゅうかいしょまえ' />
+    <tag k='name:ko' v='슈카이쇼 마에' />
+    <tag k='name:zh-Hans' v='集会所前' />
+    <tag k='name:zh-Hant' v='集會所前' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056474' lat='34.40568511' lon='132.4270922'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71200 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='観音堂入口' />
+    <tag k='name:en' v='Kanondo-iriguchi' />
+    <tag k='name:ja' v='観音堂入口' />
+    <tag k='name:ja-Hira' v='かんおんどういりぐち' />
+    <tag k='name:ko' v='간온도 이리구치' />
+    <tag k='name:zh-Hans' v='观音堂入口' />
+    <tag k='name:zh-Hant' v='觀音堂入口' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056475' lat='34.40560178' lon='132.4266089'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71200 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='観音堂入口' />
+    <tag k='name:en' v='Kanondo-iriguchi' />
+    <tag k='name:ja' v='観音堂入口' />
+    <tag k='name:ja-Hira' v='かんおんどういりぐち' />
+    <tag k='name:ko' v='간온도 이리구치' />
+    <tag k='name:zh-Hans' v='观音堂入口' />
+    <tag k='name:zh-Hant' v='觀音堂入口' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056476' lat='34.40618497' lon='132.4221759'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71210 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='1' />
+    <tag k='name' v='フジハイツ消防署前' />
+    <tag k='name:en' v='Fuji Heights Shobosho-mae (Fuji Heights Fire Station)' />
+    <tag k='name:ja' v='フジハイツ消防署前' />
+    <tag k='name:ja-Hira' v='ふじはいつしょうぼうしょまえ' />
+    <tag k='name:ko' v='후지 하이츠 소방서' />
+    <tag k='name:zh-Hans' v='Fuji Heights消防署前' />
+    <tag k='name:zh-Hant' v='Fuji Heights消防署前' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056477' lat='34.40613497' lon='132.4221259'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71210 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='2' />
+    <tag k='name' v='フジハイツ消防署前' />
+    <tag k='name:en' v='Fuji Heights Shobosho-mae (Fuji Heights Fire Station)' />
+    <tag k='name:ja' v='フジハイツ消防署前' />
+    <tag k='name:ja-Hira' v='ふじはいつしょうぼうしょまえ' />
+    <tag k='name:ko' v='후지 하이츠 소방서' />
+    <tag k='name:zh-Hans' v='Fuji Heights消防署前' />
+    <tag k='name:zh-Hant' v='Fuji Heights消防署前' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056478' lat='34.4056017' lon='132.4223926'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71210 3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='3' />
+    <tag k='name' v='フジハイツ消防署前' />
+    <tag k='name:en' v='Fuji Heights Shobosho-mae (Fuji Heights Fire Station)' />
+    <tag k='name:ja' v='フジハイツ消防署前' />
+    <tag k='name:ja-Hira' v='ふじはいつしょうぼうしょまえ' />
+    <tag k='name:ko' v='후지 하이츠 소방서' />
+    <tag k='name:zh-Hans' v='Fuji Heights消防署前' />
+    <tag k='name:zh-Hant' v='Fuji Heights消防署前' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056479' lat='34.40553504' lon='132.4224759'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71210 4' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='4' />
+    <tag k='name' v='フジハイツ消防署前' />
+    <tag k='name:en' v='Fuji Heights Shobosho-mae (Fuji Heights Fire Station)' />
+    <tag k='name:ja' v='フジハイツ消防署前' />
+    <tag k='name:ja-Hira' v='ふじはいつしょうぼうしょまえ' />
+    <tag k='name:ko' v='후지 하이츠 소방서' />
+    <tag k='name:zh-Hans' v='Fuji Heights消防署前' />
+    <tag k='name:zh-Hant' v='Fuji Heights消防署前' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056480' lat='34.40325198' lon='132.4236092'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71220 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='フジハイツ第二公園' />
+    <tag k='name:en' v='Fuji Heights Daini Koen (Fuji Heights Daini Park)' />
+    <tag k='name:ja' v='フジハイツ第二公園' />
+    <tag k='name:ja-Hira' v='ふじはいつだいにこうえん' />
+    <tag k='name:ko' v='후지 하이츠 공원' />
+    <tag k='name:zh-Hans' v='Fuji Heights第二公园' />
+    <tag k='name:zh-Hant' v='Fuji Heights第二公園' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056481' lat='34.40620172' lon='132.4268922'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71230 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='己斐東小学校前' />
+    <tag k='name:en' v='Koi-higashi Shogakko-mae (Koi-higashi Elementary School)' />
+    <tag k='name:ja' v='己斐東小学校前' />
+    <tag k='name:ja-Hira' v='こいひがししょうがっこうまえ' />
+    <tag k='name:ko' v='고이 히가시 초등학교' />
+    <tag k='name:zh-Hans' v='己斐东小学前' />
+    <tag k='name:zh-Hant' v='己斐東小學前' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056482' lat='34.40618506' lon='132.4271088'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71230 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='己斐東小学校前' />
+    <tag k='name:en' v='Koi-higashi Shogakko-mae (Koi-higashi Elementary School)' />
+    <tag k='name:ja' v='己斐東小学校前' />
+    <tag k='name:ja-Hira' v='こいひがししょうがっこうまえ' />
+    <tag k='name:ko' v='고이 히가시 초등학교' />
+    <tag k='name:zh-Hans' v='己斐东小学前' />
+    <tag k='name:zh-Hant' v='己斐東小學前' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056483' lat='34.40718496' lon='132.4277587'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71240 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='イトーピアマンション前' />
+    <tag k='name:en' v='Itopia Mansion-mae' />
+    <tag k='name:ja' v='イトーピアマンション前' />
+    <tag k='name:ja-Hira' v='いとーぴあまんしょんまえ' />
+    <tag k='name:ko' v='이토피아 맨션 마에' />
+    <tag k='name:zh-Hans' v='ITOHPIA公寓前' />
+    <tag k='name:zh-Hant' v='ITOHPIA公寓前' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056484' lat='34.39466976' lon='132.4348254'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71260 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西区役所前' />
+    <tag k='name:en' v='Nishi Kuyakusho-mae (Nishi Ward Office)' />
+    <tag k='name:ja' v='西区役所前' />
+    <tag k='name:ja-Hira' v='にしくやくしょまえ' />
+    <tag k='name:ko' v='니시 구청' />
+    <tag k='name:zh-Hans' v='西区政府前' />
+    <tag k='name:zh-Hant' v='西區政府前' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056485' lat='34.39446977' lon='132.434642'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71260 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西区役所前' />
+    <tag k='name:en' v='Nishi Kuyakusho-mae (Nishi Ward Office)' />
+    <tag k='name:ja' v='西区役所前' />
+    <tag k='name:ja-Hira' v='にしくやくしょまえ' />
+    <tag k='name:ko' v='니시 구청' />
+    <tag k='name:zh-Hans' v='西区政府前' />
+    <tag k='name:zh-Hant' v='西區政府前' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056486' lat='34.40570152' lon='132.4123101'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71270 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='もみじが丘第一公園' />
+    <tag k='name:en' v='Momijigaoka Daiichi Koen (Momijigaoka Daiichi Park)' />
+    <tag k='name:ja' v='もみじが丘第一公園' />
+    <tag k='name:ja-Hira' v='もみじがおかだいいちこうえん' />
+    <tag k='name:ko' v='모미지가오카 다이1 공원' />
+    <tag k='name:zh-Hans' v='红叶丘第一公园' />
+    <tag k='name:zh-Hant' v='紅葉丘第一公園' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056487' lat='34.40573484' lon='132.4122767'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71270 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='もみじが丘第一公園' />
+    <tag k='name:en' v='Momijigaoka Daiichi Koen (Momijigaoka Daiichi Park)' />
+    <tag k='name:ja' v='もみじが丘第一公園' />
+    <tag k='name:ja-Hira' v='もみじがおかだいいちこうえん' />
+    <tag k='name:ko' v='모미지가오카 다이1 공원' />
+    <tag k='name:zh-Hans' v='红叶丘第一公园' />
+    <tag k='name:zh-Hant' v='紅葉丘第一公園' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056488' lat='34.41353383' lon='132.4017272'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71300 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='1' />
+    <tag k='name' v='そらの北' />
+    <tag k='name:en' v='Sorano-kita' />
+    <tag k='name:ja' v='そらの北' />
+    <tag k='name:ja-Hira' v='そらのきた' />
+    <tag k='name:ko' v='소라노키타' />
+    <tag k='name:zh-Hans' v='SORANO北' />
+    <tag k='name:zh-Hant' v='SORANO北' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056489' lat='34.41340051' lon='132.4018772'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71300 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='2' />
+    <tag k='name' v='そらの北' />
+    <tag k='name:en' v='Sorano-kita' />
+    <tag k='name:ja' v='そらの北' />
+    <tag k='name:ja-Hira' v='そらのきた' />
+    <tag k='name:ko' v='소라노키타' />
+    <tag k='name:zh-Hans' v='SORANO北' />
+    <tag k='name:zh-Hant' v='SORANO北' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056490' lat='34.41078408' lon='132.3991276'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71310 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='1' />
+    <tag k='name' v='ジ アウトレット 広島' />
+    <tag k='name:en' v='THE OUTLETS HIROSHIMA' />
+    <tag k='name:ja' v='ジ アウトレット 広島' />
+    <tag k='name:ja-Hira' v='じあうとれっとひろしま' />
+    <tag k='name:ko' v='아울렛 히로시마' />
+    <tag k='name:zh-Hans' v='THE OUTLETS 广岛' />
+    <tag k='name:zh-Hant' v='THE OUTLETS 廣島' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056491' lat='34.41063409' lon='132.3990443'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='71310 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='2' />
+    <tag k='name' v='ジ アウトレット 広島' />
+    <tag k='name:en' v='THE OUTLETS HIROSHIMA' />
+    <tag k='name:ja' v='ジ アウトレット 広島' />
+    <tag k='name:ja-Hira' v='じあうとれっとひろしま' />
+    <tag k='name:ko' v='아울렛 히로시마' />
+    <tag k='name:zh-Hans' v='THE OUTLETS 广岛' />
+    <tag k='name:zh-Hant' v='THE OUTLETS 廣島' />
+    <tag k='operator' v='エイチ・ディー西広島' />
+    <tag k='operator:en' v='HD Nishi-Hiroshima' />
+    <tag k='public_transport' v='platform' />
+  </node>
+</osm>

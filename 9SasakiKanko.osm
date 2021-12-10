@@ -1,0 +1,2007 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-1056918' lat='34.31142638' lon='132.3046233'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1010 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='宮島口' />
+    <tag k='name:en' v='Miyajima-guchi' />
+    <tag k='name:ja' v='宮島口' />
+    <tag k='name:ja-Hira' v='みやじまぐち' />
+    <tag k='name:ko' v='미야지마 구치' />
+    <tag k='name:zh-Hans' v='宫岛口' />
+    <tag k='name:zh-Hant' v='宮島口' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056919' lat='34.31022648' lon='132.3026569'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1020 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='更地分れ' />
+    <tag k='name:en' v='Saraji-wakare' />
+    <tag k='name:ja' v='更地分れ' />
+    <tag k='name:ja-Hira' v='さらじわかれ' />
+    <tag k='name:ko' v='사라지 와카레' />
+    <tag k='name:zh-Hans' v='更地分' />
+    <tag k='name:zh-Hant' v='更地分' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056920' lat='34.30932655' lon='132.3014904'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1020 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='更地分れ' />
+    <tag k='name:en' v='Saraji-wakare' />
+    <tag k='name:ja' v='更地分れ' />
+    <tag k='name:ja-Hira' v='さらじわかれ' />
+    <tag k='name:ko' v='사라지 와카레' />
+    <tag k='name:zh-Hans' v='更地分' />
+    <tag k='name:zh-Hant' v='更地分' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056921' lat='34.30659348' lon='132.2993907'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1030 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='宮島口西' />
+    <tag k='name:en' v='Miyajima-guchi-nishi' />
+    <tag k='name:ja' v='宮島口西' />
+    <tag k='name:ja-Hira' v='みやじまぐちにし' />
+    <tag k='name:ko' v='미야지마 구치 니시' />
+    <tag k='name:zh-Hans' v='宫岛口西' />
+    <tag k='name:zh-Hant' v='宮島口西' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056922' lat='34.30632682' lon='132.2984074'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1030 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='宮島口西' />
+    <tag k='name:en' v='Miyajima-guchi-nishi' />
+    <tag k='name:ja' v='宮島口西' />
+    <tag k='name:ja-Hira' v='みやじまぐちにし' />
+    <tag k='name:ko' v='미야지마 구치 니시' />
+    <tag k='name:zh-Hans' v='宫岛口西' />
+    <tag k='name:zh-Hant' v='宮島口西' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056923' lat='34.29384459' lon='132.2850091'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1040 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='油ヶ免' />
+    <tag k='name:ja' v='油ヶ免' />
+    <tag k='name:ja-Hira' v='あぶらがめん' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056924' lat='34.28682852' lon='132.2764268'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1070 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大野支所前' />
+    <tag k='name:en' v='Oono Sisyo Mae' />
+    <tag k='name:ja' v='大野支所前' />
+    <tag k='name:ja-Hira' v='おおのししょまえ' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056925' lat='34.3226085' lon='132.3031729'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1090 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='県営住宅前' />
+    <tag k='name:en' v='Kenei Jutaku-mae' />
+    <tag k='name:ja' v='県営住宅前' />
+    <tag k='name:ja-Hira' v='けんえいじゅうたくまえ' />
+    <tag k='name:ko' v='겐에이 주타구 마에' />
+    <tag k='name:zh-Hans' v='县营住宅前' />
+    <tag k='name:zh-Hant' v='縣營住宅前' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056926' lat='34.32252517' lon='132.3032563'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1090 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='県営住宅前' />
+    <tag k='name:en' v='Kenei Jutaku-mae' />
+    <tag k='name:ja' v='県営住宅前' />
+    <tag k='name:ja-Hira' v='けんえいじゅうたくまえ' />
+    <tag k='name:ko' v='겐에이 주타구 마에' />
+    <tag k='name:zh-Hans' v='县营住宅前' />
+    <tag k='name:zh-Hant' v='縣營住宅前' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056927' lat='34.3199754' lon='132.3006899'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1100 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='青葉台' />
+    <tag k='name:en' v='Aobadai' />
+    <tag k='name:ja' v='青葉台' />
+    <tag k='name:ja-Hira' v='あおばだい' />
+    <tag k='name:ko' v='아오바다이' />
+    <tag k='name:zh-Hans' v='青叶台' />
+    <tag k='name:zh-Hant' v='青葉臺' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056928' lat='34.31960877' lon='132.30044'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1100 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='青葉台' />
+    <tag k='name:en' v='Aobadai' />
+    <tag k='name:ja' v='青葉台' />
+    <tag k='name:ja-Hira' v='あおばだい' />
+    <tag k='name:ko' v='아오바다이' />
+    <tag k='name:zh-Hans' v='青叶台' />
+    <tag k='name:zh-Hant' v='青葉臺' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056929' lat='34.316959' lon='132.2974903'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1110 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='福面' />
+    <tag k='name:en' v='Fukumen' />
+    <tag k='name:ja' v='福面' />
+    <tag k='name:ja-Hira' v='ふくめん' />
+    <tag k='name:ko' v='후쿠멘' />
+    <tag k='name:zh-Hans' v='福面' />
+    <tag k='name:zh-Hant' v='福面' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056930' lat='34.31744229' lon='132.2979903'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1110 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='福面' />
+    <tag k='name:en' v='Fukumen' />
+    <tag k='name:ja' v='福面' />
+    <tag k='name:ja-Hira' v='ふくめん' />
+    <tag k='name:ko' v='후쿠멘' />
+    <tag k='name:zh-Hans' v='福面' />
+    <tag k='name:zh-Hant' v='福面' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056931' lat='34.31417592' lon='132.2948574'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1120 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='グリーンハイツ' />
+    <tag k='name:en' v='Green Heights' />
+    <tag k='name:ja' v='グリーンハイツ' />
+    <tag k='name:ja-Hira' v='ぐりーんはいつ' />
+    <tag k='name:ko' v='그린 하이츠' />
+    <tag k='name:zh-Hans' v='Green Heights' />
+    <tag k='name:zh-Hant' v='Green Heights' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056932' lat='34.31450923' lon='132.2956406'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1120 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='グリーンハイツ' />
+    <tag k='name:en' v='Green Heights' />
+    <tag k='name:ja' v='グリーンハイツ' />
+    <tag k='name:ja-Hira' v='ぐりーんはいつ' />
+    <tag k='name:ko' v='그린 하이츠' />
+    <tag k='name:zh-Hans' v='Green Heights' />
+    <tag k='name:zh-Hant' v='Green Heights' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056933' lat='34.30716006' lon='132.2981241'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1130 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='深江' />
+    <tag k='name:en' v='Fukae' />
+    <tag k='name:ja' v='深江' />
+    <tag k='name:ja-Hira' v='ふかえ' />
+    <tag k='name:ko' v='후카에' />
+    <tag k='name:zh-Hans' v='深江' />
+    <tag k='name:zh-Hant' v='深江' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056934' lat='34.30761' lon='132.2974574'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1130 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='深江' />
+    <tag k='name:en' v='Fukae' />
+    <tag k='name:ja' v='深江' />
+    <tag k='name:ja-Hira' v='ふかえ' />
+    <tag k='name:ko' v='후카에' />
+    <tag k='name:zh-Hans' v='深江' />
+    <tag k='name:zh-Hant' v='深江' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056935' lat='34.30920981' lon='132.2962908'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1140 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='深江保育園' />
+    <tag k='name:en' v='Fukae Hoikuen (Fukae Nursery)' />
+    <tag k='name:ja' v='深江保育園' />
+    <tag k='name:ja-Hira' v='ふかえほいくえん' />
+    <tag k='name:ko' v='후카에 보육원' />
+    <tag k='name:zh-Hans' v='深江保育园' />
+    <tag k='name:zh-Hant' v='深江保育園' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056936' lat='34.30905983' lon='132.2962908'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1140 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='深江保育園' />
+    <tag k='name:en' v='Fukae Hoikuen (Fukae Nursery)' />
+    <tag k='name:ja' v='深江保育園' />
+    <tag k='name:ja-Hira' v='ふかえほいくえん' />
+    <tag k='name:ko' v='후카에 보육원' />
+    <tag k='name:zh-Hans' v='深江保育园' />
+    <tag k='name:zh-Hant' v='深江保育園' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056937' lat='34.31359258' lon='132.2909577'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1150 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='更地' />
+    <tag k='name:en' v='Saraji' />
+    <tag k='name:ja' v='更地' />
+    <tag k='name:ja-Hira' v='さらじ' />
+    <tag k='name:ko' v='사라지' />
+    <tag k='name:zh-Hans' v='更地' />
+    <tag k='name:zh-Hant' v='更地' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056938' lat='34.31309262' lon='132.2900745'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1150 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='更地' />
+    <tag k='name:en' v='Saraji' />
+    <tag k='name:ja' v='更地' />
+    <tag k='name:ja-Hira' v='さらじ' />
+    <tag k='name:ko' v='사라지' />
+    <tag k='name:zh-Hans' v='更地' />
+    <tag k='name:zh-Hant' v='更地' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056939' lat='34.31237601' lon='132.2887413'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1160 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='下更地' />
+    <tag k='name:en' v='Shimo-saraji' />
+    <tag k='name:ja' v='下更地' />
+    <tag k='name:ja-Hira' v='しもさらじ' />
+    <tag k='name:ko' v='시모사라지' />
+    <tag k='name:zh-Hans' v='下更地' />
+    <tag k='name:zh-Hant' v='下更地' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056940' lat='34.31129278' lon='132.2879914'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1160 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='下更地' />
+    <tag k='name:en' v='Shimo-saraji' />
+    <tag k='name:ja' v='下更地' />
+    <tag k='name:ja-Hira' v='しもさらじ' />
+    <tag k='name:ko' v='시모사라지' />
+    <tag k='name:zh-Hans' v='下更地' />
+    <tag k='name:zh-Hant' v='下更地' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056941' lat='34.30885968' lon='132.2864583'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1170 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='前空台入口' />
+    <tag k='name:en' v='Maezoradai-iriguchi' />
+    <tag k='name:ja' v='前空台入口' />
+    <tag k='name:ja-Hira' v='まえぞらだいいりぐち' />
+    <tag k='name:ko' v='마에조라다이 이리구치' />
+    <tag k='name:zh-Hans' v='前空台入口' />
+    <tag k='name:zh-Hant' v='前空臺入口' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056942' lat='34.30900967' lon='132.2867749'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1170 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='前空台入口' />
+    <tag k='name:en' v='Maezoradai-iriguchi' />
+    <tag k='name:ja' v='前空台入口' />
+    <tag k='name:ja-Hira' v='まえぞらだいいりぐち' />
+    <tag k='name:ko' v='마에조라다이 이리구치' />
+    <tag k='name:zh-Hans' v='前空台入口' />
+    <tag k='name:zh-Hant' v='前空臺入口' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056943' lat='34.30714316' lon='132.2847752'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1180 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='別府' />
+    <tag k='name:en' v='Befu' />
+    <tag k='name:ja' v='別府' />
+    <tag k='name:ja-Hira' v='べふ' />
+    <tag k='name:ko' v='베후' />
+    <tag k='name:zh-Hans' v='别府' />
+    <tag k='name:zh-Hant' v='別府' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056944' lat='34.30632658' lon='132.2844586'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1180 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='別府' />
+    <tag k='name:en' v='Befu' />
+    <tag k='name:ja' v='別府' />
+    <tag k='name:ja-Hira' v='べふ' />
+    <tag k='name:ko' v='베후' />
+    <tag k='name:zh-Hans' v='别府' />
+    <tag k='name:zh-Hant' v='別府' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056945' lat='34.30527667' lon='132.2831087'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1190 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='土井' />
+    <tag k='name:en' v='Doi' />
+    <tag k='name:ja' v='土井' />
+    <tag k='name:ja-Hira' v='どい' />
+    <tag k='name:ko' v='도이' />
+    <tag k='name:zh-Hans' v='土井' />
+    <tag k='name:zh-Hant' v='土井' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056946' lat='34.30447674' lon='132.2825088'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1190 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='土井' />
+    <tag k='name:en' v='Doi' />
+    <tag k='name:ja' v='土井' />
+    <tag k='name:ja-Hira' v='どい' />
+    <tag k='name:ko' v='도이' />
+    <tag k='name:zh-Hans' v='土井' />
+    <tag k='name:zh-Hant' v='土井' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056947' lat='34.30367681' lon='132.281309'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1200 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='棚田' />
+    <tag k='name:en' v='Tanada' />
+    <tag k='name:ja' v='棚田' />
+    <tag k='name:ja-Hira' v='たなだ' />
+    <tag k='name:ko' v='다나다' />
+    <tag k='name:zh-Hans' v='棚田' />
+    <tag k='name:zh-Hant' v='棚田' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056948' lat='34.30316019' lon='132.281009'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1200 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='棚田' />
+    <tag k='name:en' v='Tanada' />
+    <tag k='name:ja' v='棚田' />
+    <tag k='name:ja-Hira' v='たなだ' />
+    <tag k='name:ko' v='다나다' />
+    <tag k='name:zh-Hans' v='棚田' />
+    <tag k='name:zh-Hant' v='棚田' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056949' lat='34.2971442' lon='132.2828591'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1210 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='宮島工業高校' />
+    <tag k='name:en' v='Miyajima Kogyo Koko (Miyajima Technial High School)' />
+    <tag k='name:ja' v='宮島工業高校' />
+    <tag k='name:ja-Hira' v='みやじまこうぎょうこうこう' />
+    <tag k='name:ko' v='미야지마 공업고등학교' />
+    <tag k='name:zh-Hans' v='宫岛工业高中' />
+    <tag k='name:zh-Hant' v='宮島工業高中' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056950' lat='34.29716087' lon='132.2829925'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1210 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='宮島工業高校' />
+    <tag k='name:en' v='Miyajima Kogyo Koko (Miyajima Technial High School)' />
+    <tag k='name:ja' v='宮島工業高校' />
+    <tag k='name:ja-Hira' v='みやじまこうぎょうこうこう' />
+    <tag k='name:ko' v='미야지마 공업고등학교' />
+    <tag k='name:zh-Hans' v='宫岛工业高中' />
+    <tag k='name:zh-Hant' v='宮島工業高中' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056951' lat='34.29902727' lon='132.279526'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1220 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='池田保育園' />
+    <tag k='name:en' v='Ikeda Hoikuen (Ikeda Nursery)' />
+    <tag k='name:ja' v='池田保育園' />
+    <tag k='name:ja-Hira' v='いけだほいくえん' />
+    <tag k='name:ko' v='이케다 보육원' />
+    <tag k='name:zh-Hans' v='池田保育园' />
+    <tag k='name:zh-Hant' v='池田保育園' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056952' lat='34.2993939' lon='132.2795093'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1220 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='池田保育園' />
+    <tag k='name:en' v='Ikeda Hoikuen (Ikeda Nursery)' />
+    <tag k='name:ja' v='池田保育園' />
+    <tag k='name:ja-Hira' v='いけだほいくえん' />
+    <tag k='name:ko' v='이케다 보육원' />
+    <tag k='name:zh-Hans' v='池田保育园' />
+    <tag k='name:zh-Hant' v='池田保育園' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056953' lat='34.2977107' lon='132.276743'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1230 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大野市民センター' />
+    <tag k='name:ja' v='大野市民センター' />
+    <tag k='name:ja-Hira' v='おおのしみんせんたー' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056954' lat='34.30129368' lon='132.2782593'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1240 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='高畑' />
+    <tag k='name:en' v='Takabatake' />
+    <tag k='name:ja' v='高畑' />
+    <tag k='name:ja-Hira' v='たかばたけ' />
+    <tag k='name:ko' v='다카바타케' />
+    <tag k='name:zh-Hans' v='高畑' />
+    <tag k='name:zh-Hant' v='高畑' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056955' lat='34.30036043' lon='132.2774094'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1240 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='高畑' />
+    <tag k='name:en' v='Takabatake' />
+    <tag k='name:ja' v='高畑' />
+    <tag k='name:ja-Hira' v='たかばたけ' />
+    <tag k='name:ko' v='다카바타케' />
+    <tag k='name:zh-Hans' v='高畑' />
+    <tag k='name:zh-Hant' v='高畑' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056956' lat='34.2994105' lon='132.2756096'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1250 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='筏津' />
+    <tag k='name:en' v='Ikanazu' />
+    <tag k='name:ja' v='筏津' />
+    <tag k='name:ja-Hira' v='いかなづ' />
+    <tag k='name:ko' v='이카나즈' />
+    <tag k='name:zh-Hans' v='筏津' />
+    <tag k='name:zh-Hant' v='筏津' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056957' lat='34.29889388' lon='132.2752597'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1250 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='筏津' />
+    <tag k='name:en' v='Ikanazu' />
+    <tag k='name:ja' v='筏津' />
+    <tag k='name:ja-Hira' v='いかなづ' />
+    <tag k='name:ko' v='이카나즈' />
+    <tag k='name:zh-Hans' v='筏津' />
+    <tag k='name:zh-Hant' v='筏津' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056958' lat='34.297294' lon='132.27241'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1260 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西教寺' />
+    <tag k='name:en' v='Saikyoji (Saikyoji Temple)' />
+    <tag k='name:ja' v='西教寺' />
+    <tag k='name:ja-Hira' v='さいきょうじ' />
+    <tag k='name:ko' v='사이쿄지 절' />
+    <tag k='name:zh-Hans' v='西教寺' />
+    <tag k='name:zh-Hant' v='西教寺' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056959' lat='34.29702736' lon='132.2724933'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1260 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西教寺' />
+    <tag k='name:en' v='Saikyoji (Saikyoji Temple)' />
+    <tag k='name:ja' v='西教寺' />
+    <tag k='name:ja-Hira' v='さいきょうじ' />
+    <tag k='name:ko' v='사이쿄지 절' />
+    <tag k='name:zh-Hans' v='西教寺' />
+    <tag k='name:zh-Hant' v='西教寺' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056960' lat='34.29506088' lon='132.2711769'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1270 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='妹背の滝' />
+    <tag k='name:en' v='Imose-no-Taki (Imose Waterfall)' />
+    <tag k='name:ja' v='妹背の滝' />
+    <tag k='name:ja-Hira' v='いもせのたき' />
+    <tag k='name:ko' v='이모세노타키' />
+    <tag k='name:zh-Hans' v='妹背之泷' />
+    <tag k='name:zh-Hant' v='妹背之瀧' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056961' lat='34.29514421' lon='132.2713602'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1270 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='妹背の滝' />
+    <tag k='name:en' v='Imose-no-Taki (Imose Waterfall)' />
+    <tag k='name:ja' v='妹背の滝' />
+    <tag k='name:ja-Hira' v='いもせのたき' />
+    <tag k='name:ko' v='이모세노타키' />
+    <tag k='name:zh-Hans' v='妹背之泷' />
+    <tag k='name:zh-Hant' v='妹背之瀧' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056962' lat='34.30537672' lon='132.2869084'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1280 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='前空六丁目' />
+    <tag k='name:en' v='Maezora-rokuchome (Maezora 6)' />
+    <tag k='name:ja' v='前空六丁目' />
+    <tag k='name:ja-Hira' v='まえぞらろくちょうめ' />
+    <tag k='name:ko' v='마에조라 6초메' />
+    <tag k='name:zh-Hans' v='前空六丁目' />
+    <tag k='name:zh-Hant' v='前空六丁目' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056963' lat='34.30537672' lon='132.2869084'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1280 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='前空六丁目' />
+    <tag k='name:en' v='Maezora-rokuchome (Maezora 6)' />
+    <tag k='name:ja' v='前空六丁目' />
+    <tag k='name:ja-Hira' v='まえぞらろくちょうめ' />
+    <tag k='name:ko' v='마에조라 6초메' />
+    <tag k='name:zh-Hans' v='前空六丁目' />
+    <tag k='name:zh-Hant' v='前空六丁目' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056964' lat='34.30116055' lon='132.2893584'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1290 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='前空駅' />
+    <tag k='name:en' v='Maezora Sta.' />
+    <tag k='name:ja' v='前空駅' />
+    <tag k='name:ja-Hira' v='まえぞらえき' />
+    <tag k='name:ko' v='마에조라 역' />
+    <tag k='name:zh-Hans' v='前空站' />
+    <tag k='name:zh-Hant' v='前空站' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056965' lat='34.30216038' lon='132.2860253'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1300 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='前空一丁目' />
+    <tag k='name:en' v='Maezora-itchome (Maezora 1)' />
+    <tag k='name:ja' v='前空一丁目' />
+    <tag k='name:ja-Hira' v='まえぞらいっちょうめ' />
+    <tag k='name:ko' v='마에조라 1초메' />
+    <tag k='name:zh-Hans' v='前空一丁目' />
+    <tag k='name:zh-Hant' v='前空一丁目' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056966' lat='34.30176042' lon='132.2855254'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1300 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='前空一丁目' />
+    <tag k='name:en' v='Maezora-itchome (Maezora 1)' />
+    <tag k='name:ja' v='前空一丁目' />
+    <tag k='name:ja-Hira' v='まえぞらいっちょうめ' />
+    <tag k='name:ko' v='마에조라 1초메' />
+    <tag k='name:zh-Hans' v='前空一丁目' />
+    <tag k='name:zh-Hant' v='前空一丁目' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056967' lat='34.29864401' lon='132.2813092'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1310 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='物見東' />
+    <tag k='name:en' v='Monomi-higashi' />
+    <tag k='name:ja' v='物見東' />
+    <tag k='name:ja-Hira' v='ものみひがし' />
+    <tag k='name:ko' v='모노미 히가시' />
+    <tag k='name:zh-Hans' v='物见东' />
+    <tag k='name:zh-Hant' v='物見東' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056968' lat='34.29837737' lon='132.2812592'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1310 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='物見東' />
+    <tag k='name:en' v='Monomi-higashi' />
+    <tag k='name:ja' v='物見東' />
+    <tag k='name:ja-Hira' v='ものみひがし' />
+    <tag k='name:ko' v='모노미 히가시' />
+    <tag k='name:zh-Hans' v='物见东' />
+    <tag k='name:zh-Hant' v='物見東' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056969' lat='34.29587768' lon='132.2836591'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1320 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='物見西' />
+    <tag k='name:en' v='Monomi-nishi' />
+    <tag k='name:ja' v='物見西' />
+    <tag k='name:ja-Hira' v='ものみにし' />
+    <tag k='name:ko' v='모노미 니시' />
+    <tag k='name:zh-Hans' v='物见西' />
+    <tag k='name:zh-Hant' v='物見西' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056970' lat='34.29587768' lon='132.2836591'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1320 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='物見西' />
+    <tag k='name:en' v='Monomi-nishi' />
+    <tag k='name:ja' v='物見西' />
+    <tag k='name:ja-Hira' v='ものみにし' />
+    <tag k='name:ko' v='모노미 니시' />
+    <tag k='name:zh-Hans' v='物见西' />
+    <tag k='name:zh-Hant' v='物見西' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056971' lat='34.2911447' lon='132.2745934'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1330 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='橋本' />
+    <tag k='name:en' v='Hashimoto' />
+    <tag k='name:ja' v='橋本' />
+    <tag k='name:ja-Hira' v='はしもと' />
+    <tag k='name:ko' v='하시모토' />
+    <tag k='name:zh-Hans' v='桥本' />
+    <tag k='name:zh-Hant' v='橋本' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056972' lat='34.29099471' lon='132.2745268'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1330 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='橋本' />
+    <tag k='name:en' v='Hashimoto' />
+    <tag k='name:ja' v='橋本' />
+    <tag k='name:ja-Hira' v='はしもと' />
+    <tag k='name:ko' v='하시모토' />
+    <tag k='name:zh-Hans' v='桥本' />
+    <tag k='name:zh-Hant' v='橋本' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056973' lat='34.29434431' lon='132.2719602'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1340 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='滝の下' />
+    <tag k='name:en' v='Takinoshita' />
+    <tag k='name:ja' v='滝の下' />
+    <tag k='name:ja-Hira' v='たきのした' />
+    <tag k='name:ko' v='다키노시타' />
+    <tag k='name:zh-Hans' v='泷之下' />
+    <tag k='name:zh-Hant' v='瀧之下' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056974' lat='34.29446097' lon='132.2721102'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1340 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='滝の下' />
+    <tag k='name:en' v='Takinoshita' />
+    <tag k='name:ja' v='滝の下' />
+    <tag k='name:ja-Hira' v='たきのした' />
+    <tag k='name:ko' v='다키노시타' />
+    <tag k='name:zh-Hans' v='泷之下' />
+    <tag k='name:zh-Hant' v='瀧之下' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056975' lat='34.29146126' lon='132.2706937'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1350 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大野中学校' />
+    <tag k='name:en' v='Ono Chugakko (Ono Junior High School)' />
+    <tag k='name:ja' v='大野中学校' />
+    <tag k='name:ja-Hira' v='おおのちゅうがっこう' />
+    <tag k='name:ko' v='오노 중학교' />
+    <tag k='name:zh-Hans' v='大野中学' />
+    <tag k='name:zh-Hant' v='大野中學' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056976' lat='34.29146126' lon='132.2706937'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1350 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大野中学校' />
+    <tag k='name:en' v='Ono Chugakko (Ono Junior High School)' />
+    <tag k='name:ja' v='大野中学校' />
+    <tag k='name:ja-Hira' v='おおのちゅうがっこう' />
+    <tag k='name:ko' v='오노 중학교' />
+    <tag k='name:zh-Hans' v='大野中学' />
+    <tag k='name:zh-Hant' v='大野中學' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056977' lat='34.29006139' lon='132.2694772'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1360 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大野西小学校' />
+    <tag k='name:en' v='Ono-nishi Shogakko (Ono-nishi Elementary School)' />
+    <tag k='name:ja' v='大野西小学校' />
+    <tag k='name:ja-Hira' v='おおのにししょうがっこう' />
+    <tag k='name:ko' v='오노 니시 초등학교' />
+    <tag k='name:zh-Hans' v='大野西小学' />
+    <tag k='name:zh-Hant' v='大野西小學' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056978' lat='34.29007805' lon='132.2694939'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1360 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大野西小学校' />
+    <tag k='name:en' v='Ono-nishi Shogakko (Ono-nishi Elementary School)' />
+    <tag k='name:ja' v='大野西小学校' />
+    <tag k='name:ja-Hira' v='おおのにししょうがっこう' />
+    <tag k='name:ko' v='오노 니시 초등학교' />
+    <tag k='name:zh-Hans' v='大野西小学' />
+    <tag k='name:zh-Hant' v='大野西小學' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056979' lat='34.28482855' lon='132.2655111'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1370 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大野浦駅北口' />
+    <tag k='name:ja' v='大野浦駅北口' />
+    <tag k='name:ja-Hira' v='おおのうらえききたぐち' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056980' lat='34.28482855' lon='132.2655278'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1370 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大野浦駅北口' />
+    <tag k='name:ja' v='大野浦駅北口' />
+    <tag k='name:ja-Hira' v='おおのうらえききたぐち' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056981' lat='34.28276207' lon='132.2637614'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1380 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='船倉' />
+    <tag k='name:en' v='Funakura' />
+    <tag k='name:ja' v='船倉' />
+    <tag k='name:ja-Hira' v='ふなくら' />
+    <tag k='name:ko' v='후나쿠라' />
+    <tag k='name:zh-Hans' v='船仓' />
+    <tag k='name:zh-Hant' v='船倉' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056982' lat='34.28249544' lon='132.2640947'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1380 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='船倉' />
+    <tag k='name:en' v='Funakura' />
+    <tag k='name:ja' v='船倉' />
+    <tag k='name:ja-Hira' v='ふなくら' />
+    <tag k='name:ko' v='후나쿠라' />
+    <tag k='name:zh-Hans' v='船仓' />
+    <tag k='name:zh-Hant' v='船倉' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056983' lat='34.27944574' lon='132.2624616'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1390 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='林が原' />
+    <tag k='name:en' v='Hayashigahara' />
+    <tag k='name:ja' v='林が原' />
+    <tag k='name:ja-Hira' v='はやしがはら' />
+    <tag k='name:ko' v='하야시가하라' />
+    <tag k='name:zh-Hans' v='林原' />
+    <tag k='name:zh-Hant' v='林原' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056984' lat='34.27947907' lon='132.2627783'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1390 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='林が原' />
+    <tag k='name:en' v='Hayashigahara' />
+    <tag k='name:ja' v='林が原' />
+    <tag k='name:ja-Hira' v='はやしがはら' />
+    <tag k='name:ko' v='하야시가하라' />
+    <tag k='name:zh-Hans' v='林原' />
+    <tag k='name:zh-Hant' v='林原' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056985' lat='34.27756253' lon='132.2582121'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1400 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='丸石上' />
+    <tag k='name:en' v='Maruishi-ue' />
+    <tag k='name:ja' v='丸石上' />
+    <tag k='name:ja-Hira' v='まるいしうえ' />
+    <tag k='name:ko' v='마루이시 우에' />
+    <tag k='name:zh-Hans' v='丸石上' />
+    <tag k='name:zh-Hant' v='丸石上' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056986' lat='34.2774792' lon='132.2581121'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1400 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='丸石上' />
+    <tag k='name:en' v='Maruishi-ue' />
+    <tag k='name:ja' v='丸石上' />
+    <tag k='name:ja-Hira' v='まるいしうえ' />
+    <tag k='name:ko' v='마루이시 우에' />
+    <tag k='name:zh-Hans' v='丸石上' />
+    <tag k='name:zh-Hant' v='丸石上' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056987' lat='34.27572935' lon='132.2555124'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1410 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='向原' />
+    <tag k='name:en' v='Mukaihara' />
+    <tag k='name:ja' v='向原' />
+    <tag k='name:ja-Hira' v='むかいはら' />
+    <tag k='name:ko' v='무카이하라' />
+    <tag k='name:zh-Hans' v='向原' />
+    <tag k='name:zh-Hant' v='向原' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056988' lat='34.27542937' lon='132.2553124'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1410 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='向原' />
+    <tag k='name:en' v='Mukaihara' />
+    <tag k='name:ja' v='向原' />
+    <tag k='name:ja-Hira' v='むかいはら' />
+    <tag k='name:ko' v='무카이하라' />
+    <tag k='name:zh-Hans' v='向原' />
+    <tag k='name:zh-Hant' v='向原' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056989' lat='34.27309626' lon='132.2535293'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1420 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='宮浜温泉' />
+    <tag k='name:ja' v='宮浜温泉' />
+    <tag k='name:ja-Hira' v='みやはまおんせん' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056990' lat='34.27256298' lon='132.2532627'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1420 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='宮浜温泉' />
+    <tag k='name:ja' v='宮浜温泉' />
+    <tag k='name:ja-Hira' v='みやはまおんせん' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056991' lat='34.27102984' lon='132.254896'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1430 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='べにまんさくの湯' />
+    <tag k='name:en' v='Benimansaku-no-Yu' />
+    <tag k='name:ja' v='べにまんさくの湯' />
+    <tag k='name:ja-Hira' v='べにまんさくのゆ' />
+    <tag k='name:ko' v='베니만사쿠노 유' />
+    <tag k='name:zh-Hans' v='红满作温泉' />
+    <tag k='name:zh-Hant' v='紅滿作溫泉' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056992' lat='34.27102984' lon='132.254896'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1430 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='べにまんさくの湯' />
+    <tag k='name:en' v='Benimansaku-no-Yu' />
+    <tag k='name:ja' v='べにまんさくの湯' />
+    <tag k='name:ja-Hira' v='べにまんさくのゆ' />
+    <tag k='name:ko' v='베니만사쿠노 유' />
+    <tag k='name:zh-Hans' v='红满作温泉' />
+    <tag k='name:zh-Hant' v='紅滿作溫泉' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056993' lat='34.27031314' lon='132.2490298'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1440 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='じゅらく山荘' />
+    <tag k='name:en' v='Juraku Sanso' />
+    <tag k='name:ja' v='じゅらく山荘' />
+    <tag k='name:ja-Hira' v='じゅらくさんそう' />
+    <tag k='name:ko' v='주라쿠 산소' />
+    <tag k='name:zh-Hans' v='聚乐山庄' />
+    <tag k='name:zh-Hant' v='聚樂山莊' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056994' lat='34.27031314' lon='132.2490298'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1440 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='じゅらく山荘' />
+    <tag k='name:en' v='Juraku Sanso' />
+    <tag k='name:ja' v='じゅらく山荘' />
+    <tag k='name:ja-Hira' v='じゅらくさんそう' />
+    <tag k='name:ko' v='주라쿠 산소' />
+    <tag k='name:zh-Hans' v='聚乐山庄' />
+    <tag k='name:zh-Hant' v='聚樂山莊' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056995' lat='34.26926322' lon='132.2468301'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1450 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='サンランド東' />
+    <tag k='name:en' v='Sun Land-higashi' />
+    <tag k='name:ja' v='サンランド東' />
+    <tag k='name:ja-Hira' v='さんらんどひがし' />
+    <tag k='name:ko' v='선 랜드 히가시' />
+    <tag k='name:zh-Hans' v='Sun Land东' />
+    <tag k='name:zh-Hant' v='Sun Land東' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056996' lat='34.26926322' lon='132.2468301'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1450 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='サンランド東' />
+    <tag k='name:en' v='Sun Land-higashi' />
+    <tag k='name:ja' v='サンランド東' />
+    <tag k='name:ja-Hira' v='さんらんどひがし' />
+    <tag k='name:ko' v='선 랜드 히가시' />
+    <tag k='name:zh-Hans' v='Sun Land东' />
+    <tag k='name:zh-Hant' v='Sun Land東' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056997' lat='34.2681133' lon='132.244697'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1460 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='サンランド' />
+    <tag k='name:en' v='Sun Land' />
+    <tag k='name:ja' v='サンランド' />
+    <tag k='name:ja-Hira' v='さんらんど' />
+    <tag k='name:ko' v='선 랜드' />
+    <tag k='name:zh-Hans' v='Sun Land' />
+    <tag k='name:zh-Hant' v='Sun Land' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056998' lat='34.2681133' lon='132.244697'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1460 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='サンランド' />
+    <tag k='name:en' v='Sun Land' />
+    <tag k='name:ja' v='サンランド' />
+    <tag k='name:ja-Hira' v='さんらんど' />
+    <tag k='name:ko' v='선 랜드' />
+    <tag k='name:zh-Hans' v='Sun Land' />
+    <tag k='name:zh-Hant' v='Sun Land' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1056999' lat='34.2672967' lon='132.2431638'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1470 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='サンランド車庫' />
+    <tag k='name:en' v='Sun Land Shako (Sun Land Depot)' />
+    <tag k='name:ja' v='サンランド車庫' />
+    <tag k='name:ja-Hira' v='さんらんどしゃこ' />
+    <tag k='name:ko' v='선 랜드 차고' />
+    <tag k='name:zh-Hans' v='Sun Land车库' />
+    <tag k='name:zh-Hant' v='Sun Land車庫' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057000' lat='34.2672967' lon='132.2431638'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1470 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='サンランド車庫' />
+    <tag k='name:en' v='Sun Land Shako (Sun Land Depot)' />
+    <tag k='name:ja' v='サンランド車庫' />
+    <tag k='name:ja-Hira' v='さんらんどしゃこ' />
+    <tag k='name:ko' v='선 랜드 차고' />
+    <tag k='name:zh-Hans' v='Sun Land车库' />
+    <tag k='name:zh-Hant' v='Sun Land車庫' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057001' lat='34.26434699' lon='132.2416474'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1480 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='鳴川' />
+    <tag k='name:en' v='Narukawa' />
+    <tag k='name:ja' v='鳴川' />
+    <tag k='name:ja-Hira' v='なるかわ' />
+    <tag k='name:ko' v='나루카와' />
+    <tag k='name:zh-Hans' v='鸣川' />
+    <tag k='name:zh-Hant' v='鳴川' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057002' lat='34.2639137' lon='132.2416641'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1480 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='鳴川' />
+    <tag k='name:en' v='Narukawa' />
+    <tag k='name:ja' v='鳴川' />
+    <tag k='name:ja-Hira' v='なるかわ' />
+    <tag k='name:ko' v='나루카와' />
+    <tag k='name:zh-Hans' v='鸣川' />
+    <tag k='name:zh-Hant' v='鳴川' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057003' lat='34.25453113' lon='132.2278657'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1490 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='玖波駅' />
+    <tag k='name:en' v='Kuba Sta.' />
+    <tag k='name:ja' v='玖波駅' />
+    <tag k='name:ja-Hira' v='くばえき' />
+    <tag k='name:ko' v='구바 역' />
+    <tag k='name:zh-Hans' v='玖波站' />
+    <tag k='name:zh-Hant' v='玖波站' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057004' lat='34.32012549' lon='132.3068561'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1500 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='ふじタウン西' />
+    <tag k='name:en' v='Fuji Town-nishi' />
+    <tag k='name:ja' v='ふじタウン西' />
+    <tag k='name:ja-Hira' v='ふじたうんにし' />
+    <tag k='name:ko' v='후지 타운 니시' />
+    <tag k='name:zh-Hans' v='Fuji Town西' />
+    <tag k='name:zh-Hant' v='Fuji Town西' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057005' lat='34.31997551' lon='132.3069394'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1500 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='ふじタウン西' />
+    <tag k='name:en' v='Fuji Town-nishi' />
+    <tag k='name:ja' v='ふじタウン西' />
+    <tag k='name:ja-Hira' v='ふじたうんにし' />
+    <tag k='name:ko' v='후지 타운 니시' />
+    <tag k='name:zh-Hans' v='Fuji Town西' />
+    <tag k='name:zh-Hant' v='Fuji Town西' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057006' lat='34.31999212' lon='132.303773'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1510 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='宮島口東二丁目' />
+    <tag k='name:en' v='Miyajima-guchi-higashi-nichome (Miyajima-guchi-higashi 2)' />
+    <tag k='name:ja' v='宮島口東二丁目' />
+    <tag k='name:ja-Hira' v='みやじまぐちひがしにちょうめ' />
+    <tag k='name:ko' v='미야지마 구치 히가시 2초메' />
+    <tag k='name:zh-Hans' v='宫岛口东二丁目' />
+    <tag k='name:zh-Hant' v='宮島口東二丁目' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057007' lat='34.32130863' lon='132.302823'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1512 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='宮島口東三丁目' />
+    <tag k='name:en' v='Miyajima-guchi-higashi-sanchome (Miyajima-guchi-higashi 3)' />
+    <tag k='name:ja' v='宮島口東三丁目' />
+    <tag k='name:ja-Hira' v='みやじまぐちひがしさんちょうめ' />
+    <tag k='name:ko' v='미야지마 구치 히가시 3초메' />
+    <tag k='name:zh-Hans' v='宫岛口东三丁目' />
+    <tag k='name:zh-Hant' v='宮島口東三丁目' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057008' lat='34.31882559' lon='132.304373'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1520 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='宮島口東一丁目' />
+    <tag k='name:en' v='Miyajima-guchi-higashi-itchome (Miyajima-guchi-higashi 1)' />
+    <tag k='name:ja' v='宮島口東一丁目' />
+    <tag k='name:ja-Hira' v='みやじまぐちひがしいっちょうめ' />
+    <tag k='name:ko' v='미야지마 구치 히가시 1초메' />
+    <tag k='name:zh-Hans' v='宫岛口东一丁目' />
+    <tag k='name:zh-Hant' v='宮島口東一丁目' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057009' lat='34.31845892' lon='132.3019399'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1530 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='宮島口上' />
+    <tag k='name:en' v='Miyajima-guchi-ue' />
+    <tag k='name:ja' v='宮島口上' />
+    <tag k='name:ja-Hira' v='みやじまぐちうえ' />
+    <tag k='name:ko' v='미야지마 구치 우에' />
+    <tag k='name:zh-Hans' v='宫岛口上' />
+    <tag k='name:zh-Hant' v='宮島口上' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057010' lat='34.30535996' lon='132.2812589'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1550 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='土井上' />
+    <tag k='name:en' v='Doi-kami' />
+    <tag k='name:ja' v='土井上' />
+    <tag k='name:ja-Hira' v='どいかみ' />
+    <tag k='name:ko' v='도이카미' />
+    <tag k='name:zh-Hans' v='土井上' />
+    <tag k='name:zh-Hant' v='土井上' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057011' lat='34.30837634' lon='132.2835919'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1560 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大野東小学校' />
+    <tag k='name:en' v='Ono-higashi Shogakko (Ono-higashi Elementary School)' />
+    <tag k='name:ja' v='大野東小学校' />
+    <tag k='name:ja-Hira' v='おおのひがししょうがっこう' />
+    <tag k='name:ko' v='오노 히가시 초등학교' />
+    <tag k='name:zh-Hans' v='大野东小学' />
+    <tag k='name:zh-Hant' v='大野東小學' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057012' lat='34.31020951' lon='132.2854083'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1570 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='鯛の原' />
+    <tag k='name:en' v='Tainohara' />
+    <tag k='name:ja' v='鯛の原' />
+    <tag k='name:ja-Hira' v='たいのはら' />
+    <tag k='name:ko' v='다이노하라' />
+    <tag k='name:zh-Hans' v='鲷之原' />
+    <tag k='name:zh-Hant' v='鯛之原' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057013' lat='34.32209181' lon='132.2988233'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1580 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='青葉台集会所前' />
+    <tag k='name:en' v='Aobadai Shukaisho-mae' />
+    <tag k='name:ja' v='青葉台集会所前' />
+    <tag k='name:ja-Hira' v='あおばだいしゅうかいしょまえ' />
+    <tag k='name:ko' v='아오바다이 슈카이쇼 마에' />
+    <tag k='name:zh-Hans' v='青叶台集会所前' />
+    <tag k='name:zh-Hant' v='青葉臺集會所前' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057014' lat='34.29092819' lon='132.2823095'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1590 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='上の浜' />
+    <tag k='name:en' v='Kaminohama' />
+    <tag k='name:ja' v='上の浜' />
+    <tag k='name:ja-Hira' v='かみのはま' />
+    <tag k='name:ko' v='가미노하마' />
+    <tag k='name:zh-Hans' v='上之滨' />
+    <tag k='name:zh-Hant' v='上之濱' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057015' lat='34.29092819' lon='132.2823095'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1590 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='上の浜' />
+    <tag k='name:en' v='Kaminohama' />
+    <tag k='name:ja' v='上の浜' />
+    <tag k='name:ja-Hira' v='かみのはま' />
+    <tag k='name:ko' v='가미노하마' />
+    <tag k='name:zh-Hans' v='上之滨' />
+    <tag k='name:zh-Hant' v='上之濱' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057016' lat='34.28386213' lon='132.2740938'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1600 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='梅原一丁目' />
+    <tag k='name:en' v='Umehara-itchome (Umehara 1)' />
+    <tag k='name:ja' v='梅原一丁目' />
+    <tag k='name:ja-Hira' v='うめはらいっちょうめ' />
+    <tag k='name:ko' v='우메하라 1초메' />
+    <tag k='name:zh-Hans' v='梅原一丁目' />
+    <tag k='name:zh-Hant' v='梅原一丁目' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057017' lat='34.28386214' lon='132.2742771'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1600 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='梅原一丁目' />
+    <tag k='name:en' v='Umehara-itchome (Umehara 1)' />
+    <tag k='name:ja' v='梅原一丁目' />
+    <tag k='name:ja-Hira' v='うめはらいっちょうめ' />
+    <tag k='name:ko' v='우메하라 1초메' />
+    <tag k='name:zh-Hans' v='梅原一丁目' />
+    <tag k='name:zh-Hant' v='梅原一丁目' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057018' lat='34.28279544' lon='132.2661945'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1620 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='沖塩屋' />
+    <tag k='name:en' v='Okishioya' />
+    <tag k='name:ja' v='沖塩屋' />
+    <tag k='name:ja-Hira' v='おきしおや' />
+    <tag k='name:ko' v='오키시오야' />
+    <tag k='name:zh-Hans' v='冲盐屋' />
+    <tag k='name:zh-Hant' v='衝鹽屋' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057019' lat='34.28157889' lon='132.265278'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1620 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='沖塩屋' />
+    <tag k='name:en' v='Okishioya' />
+    <tag k='name:ja' v='沖塩屋' />
+    <tag k='name:ja-Hira' v='おきしおや' />
+    <tag k='name:ko' v='오키시오야' />
+    <tag k='name:zh-Hans' v='冲盐屋' />
+    <tag k='name:zh-Hant' v='衝鹽屋' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057020' lat='34.28011235' lon='132.2635282'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1630 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='青海苔' />
+    <tag k='name:en' v='Aonori' />
+    <tag k='name:ja' v='青海苔' />
+    <tag k='name:ja-Hira' v='あおのり' />
+    <tag k='name:ko' v='아오노리' />
+    <tag k='name:zh-Hans' v='青海苔' />
+    <tag k='name:zh-Hant' v='青海苔' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057021' lat='34.2785625' lon='132.262545'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1630 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='青海苔' />
+    <tag k='name:en' v='Aonori' />
+    <tag k='name:ja' v='青海苔' />
+    <tag k='name:ja-Hira' v='あおのり' />
+    <tag k='name:ko' v='아오노리' />
+    <tag k='name:zh-Hans' v='青海苔' />
+    <tag k='name:zh-Hant' v='青海苔' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057022' lat='34.27616273' lon='132.2613452'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1640 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='丸石' />
+    <tag k='name:en' v='Maruishi' />
+    <tag k='name:ja' v='丸石' />
+    <tag k='name:ja-Hira' v='まるいし' />
+    <tag k='name:ko' v='마루이시' />
+    <tag k='name:zh-Hans' v='丸石' />
+    <tag k='name:zh-Hant' v='丸石' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057023' lat='34.27552947' lon='132.2612453'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1640 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='丸石' />
+    <tag k='name:en' v='Maruishi' />
+    <tag k='name:ja' v='丸石' />
+    <tag k='name:ja-Hira' v='まるいし' />
+    <tag k='name:ko' v='마루이시' />
+    <tag k='name:zh-Hans' v='丸石' />
+    <tag k='name:zh-Hant' v='丸石' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057024' lat='34.32177546' lon='132.3147887'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1650 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='広電阿品駅' />
+    <tag k='name:en' v='Hiroden-ajina Sta.' />
+    <tag k='name:ja' v='広電阿品駅' />
+    <tag k='name:ja-Hira' v='ひろでんあじなえき' />
+    <tag k='name:ko' v='히로덴 아지나 역' />
+    <tag k='name:zh-Hans' v='广电阿品站' />
+    <tag k='name:zh-Hant' v='廣電阿品站' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057025' lat='34.32160883' lon='132.3163552'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1660 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='ナタリーマリナタウン' />
+    <tag k='name:en' v='Natalie Marina Town' />
+    <tag k='name:ja' v='ナタリーマリナタウン' />
+    <tag k='name:ja-Hira' v='なたりーまりなたうん' />
+    <tag k='name:ko' v='나탈리 마리나 타운' />
+    <tag k='name:zh-Hans' v='NATALIE MARINA TOWN' />
+    <tag k='name:zh-Hant' v='NATALIE MARINA TOWN' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057026' lat='34.32274196' lon='132.3111223'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1670 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='ふじタウン南' />
+    <tag k='name:en' v='Fuji Town-minami' />
+    <tag k='name:ja' v='ふじタウン南' />
+    <tag k='name:ja-Hira' v='ふじたうんみなみ' />
+    <tag k='name:ko' v='후지타운 미나미' />
+    <tag k='name:zh-Hans' v='Fuji Town南' />
+    <tag k='name:zh-Hant' v='Fuji Town南' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057027' lat='34.32272529' lon='132.3109056'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1670 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='ふじタウン南' />
+    <tag k='name:en' v='Fuji Town-minami' />
+    <tag k='name:ja' v='ふじタウン南' />
+    <tag k='name:ja-Hira' v='ふじたうんみなみ' />
+    <tag k='name:ko' v='후지타운 미나미' />
+    <tag k='name:zh-Hans' v='Fuji Town南' />
+    <tag k='name:zh-Hant' v='Fuji Town南' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057028' lat='34.32017516' lon='132.2879577'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1680 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='1' />
+    <tag k='name' v='中山' />
+    <tag k='name:en' v='Nakayama' />
+    <tag k='name:ja' v='中山' />
+    <tag k='name:ja-Hira' v='なかやま' />
+    <tag k='name:ko' v='나카야마（나카야마 산)' />
+    <tag k='name:zh-Hans' v='中山' />
+    <tag k='name:zh-Hant' v='中山' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057029' lat='34.273763' lon='132.2617786'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1690 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西市民センター' />
+    <tag k='name:ja' v='西市民センター' />
+    <tag k='name:ja-Hira' v='にししみんせんたー' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057030' lat='34.27374633' lon='132.2617786'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1690 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西市民センター' />
+    <tag k='name:ja' v='西市民センター' />
+    <tag k='name:ja-Hira' v='にししみんせんたー' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057031' lat='34.28446193' lon='132.2660444'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1700 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='1' />
+    <tag k='name' v='大野浦駅南口' />
+    <tag k='name:en' v='Onoura Sta. South Entrance' />
+    <tag k='name:ja' v='大野浦駅南口' />
+    <tag k='name:ja-Hira' v='おおのうらえきみなみぐち' />
+    <tag k='name:ko' v='오노우라 역' />
+    <tag k='name:zh-Hans' v='大野浦站南口' />
+    <tag k='name:zh-Hant' v='大野浦站南口' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057032' lat='34.28446193' lon='132.2660444'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1700 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='2' />
+    <tag k='name' v='大野浦駅南口' />
+    <tag k='name:en' v='Onoura Sta. South Entrance' />
+    <tag k='name:ja' v='大野浦駅南口' />
+    <tag k='name:ja-Hira' v='おおのうらえきみなみぐち' />
+    <tag k='name:ko' v='오노우라 역' />
+    <tag k='name:zh-Hans' v='大野浦站南口' />
+    <tag k='name:zh-Hant' v='大野浦站南口' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057033' lat='34.32309198' lon='132.3145053'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1710 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='ＪＲ阿品駅' />
+    <tag k='name:en' v='JR Ajina Sta.' />
+    <tag k='name:ja' v='ＪＲ阿品駅' />
+    <tag k='name:ja-Hira' v='じぇいあーるあじなえき' />
+    <tag k='name:ko' v='JR 아지나 역' />
+    <tag k='name:zh-Hans' v='JR阿品站' />
+    <tag k='name:zh-Hant' v='JR阿品站' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057034' lat='34.2899449' lon='132.2791098'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1800 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='下の浜' />
+    <tag k='name:en' v='Shimonohama' />
+    <tag k='name:ja' v='下の浜' />
+    <tag k='name:ja-Hira' v='したのはま' />
+    <tag k='name:ko' v='시모노하마' />
+    <tag k='name:zh-Hans' v='下之滨' />
+    <tag k='name:zh-Hant' v='下之濱' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057035' lat='34.28996157' lon='132.2791264'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1800 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='下の浜' />
+    <tag k='name:en' v='Shimonohama' />
+    <tag k='name:ja' v='下の浜' />
+    <tag k='name:ja-Hira' v='したのはま' />
+    <tag k='name:ko' v='시모노하마' />
+    <tag k='name:zh-Hans' v='下之滨' />
+    <tag k='name:zh-Hant' v='下之濱' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057036' lat='34.2934446' lon='132.2832093'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1810 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大手' />
+    <tag k='name:en' v='Ote' />
+    <tag k='name:ja' v='大手' />
+    <tag k='name:ja-Hira' v='おおて' />
+    <tag k='name:ko' v='오테' />
+    <tag k='name:zh-Hans' v='大手' />
+    <tag k='name:zh-Hant' v='大手' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057037' lat='34.2934446' lon='132.2832093'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1810 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大手' />
+    <tag k='name:en' v='Ote' />
+    <tag k='name:ja' v='大手' />
+    <tag k='name:ja-Hira' v='おおて' />
+    <tag k='name:ko' v='오테' />
+    <tag k='name:zh-Hans' v='大手' />
+    <tag k='name:zh-Hant' v='大手' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057038' lat='34.32172522' lon='132.3008398'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1820 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阿品台山の手' />
+    <tag k='name:en' v='Ajinadai Yamanote' />
+    <tag k='name:ja' v='阿品台山の手' />
+    <tag k='name:ja-Hira' v='あじなだいやまのて' />
+    <tag k='name:ko' v='아지나다이 야마노테' />
+    <tag k='name:zh-Hans' v='阿品台山之手' />
+    <tag k='name:zh-Hant' v='阿品臺山之手' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057039' lat='34.29966053' lon='132.2790093'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1840 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='池田橋' />
+    <tag k='name:en' v='Ikedabashi' />
+    <tag k='name:ja' v='池田橋' />
+    <tag k='name:ja-Hira' v='いけだばし' />
+    <tag k='name:ko' v='이케다바시' />
+    <tag k='name:zh-Hans' v='池田桥' />
+    <tag k='name:zh-Hant' v='池田橋' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057040' lat='34.29976052' lon='132.279076'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1840 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='池田橋' />
+    <tag k='name:en' v='Ikedabashi' />
+    <tag k='name:ja' v='池田橋' />
+    <tag k='name:ja-Hira' v='いけだばし' />
+    <tag k='name:ko' v='이케다바시' />
+    <tag k='name:zh-Hans' v='池田桥' />
+    <tag k='name:zh-Hant' v='池田橋' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057041' lat='34.29106134' lon='132.2730269'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1850 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大野中央' />
+    <tag k='name:en' v='Ono-chuo' />
+    <tag k='name:ja' v='大野中央' />
+    <tag k='name:ja-Hira' v='おおのちゅうおう' />
+    <tag k='name:ko' v='오노 추오' />
+    <tag k='name:zh-Hans' v='大野中央' />
+    <tag k='name:zh-Hant' v='大野中央' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057042' lat='34.29109468' lon='132.2732102'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1850 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大野中央' />
+    <tag k='name:en' v='Ono-chuo' />
+    <tag k='name:ja' v='大野中央' />
+    <tag k='name:ja-Hira' v='おおのちゅうおう' />
+    <tag k='name:ko' v='오노 추오' />
+    <tag k='name:zh-Hans' v='大野中央' />
+    <tag k='name:zh-Hant' v='大野中央' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057043' lat='34.28944493' lon='132.2773599'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1860 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='永慶寺橋' />
+    <tag k='name:ja' v='永慶寺橋' />
+    <tag k='name:ja-Hira' v='えいけいじばし' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057044' lat='34.28944493' lon='132.2773599'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1860 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='永慶寺橋' />
+    <tag k='name:ja' v='永慶寺橋' />
+    <tag k='name:ja-Hira' v='えいけいじばし' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057045' lat='34.30074393' lon='132.2893418'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='1870 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='前空駅南口' />
+    <tag k='name:ja' v='前空駅南口' />
+    <tag k='name:ja-Hira' v='まえぞらえきみなみぐち' />
+    <tag k='network' v='おおのハートバス' />
+    <tag k='operator' v='ささき観光' />
+    <tag k='operator:en' v='Sasaki Kanko' />
+    <tag k='public_transport' v='platform' />
+  </node>
+</osm>

@@ -1,0 +1,2160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-1057570' lat='34.248426' lon='132.492405'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00014_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小用' />
+    <tag k='name:en' v='Koyo' />
+    <tag k='name:ja' v='小用' />
+    <tag k='name:ja-Hira' v='こよう' />
+    <tag k='name:ko' v='고요' />
+    <tag k='name:zh-Hans' v='小用' />
+    <tag k='name:zh-Hant' v='小用' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057571' lat='34.24858' lon='132.492491'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00014_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小用' />
+    <tag k='name:en' v='Koyo' />
+    <tag k='name:ja' v='小用' />
+    <tag k='name:ja-Hira' v='こよう' />
+    <tag k='name:ko' v='고요' />
+    <tag k='name:zh-Hans' v='小用' />
+    <tag k='name:zh-Hant' v='小用' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057572' lat='34.248736' lon='132.492582'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00014_3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小用' />
+    <tag k='name:en' v='Koyo' />
+    <tag k='name:ja' v='小用' />
+    <tag k='name:ja-Hira' v='こよう' />
+    <tag k='name:ko' v='고요' />
+    <tag k='name:zh-Hans' v='小用' />
+    <tag k='name:zh-Hant' v='小用' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057573' lat='34.248888' lon='132.492655'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00014_4' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小用' />
+    <tag k='name:en' v='Koyo' />
+    <tag k='name:ja' v='小用' />
+    <tag k='name:ja-Hira' v='こよう' />
+    <tag k='name:ko' v='고요' />
+    <tag k='name:zh-Hans' v='小用' />
+    <tag k='name:zh-Hant' v='小用' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057574' lat='34.249376' lon='132.489606'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00015_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西の谷' />
+    <tag k='name:en' v='Nishinotani' />
+    <tag k='name:ja' v='西の谷' />
+    <tag k='name:ja-Hira' v='にしのたに' />
+    <tag k='name:ko' v='니시노타니' />
+    <tag k='name:zh-Hans' v='西之谷' />
+    <tag k='name:zh-Hant' v='西之谷' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057575' lat='34.249555' lon='132.489109'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00015_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西の谷' />
+    <tag k='name:en' v='Nishinotani' />
+    <tag k='name:ja' v='西の谷' />
+    <tag k='name:ja-Hira' v='にしのたに' />
+    <tag k='name:ko' v='니시노타니' />
+    <tag k='name:zh-Hans' v='西之谷' />
+    <tag k='name:zh-Hant' v='西之谷' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057576' lat='34.249967' lon='132.486389'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00016_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='柿の木田' />
+    <tag k='name:en' v='Kakinokida' />
+    <tag k='name:ja' v='柿の木田' />
+    <tag k='name:ja-Hira' v='かきのきだ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057577' lat='34.248023' lon='132.480808'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00017_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='世上口' />
+    <tag k='name:en' v='Sejoguchi' />
+    <tag k='name:ja' v='世上口' />
+    <tag k='name:ja-Hira' v='せじょうぐち' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057578' lat='34.24751' lon='132.479753'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00017_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='世上口' />
+    <tag k='name:en' v='Sejoguchi' />
+    <tag k='name:ja' v='世上口' />
+    <tag k='name:ja-Hira' v='せじょうぐち' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057579' lat='34.248162' lon='132.480039'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00017_3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='世上口' />
+    <tag k='name:en' v='Sejoguchi' />
+    <tag k='name:ja' v='世上口' />
+    <tag k='name:ja-Hira' v='せじょうぐち' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057580' lat='34.246656' lon='132.477428'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00018_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='第一術科学校前' />
+    <tag k='name:en' v='Daiichi Jukka Gakko Mae' />
+    <tag k='name:ja' v='第一術科学校前' />
+    <tag k='name:ja-Hira' v='だいいちじゅっかがっこうまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057581' lat='34.246563' lon='132.477381'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00018_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='第一術科学校前' />
+    <tag k='name:en' v='Daiichi Jukka Gakko Mae' />
+    <tag k='name:ja' v='第一術科学校前' />
+    <tag k='name:ja-Hira' v='だいいちじゅっかがっこうまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057582' lat='34.244706' lon='132.477699'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00019_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='向側' />
+    <tag k='name:en' v='Mukaigawa' />
+    <tag k='name:ja' v='向側' />
+    <tag k='name:ja-Hira' v='むかいがわ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057583' lat='34.244131' lon='132.477216'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00019_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='向側' />
+    <tag k='name:en' v='Mukaigawa' />
+    <tag k='name:ja' v='向側' />
+    <tag k='name:ja-Hira' v='むかいがわ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057584' lat='34.24239' lon='132.47643'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00020_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='八幡神社前' />
+    <tag k='name:en' v='Yahata Jinja-mae' />
+    <tag k='name:ja' v='八幡神社前' />
+    <tag k='name:ja-Hira' v='はちまんじんじゃまえ' />
+    <tag k='name:ko' v='야하타진자 신사' />
+    <tag k='name:zh-Hans' v='八幡神社前' />
+    <tag k='name:zh-Hant' v='八幡神社前' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057585' lat='34.242034' lon='132.476524'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00020_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='八幡神社前' />
+    <tag k='name:en' v='Yahata Jinja-mae' />
+    <tag k='name:ja' v='八幡神社前' />
+    <tag k='name:ja-Hira' v='はちまんじんじゃまえ' />
+    <tag k='name:ko' v='야하타진자 신사' />
+    <tag k='name:zh-Hans' v='八幡神社前' />
+    <tag k='name:zh-Hant' v='八幡神社前' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057586' lat='34.238562' lon='132.477045'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00021_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='江田島小学校前' />
+    <tag k='name:en' v='Etajima Shogakko' />
+    <tag k='name:ja' v='江田島小学校前' />
+    <tag k='name:ja-Hira' v='えたじましょうがっこうまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057587' lat='34.238176' lon='132.477393'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00021_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='江田島小学校前' />
+    <tag k='name:en' v='Etajima Shogakko' />
+    <tag k='name:ja' v='江田島小学校前' />
+    <tag k='name:ja-Hira' v='えたじましょうがっこうまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057588' lat='34.236709' lon='132.478459'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00022_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='山田' />
+    <tag k='name:en' v='Yamada' />
+    <tag k='name:ja' v='山田' />
+    <tag k='name:ja-Hira' v='やまだ' />
+    <tag k='name:ko' v='야마다' />
+    <tag k='name:zh-Hans' v='山田' />
+    <tag k='name:zh-Hant' v='山田' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057589' lat='34.236312' lon='132.478801'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00022_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='山田' />
+    <tag k='name:en' v='Yamada' />
+    <tag k='name:ja' v='山田' />
+    <tag k='name:ja-Hira' v='やまだ' />
+    <tag k='name:ko' v='야마다' />
+    <tag k='name:zh-Hans' v='山田' />
+    <tag k='name:zh-Hant' v='山田' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057590' lat='34.233233' lon='132.479743'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00023_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='江田島図書館前' />
+    <tag k='name:en' v='Etajima Toshokan Mae' />
+    <tag k='name:ja' v='江田島図書館前' />
+    <tag k='name:ja-Hira' v='えたじまとしょかんまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057591' lat='34.233652' lon='132.479694'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00023_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='江田島図書館前' />
+    <tag k='name:en' v='Etajima Toshokan Mae' />
+    <tag k='name:ja' v='江田島図書館前' />
+    <tag k='name:ja-Hira' v='えたじまとしょかんまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057592' lat='34.230946' lon='132.479821'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00024_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='鷲部中郷' />
+    <tag k='name:en' v='Washibe Nakago' />
+    <tag k='name:ja' v='鷲部中郷' />
+    <tag k='name:ja-Hira' v='わしべなかごう' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057593' lat='34.230532' lon='132.479842'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00024_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='鷲部中郷' />
+    <tag k='name:en' v='Washibe Nakago' />
+    <tag k='name:ja' v='鷲部中郷' />
+    <tag k='name:ja-Hira' v='わしべなかごう' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057594' lat='34.227231' lon='132.479583'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00025_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='鷲部' />
+    <tag k='name:en' v='Washibe' />
+    <tag k='name:ja' v='鷲部' />
+    <tag k='name:ja-Hira' v='わしべ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057595' lat='34.227312' lon='132.479713'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00025_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='鷲部' />
+    <tag k='name:en' v='Washibe' />
+    <tag k='name:ja' v='鷲部' />
+    <tag k='name:ja-Hira' v='わしべ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057596' lat='34.215679' lon='132.476187'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00026_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='江田島南部墓苑' />
+    <tag k='name:en' v='Etajima Nanbu Boen' />
+    <tag k='name:ja' v='江田島南部墓苑' />
+    <tag k='name:ja-Hira' v='えたじまなんぶぼえん' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057597' lat='34.215547' lon='132.476237'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00026_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='江田島南部墓苑' />
+    <tag k='name:en' v='Etajima Nanbu Boen' />
+    <tag k='name:ja' v='江田島南部墓苑' />
+    <tag k='name:ja-Hira' v='えたじまなんぶぼえん' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057598' lat='34.212364' lon='132.474814'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00027_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='沖平' />
+    <tag k='name:en' v='Okihira' />
+    <tag k='name:ja' v='沖平' />
+    <tag k='name:ja-Hira' v='おきひら' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057599' lat='34.212042' lon='132.475022'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00027_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='沖平' />
+    <tag k='name:en' v='Okihira' />
+    <tag k='name:ja' v='沖平' />
+    <tag k='name:ja-Hira' v='おきひら' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057600' lat='34.208377' lon='132.474384'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00028_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='江南橋' />
+    <tag k='name:en' v='Konan Bashi' />
+    <tag k='name:ja' v='江南橋' />
+    <tag k='name:ja-Hira' v='こうなんばし' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057601' lat='34.208781' lon='132.47455'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00028_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='江南橋' />
+    <tag k='name:en' v='Konan Bashi' />
+    <tag k='name:ja' v='江南橋' />
+    <tag k='name:ja-Hira' v='こうなんばし' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057602' lat='34.208189' lon='132.473904'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00028_3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='江南橋' />
+    <tag k='name:en' v='Konan Bashi' />
+    <tag k='name:ja' v='江南橋' />
+    <tag k='name:ja-Hira' v='こうなんばし' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057603' lat='34.208294' lon='132.473879'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00028_4' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='江南橋' />
+    <tag k='name:en' v='Konan Bashi' />
+    <tag k='name:ja' v='江南橋' />
+    <tag k='name:ja-Hira' v='こうなんばし' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057604' lat='34.206015' lon='132.473088'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00029_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='中継ターミナルゆめタウン前' />
+    <tag k='name:en' v='Chukei Terminal Youme Town Mae' />
+    <tag k='name:ja' v='中継ターミナルゆめタウン前' />
+    <tag k='name:ja-Hira' v='ちゅうけいたーみなるゆめたうんまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057605' lat='34.205839' lon='132.472871'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00029_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='中継ターミナルゆめタウン前' />
+    <tag k='name:en' v='Chukei Terminal Youme Town Mae' />
+    <tag k='name:ja' v='中継ターミナルゆめタウン前' />
+    <tag k='name:ja-Hira' v='ちゅうけいたーみなるゆめたうんまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057606' lat='34.205862' lon='132.472533'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00029_3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='中継ターミナルゆめタウン前' />
+    <tag k='name:en' v='Chukei Terminal Youme Town Mae' />
+    <tag k='name:ja' v='中継ターミナルゆめタウン前' />
+    <tag k='name:ja-Hira' v='ちゅうけいたーみなるゆめたうんまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057607' lat='34.198586' lon='132.473636'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00031_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='外海' />
+    <tag k='name:en' v='Sotoumi' />
+    <tag k='name:ja' v='外海' />
+    <tag k='name:ja-Hira' v='そとうみ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057608' lat='34.198067' lon='132.473654'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00031_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='外海' />
+    <tag k='name:en' v='Sotoumi' />
+    <tag k='name:ja' v='外海' />
+    <tag k='name:ja-Hira' v='そとうみ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057609' lat='34.19507' lon='132.472791'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00032_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='庭草' />
+    <tag k='name:en' v='Niwaso' />
+    <tag k='name:ja' v='庭草' />
+    <tag k='name:ja-Hira' v='にわそう' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057610' lat='34.195001' lon='132.472844'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00032_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='庭草' />
+    <tag k='name:en' v='Niwaso' />
+    <tag k='name:ja' v='庭草' />
+    <tag k='name:ja-Hira' v='にわそう' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057611' lat='34.190382' lon='132.472324'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00033_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='楠田' />
+    <tag k='name:en' v='Kusuda' />
+    <tag k='name:ja' v='楠田' />
+    <tag k='name:ja-Hira' v='くすだ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057612' lat='34.187777' lon='132.472399'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00034_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阿浜' />
+    <tag k='name:en' v='Abama' />
+    <tag k='name:ja' v='阿浜' />
+    <tag k='name:ja-Hira' v='あばま' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057613' lat='34.183079' lon='132.471566'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00035_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='柿浦浜' />
+    <tag k='name:en' v='Kakiura Hama' />
+    <tag k='name:ja' v='柿浦浜' />
+    <tag k='name:ja-Hira' v='かきうらはま' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057614' lat='34.183095' lon='132.471642'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00035_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='柿浦浜' />
+    <tag k='name:en' v='Kakiura Hama' />
+    <tag k='name:ja' v='柿浦浜' />
+    <tag k='name:ja-Hira' v='かきうらはま' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057615' lat='34.18085' lon='132.470806'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00036_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='柿浦桟橋' />
+    <tag k='name:en' v='Kakiura Sanbashi' />
+    <tag k='name:ja' v='柿浦桟橋' />
+    <tag k='name:ja-Hira' v='かきうらさんばし' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057616' lat='34.180437' lon='132.4708'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00036_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='柿浦桟橋' />
+    <tag k='name:en' v='Kakiura Sanbashi' />
+    <tag k='name:ja' v='柿浦桟橋' />
+    <tag k='name:ja-Hira' v='かきうらさんばし' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057617' lat='34.179234' lon='132.46687'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00037_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='柿浦峠' />
+    <tag k='name:en' v='Kakiura Toge' />
+    <tag k='name:ja' v='柿浦峠' />
+    <tag k='name:ja-Hira' v='かきうらとうげ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057618' lat='34.179208' lon='132.467002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00037_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='柿浦峠' />
+    <tag k='name:en' v='Kakiura Toge' />
+    <tag k='name:ja' v='柿浦峠' />
+    <tag k='name:ja-Hira' v='かきうらとうげ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057619' lat='34.175432' lon='132.462911'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00038_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='江田島市役所前' />
+    <tag k='name:en' v='Etajima Shiyakusho Mae' />
+    <tag k='name:ja' v='江田島市役所前' />
+    <tag k='name:ja-Hira' v='えたじましやくしょまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057620' lat='34.17534' lon='132.462856'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00038_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='江田島市役所前' />
+    <tag k='name:en' v='Etajima Shiyakusho Mae' />
+    <tag k='name:ja' v='江田島市役所前' />
+    <tag k='name:ja-Hira' v='えたじましやくしょまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057621' lat='34.179088' lon='132.469408'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00040_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='柿浦' />
+    <tag k='name:en' v='Kakiura' />
+    <tag k='name:ja' v='柿浦' />
+    <tag k='name:ja-Hira' v='かきうら' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057622' lat='34.17907' lon='132.469532'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00040_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='柿浦' />
+    <tag k='name:en' v='Kakiura' />
+    <tag k='name:ja' v='柿浦' />
+    <tag k='name:ja-Hira' v='かきうら' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057623' lat='34.17694' lon='132.471806'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00041_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='常道' />
+    <tag k='name:en' v='Tsunemichi' />
+    <tag k='name:ja' v='常道' />
+    <tag k='name:ja-Hira' v='つねみち' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057624' lat='34.176989' lon='132.471873'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00041_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='常道' />
+    <tag k='name:en' v='Tsunemichi' />
+    <tag k='name:ja' v='常道' />
+    <tag k='name:ja-Hira' v='つねみち' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057625' lat='34.177078' lon='132.474953'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00042_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='坊地' />
+    <tag k='name:en' v='Boji' />
+    <tag k='name:ja' v='坊地' />
+    <tag k='name:ja-Hira' v='ぼうじ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057626' lat='34.174713' lon='132.477858'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00043_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='壱畝町' />
+    <tag k='name:en' v='Hitosemachi' />
+    <tag k='name:ja' v='壱畝町' />
+    <tag k='name:ja-Hira' v='ひとせまち' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057627' lat='34.174764' lon='132.477939'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00043_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='壱畝町' />
+    <tag k='name:en' v='Hitosemachi' />
+    <tag k='name:ja' v='壱畝町' />
+    <tag k='name:ja-Hira' v='ひとせまち' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057628' lat='34.170709' lon='132.479493'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00044_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大君' />
+    <tag k='name:en' v='Okimi' />
+    <tag k='name:ja' v='大君' />
+    <tag k='name:ja-Hira' v='おおきみ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057629' lat='34.170285' lon='132.479797'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00044_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大君' />
+    <tag k='name:en' v='Okimi' />
+    <tag k='name:ja' v='大君' />
+    <tag k='name:ja-Hira' v='おおきみ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057630' lat='34.168781' lon='132.478729'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00045_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='南大君' />
+    <tag k='name:en' v='Minami Okimi' />
+    <tag k='name:ja' v='南大君' />
+    <tag k='name:ja-Hira' v='みなみおおきみ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057631' lat='34.168754' lon='132.478829'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00045_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='南大君' />
+    <tag k='name:en' v='Minami Okimi' />
+    <tag k='name:ja' v='南大君' />
+    <tag k='name:ja-Hira' v='みなみおおきみ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057632' lat='34.169639' lon='132.46902'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00046_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='河内' />
+    <tag k='name:en' v='Kochi' />
+    <tag k='name:ja' v='河内' />
+    <tag k='name:ja-Hira' v='こうち' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057633' lat='34.171055' lon='132.467348'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00047_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='能美大原' />
+    <tag k='name:en' v='Nomi Ohara' />
+    <tag k='name:ja' v='能美大原' />
+    <tag k='name:ja-Hira' v='のうみおおはら' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057634' lat='34.170657' lon='132.467313'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00047_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='能美大原' />
+    <tag k='name:en' v='Nomi Ohara' />
+    <tag k='name:ja' v='能美大原' />
+    <tag k='name:ja-Hira' v='のうみおおはら' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057635' lat='34.172786' lon='132.464626'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00048_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大柿老人福祉センター' />
+    <tag k='name:en' v='Ogaki Rojin Fukushi Center' />
+    <tag k='name:ja' v='大柿老人福祉センター' />
+    <tag k='name:ja-Hira' v='おおがきろうじんふくしせんたー' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057636' lat='34.172612' lon='132.464869'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00048_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大柿老人福祉センター' />
+    <tag k='name:en' v='Ogaki Rojin Fukushi Center' />
+    <tag k='name:ja' v='大柿老人福祉センター' />
+    <tag k='name:ja-Hira' v='おおがきろうじんふくしせんたー' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057637' lat='34.173558' lon='132.462298'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00049_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='認定こども園おおがき前' />
+    <tag k='name:en' v='Nintei Kodomoen Ogaki Mae' />
+    <tag k='name:ja' v='認定こども園おおがき前' />
+    <tag k='name:ja-Hira' v='にんていこどもえんおおがきまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057638' lat='34.173331' lon='132.46275'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00049_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='認定こども園おおがき前' />
+    <tag k='name:en' v='Nintei Kodomoen Ogaki Mae' />
+    <tag k='name:ja' v='認定こども園おおがき前' />
+    <tag k='name:ja-Hira' v='にんていこどもえんおおがきまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057639' lat='34.17411' lon='132.460653'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00050_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大柿高校前' />
+    <tag k='name:en' v='Ogaki Koko Mae' />
+    <tag k='name:ja' v='大柿高校前' />
+    <tag k='name:ja-Hira' v='おおがきこうこうまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057640' lat='34.174097' lon='132.460481'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00050_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大柿高校前' />
+    <tag k='name:en' v='Ogaki Koko Mae' />
+    <tag k='name:ja' v='大柿高校前' />
+    <tag k='name:ja-Hira' v='おおがきこうこうまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057641' lat='34.174671' lon='132.460585'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00050_3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大柿高校前' />
+    <tag k='name:en' v='Ogaki Koko Mae' />
+    <tag k='name:ja' v='大柿高校前' />
+    <tag k='name:ja-Hira' v='おおがきこうこうまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057642' lat='34.17465' lon='132.460654'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00050_4' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大柿高校前' />
+    <tag k='name:en' v='Ogaki Koko Mae' />
+    <tag k='name:ja' v='大柿高校前' />
+    <tag k='name:ja-Hira' v='おおがきこうこうまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057643' lat='34.172659' lon='132.457412'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00051_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西沖' />
+    <tag k='name:en' v='Nishi-oki' />
+    <tag k='name:ja' v='西沖' />
+    <tag k='name:ja-Hira' v='にしおき' />
+    <tag k='name:ko' v='니시오키' />
+    <tag k='name:zh-Hans' v='西冲' />
+    <tag k='name:zh-Hant' v='西衝' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057644' lat='34.171002' lon='132.45371'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00052_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='鴨田' />
+    <tag k='name:en' v='Kamoda' />
+    <tag k='name:ja' v='鴨田' />
+    <tag k='name:ja-Hira' v='かもだ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057645' lat='34.170837' lon='132.453544'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00052_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='鴨田' />
+    <tag k='name:en' v='Kamoda' />
+    <tag k='name:ja' v='鴨田' />
+    <tag k='name:ja-Hira' v='かもだ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057646' lat='34.170082' lon='132.452194'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00053_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='深江東' />
+    <tag k='name:en' v='Fukae Higashi' />
+    <tag k='name:ja' v='深江東' />
+    <tag k='name:ja-Hira' v='ふかえひがし' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057647' lat='34.16951' lon='132.451152'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00054_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='深江' />
+    <tag k='name:en' v='Fukae' />
+    <tag k='name:ja' v='深江' />
+    <tag k='name:ja-Hira' v='ふかえ' />
+    <tag k='name:ko' v='후카에' />
+    <tag k='name:zh-Hans' v='深江' />
+    <tag k='name:zh-Hant' v='深江' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057648' lat='34.167695' lon='132.44974'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00055_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='深江港' />
+    <tag k='name:en' v='Fukaeko' />
+    <tag k='name:ja' v='深江港' />
+    <tag k='name:ja-Hira' v='ふかえこう' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057649' lat='34.166028' lon='132.448605'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00056_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='須野本' />
+    <tag k='name:en' v='Sunomoto' />
+    <tag k='name:ja' v='須野本' />
+    <tag k='name:ja-Hira' v='すのもと' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057650' lat='34.175449' lon='132.458123'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00057_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='ＪＡ呉大古支店前' />
+    <tag k='name:en' v='JA  Kure Ofuru Shiten Mae' />
+    <tag k='name:ja' v='ＪＡ呉大古支店前' />
+    <tag k='name:ja-Hira' v='じぇいえいくれおおふるしてんまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057651' lat='34.175424' lon='132.458006'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00057_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='ＪＡ呉大古支店前' />
+    <tag k='name:en' v='JA  Kure Ofuru Shiten Mae' />
+    <tag k='name:ja' v='ＪＡ呉大古支店前' />
+    <tag k='name:ja-Hira' v='じぇいえいくれおおふるしてんまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057652' lat='34.179713' lon='132.456357'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00058_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='峰ヶ迫' />
+    <tag k='name:en' v='Minegasako' />
+    <tag k='name:ja' v='峰ヶ迫' />
+    <tag k='name:ja-Hira' v='みねがさこ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057653' lat='34.179582' lon='132.456323'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00058_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='峰ヶ迫' />
+    <tag k='name:en' v='Minegasako' />
+    <tag k='name:ja' v='峰ヶ迫' />
+    <tag k='name:ja-Hira' v='みねがさこ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057654' lat='34.181223' lon='132.454903'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00059_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='澤医院前' />
+    <tag k='name:en' v='Sawa Iin-mae' />
+    <tag k='name:ja' v='澤医院前' />
+    <tag k='name:ja-Hira' v='さわいいんまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057655' lat='34.184884' lon='132.451566'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00060_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='余防' />
+    <tag k='name:en' v='Yobo' />
+    <tag k='name:ja' v='余防' />
+    <tag k='name:ja-Hira' v='よぼう' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057656' lat='34.190672' lon='132.4444'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00061_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='鎌木' />
+    <tag k='name:en' v='Kamagi' />
+    <tag k='name:ja' v='鎌木' />
+    <tag k='name:ja-Hira' v='かまぎ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057657' lat='34.190535' lon='132.444343'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00061_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='鎌木' />
+    <tag k='name:en' v='Kamagi' />
+    <tag k='name:ja' v='鎌木' />
+    <tag k='name:ja-Hira' v='かまぎ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057658' lat='34.19342' lon='132.443644'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00062_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='東浜' />
+    <tag k='name:en' v='Higashihama' />
+    <tag k='name:ja' v='東浜' />
+    <tag k='name:ja-Hira' v='ひがしはま' />
+    <tag k='name:ko' v='히가시하마' />
+    <tag k='name:zh-Hans' v='东滨' />
+    <tag k='name:zh-Hant' v='東濱' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057659' lat='34.194166' lon='132.443498'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00062_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='東浜' />
+    <tag k='name:en' v='Higashihama' />
+    <tag k='name:ja' v='東浜' />
+    <tag k='name:ja-Hira' v='ひがしはま' />
+    <tag k='name:ko' v='히가시하마' />
+    <tag k='name:zh-Hans' v='东滨' />
+    <tag k='name:zh-Hant' v='東濱' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057660' lat='34.196397' lon='132.442378'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00063_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='中浜' />
+    <tag k='name:en' v='Nakahama' />
+    <tag k='name:ja' v='中浜' />
+    <tag k='name:ja-Hira' v='なかはま' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057661' lat='34.196435' lon='132.442262'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00063_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='中浜' />
+    <tag k='name:en' v='Nakahama' />
+    <tag k='name:ja' v='中浜' />
+    <tag k='name:ja-Hira' v='なかはま' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057662' lat='34.199153' lon='132.440923'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00064_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='鹿川小学校前' />
+    <tag k='name:en' v='Kanokawa Chugakko Mae' />
+    <tag k='name:ja' v='鹿川小学校前' />
+    <tag k='name:ja-Hira' v='かのかわしょうがっこうまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057663' lat='34.199604' lon='132.440353'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00064_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='鹿川小学校前' />
+    <tag k='name:en' v='Kanokawa Chugakko Mae' />
+    <tag k='name:ja' v='鹿川小学校前' />
+    <tag k='name:ja-Hira' v='かのかわしょうがっこうまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057664' lat='34.200716' lon='132.439502'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00065_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='是長口' />
+    <tag k='name:en' v='Korenagaguchi' />
+    <tag k='name:ja' v='是長口' />
+    <tag k='name:ja-Hira' v='これながぐち' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057665' lat='34.20202' lon='132.439189'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00065_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='是長口' />
+    <tag k='name:en' v='Korenagaguchi' />
+    <tag k='name:ja' v='是長口' />
+    <tag k='name:ja-Hira' v='これながぐち' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057666' lat='34.20145' lon='132.438663'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00065_3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='是長口' />
+    <tag k='name:en' v='Korenagaguchi' />
+    <tag k='name:ja' v='是長口' />
+    <tag k='name:ja-Hira' v='これながぐち' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057667' lat='34.203522' lon='132.439413'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00066_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='下郷' />
+    <tag k='name:en' v='Shimogo' />
+    <tag k='name:ja' v='下郷' />
+    <tag k='name:ja-Hira' v='しもごう' />
+    <tag k='name:ko' v='시모고' />
+    <tag k='name:zh-Hans' v='下乡' />
+    <tag k='name:zh-Hant' v='下鄉' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057668' lat='34.203635' lon='132.439389'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00066_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='下郷' />
+    <tag k='name:en' v='Shimogo' />
+    <tag k='name:ja' v='下郷' />
+    <tag k='name:ja-Hira' v='しもごう' />
+    <tag k='name:ko' v='시모고' />
+    <tag k='name:zh-Hans' v='下乡' />
+    <tag k='name:zh-Hant' v='下鄉' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057669' lat='34.205937' lon='132.440859'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00067_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='上郷' />
+    <tag k='name:en' v='Kamigo' />
+    <tag k='name:ja' v='上郷' />
+    <tag k='name:ja-Hira' v='かみごう' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057670' lat='34.209823' lon='132.44132'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00068_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='永田' />
+    <tag k='name:en' v='Nagata' />
+    <tag k='name:ja' v='永田' />
+    <tag k='name:ja-Hira' v='えいだ' />
+    <tag k='name:ko' v='나가타' />
+    <tag k='name:zh-Hans' v='永田' />
+    <tag k='name:zh-Hant' v='永田' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057671' lat='34.212412' lon='132.442012'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00069_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='宮山' />
+    <tag k='name:en' v='Miyayama' />
+    <tag k='name:ja' v='宮山' />
+    <tag k='name:ja-Hira' v='みややま' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057672' lat='34.216341' lon='132.442256'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00070_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='迫田口' />
+    <tag k='name:en' v='Sakodaguchi' />
+    <tag k='name:ja' v='迫田口' />
+    <tag k='name:ja-Hira' v='さこだぐち' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057673' lat='34.216012' lon='132.442138'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00070_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='迫田口' />
+    <tag k='name:en' v='Sakodaguchi' />
+    <tag k='name:ja' v='迫田口' />
+    <tag k='name:ja-Hira' v='さこだぐち' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057674' lat='34.217873' lon='132.442119'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00071_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='能美中学校前' />
+    <tag k='name:en' v='Nomi Chugakko Mae' />
+    <tag k='name:ja' v='能美中学校前' />
+    <tag k='name:ja-Hira' v='のうみちゅうがっこうまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057675' lat='34.219878' lon='132.442761'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00072_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='長石' />
+    <tag k='name:en' v='Nagaishi' />
+    <tag k='name:ja' v='長石' />
+    <tag k='name:ja-Hira' v='ながいし' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057676' lat='34.219792' lon='132.442605'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00072_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='長石' />
+    <tag k='name:en' v='Nagaishi' />
+    <tag k='name:ja' v='長石' />
+    <tag k='name:ja-Hira' v='ながいし' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057677' lat='34.223622' lon='132.444447'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00073_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='中町桟橋' />
+    <tag k='name:en' v='Nakamachi Sanbashi' />
+    <tag k='name:ja' v='中町桟橋' />
+    <tag k='name:ja-Hira' v='なかまちさんばし' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057678' lat='34.223605' lon='132.44405'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00073_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='中町桟橋' />
+    <tag k='name:en' v='Nakamachi Sanbashi' />
+    <tag k='name:ja' v='中町桟橋' />
+    <tag k='name:ja-Hira' v='なかまちさんばし' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057679' lat='34.223701' lon='132.447572'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00074_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='黒張' />
+    <tag k='name:en' v='Kurohari' />
+    <tag k='name:ja' v='黒張' />
+    <tag k='name:ja-Hira' v='くろはり' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057680' lat='34.223664' lon='132.447696'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00074_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='黒張' />
+    <tag k='name:en' v='Kurohari' />
+    <tag k='name:ja' v='黒張' />
+    <tag k='name:ja-Hira' v='くろはり' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057681' lat='34.225636' lon='132.452312'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00075_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='長瀬海岸' />
+    <tag k='name:en' v='Nagase Kaigan' />
+    <tag k='name:ja' v='長瀬海岸' />
+    <tag k='name:ja-Hira' v='ながせかいがん' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057682' lat='34.225634' lon='132.452812'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00075_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='長瀬海岸' />
+    <tag k='name:en' v='Nagase Kaigan' />
+    <tag k='name:ja' v='長瀬海岸' />
+    <tag k='name:ja-Hira' v='ながせかいがん' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057683' lat='34.228143' lon='132.45773'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00076_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='松ヶ鼻' />
+    <tag k='name:en' v='Matsugahama' />
+    <tag k='name:ja' v='松ヶ鼻' />
+    <tag k='name:ja-Hira' v='まつがはな' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057684' lat='34.221918' lon='132.460873'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00077_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='墓地公園前' />
+    <tag k='name:en' v='Bochi Koen Mae' />
+    <tag k='name:ja' v='墓地公園前' />
+    <tag k='name:ja-Hira' v='ぼちこうえんまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057685' lat='34.214712' lon='132.465312'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00078_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大盤団地' />
+    <tag k='name:en' v='Oban Danchi' />
+    <tag k='name:ja' v='大盤団地' />
+    <tag k='name:ja-Hira' v='おおばんだんち' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057686' lat='34.214677' lon='132.465222'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00078_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大盤団地' />
+    <tag k='name:en' v='Oban Danchi' />
+    <tag k='name:ja' v='大盤団地' />
+    <tag k='name:ja-Hira' v='おおばんだんち' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057687' lat='34.209543' lon='132.469885'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00079_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='内海' />
+    <tag k='name:en' v='Uchiumi' />
+    <tag k='name:ja' v='内海' />
+    <tag k='name:ja-Hira' v='うちうみ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057688' lat='34.209515' lon='132.469797'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00079_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='内海' />
+    <tag k='name:en' v='Uchiumi' />
+    <tag k='name:ja' v='内海' />
+    <tag k='name:ja-Hira' v='うちうみ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057689' lat='34.224262' lon='132.440682'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00080_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='見浪橋' />
+    <tag k='name:en' v='Minamibashi' />
+    <tag k='name:ja' v='見浪橋' />
+    <tag k='name:ja-Hira' v='みなみばし' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057690' lat='34.2289' lon='132.437038'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00081_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='南区' />
+    <tag k='name:en' v='Minamiku' />
+    <tag k='name:ja' v='南区' />
+    <tag k='name:ja-Hira' v='みなみく' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057691' lat='34.231438' lon='132.436297'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00082_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='荒神橋' />
+    <tag k='name:en' v='Kojin Bashi' />
+    <tag k='name:ja' v='荒神橋' />
+    <tag k='name:ja-Hira' v='こうじんばし' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057692' lat='34.23148' lon='132.436226'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00082_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='荒神橋' />
+    <tag k='name:en' v='Kojin Bashi' />
+    <tag k='name:ja' v='荒神橋' />
+    <tag k='name:ja-Hira' v='こうじんばし' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057693' lat='34.233931' lon='132.436398'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00083_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='沖北' />
+    <tag k='name:en' v='Okikita' />
+    <tag k='name:ja' v='沖北' />
+    <tag k='name:ja-Hira' v='おききた' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057694' lat='34.235395' lon='132.434682'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00084_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='高田桟橋前' />
+    <tag k='name:en' v='Takata Sanbashi Mae' />
+    <tag k='name:ja' v='高田桟橋前' />
+    <tag k='name:ja-Hira' v='たかたさんばしまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057695' lat='34.236521' lon='132.435239'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00085_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='高田桟橋' />
+    <tag k='name:en' v='Takata Sanbashi' />
+    <tag k='name:ja' v='高田桟橋' />
+    <tag k='name:ja-Hira' v='たかたさんばし' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057696' lat='34.238113' lon='132.433743'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00086_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小方' />
+    <tag k='name:en' v='Ogata' />
+    <tag k='name:ja' v='小方' />
+    <tag k='name:ja-Hira' v='おがた' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057697' lat='34.259238' lon='132.413701'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00087_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小島' />
+    <tag k='name:en' v='Kojima' />
+    <tag k='name:ja' v='小島' />
+    <tag k='name:ja-Hira' v='こじま' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057698' lat='34.258724' lon='132.410671'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00088_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='三高口' />
+    <tag k='name:en' v='Mitakaguchi' />
+    <tag k='name:ja' v='三高口' />
+    <tag k='name:ja-Hira' v='みたかぐち' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057699' lat='34.259087' lon='132.407774'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00089_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='三高桟橋' />
+    <tag k='name:en' v='Mitaka Sanbashi' />
+    <tag k='name:ja' v='三高桟橋' />
+    <tag k='name:ja-Hira' v='みたかさんばし' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057700' lat='34.258391' lon='132.406148'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00090_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='三高' />
+    <tag k='name:en' v='Mitaka' />
+    <tag k='name:ja' v='三高' />
+    <tag k='name:ja-Hira' v='みたか' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057701' lat='34.259061' lon='132.403476'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00091_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='三高中学校前' />
+    <tag k='name:en' v='Mitaka Chugakko Mae' />
+    <tag k='name:ja' v='三高中学校前' />
+    <tag k='name:ja-Hira' v='みたかちゅうがっこうまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057702' lat='34.258987' lon='132.403796'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00091_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='三高中学校前' />
+    <tag k='name:en' v='Mitaka Chugakko Mae' />
+    <tag k='name:ja' v='三高中学校前' />
+    <tag k='name:ja-Hira' v='みたかちゅうがっこうまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057703' lat='34.258561' lon='132.398378'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00092_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='高祖' />
+    <tag k='name:en' v='Koso' />
+    <tag k='name:ja' v='高祖' />
+    <tag k='name:ja-Hira' v='こうそ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057704' lat='34.260147' lon='132.393848'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00093_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='豊作原住宅前' />
+    <tag k='name:en' v='Horakubara Jutaku Mae' />
+    <tag k='name:ja' v='豊作原住宅前' />
+    <tag k='name:ja-Hira' v='ほうさくばらじゅうたくまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057705' lat='34.259815' lon='132.391133'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00094_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大間' />
+    <tag k='name:en' v='Oma' />
+    <tag k='name:ja' v='大間' />
+    <tag k='name:ja-Hira' v='おおま' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057706' lat='34.257231' lon='132.384551'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00095_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='亀原' />
+    <tag k='name:en' v='Kamehara' />
+    <tag k='name:ja' v='亀原' />
+    <tag k='name:ja-Hira' v='かめはら' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057707' lat='34.257179' lon='132.384595'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00095_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='亀原' />
+    <tag k='name:en' v='Kamehara' />
+    <tag k='name:ja' v='亀原' />
+    <tag k='name:ja-Hira' v='かめはら' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057708' lat='34.256468' lon='132.3821'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00096_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='沖美ふれあいセンター前' />
+    <tag k='name:en' v='Okimi Fureai Center Mae' />
+    <tag k='name:ja' v='沖美ふれあいセンター前' />
+    <tag k='name:ja-Hira' v='おきみふれあいせんたーまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057709' lat='34.253787' lon='132.381805'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00097_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='美能' />
+    <tag k='name:en' v='Mino' />
+    <tag k='name:ja' v='美能' />
+    <tag k='name:ja-Hira' v='みのう' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057710' lat='34.253758' lon='132.381877'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00097_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='美能' />
+    <tag k='name:en' v='Mino' />
+    <tag k='name:ja' v='美能' />
+    <tag k='name:ja-Hira' v='みのう' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057711' lat='34.242647' lon='132.388057'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00098_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='わだて' />
+    <tag k='name:en' v='Wadate' />
+    <tag k='name:ja' v='わだて' />
+    <tag k='name:ja-Hira' v='わだて' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057712' lat='34.239878' lon='132.390032'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00099_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='ニューブルービーチ前' />
+    <tag k='name:en' v='New Blue Beach Mae' />
+    <tag k='name:ja' v='ニューブルービーチ前' />
+    <tag k='name:ja-Hira' v='にゅーぶるーびーちまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057713' lat='34.233523' lon='132.392989'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00100_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='砠' />
+    <tag k='name:en' v='Sowa' />
+    <tag k='name:ja' v='砠' />
+    <tag k='name:ja-Hira' v='そうわ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057714' lat='34.227083' lon='132.392067'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00101_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='鹿田公園前' />
+    <tag k='name:en' v='Shikata Koen Mae' />
+    <tag k='name:ja' v='鹿田公園前' />
+    <tag k='name:ja-Hira' v='しかたこうえんまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057715' lat='34.224835' lon='132.394567'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00102_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='堂道' />
+    <tag k='name:en' v='Dodo' />
+    <tag k='name:ja' v='堂道' />
+    <tag k='name:ja-Hira' v='どうどう' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057716' lat='34.219215' lon='132.395462'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00103_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='林山' />
+    <tag k='name:en' v='Hayashiyama' />
+    <tag k='name:ja' v='林山' />
+    <tag k='name:ja-Hira' v='はやしやま' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057717' lat='34.214956' lon='132.398327'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00104_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='是長' />
+    <tag k='name:en' v='Korenaga' />
+    <tag k='name:ja' v='是長' />
+    <tag k='name:ja-Hira' v='これなが' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057718' lat='34.210618' lon='132.402694'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00105_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='松崎' />
+    <tag k='name:en' v='Massaki' />
+    <tag k='name:ja' v='松崎' />
+    <tag k='name:ja-Hira' v='まさき' />
+    <tag k='name:ko' v='맛사키' />
+    <tag k='name:zh-Hans' v='松崎' />
+    <tag k='name:zh-Hant' v='松崎' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057719' lat='34.208981' lon='132.405569'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00106_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='沖美市民センター前' />
+    <tag k='name:en' v='Oki Shimin Center Mae' />
+    <tag k='name:ja' v='沖美市民センター前' />
+    <tag k='name:ja-Hira' v='おきみしみんせんたーまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057720' lat='34.206625' lon='132.408519'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00107_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='畑' />
+    <tag k='name:en' v='Hata' />
+    <tag k='name:ja' v='畑' />
+    <tag k='name:ja-Hira' v='はた' />
+    <tag k='name:ko' v='하타' />
+    <tag k='name:zh-Hans' v='畑' />
+    <tag k='name:zh-Hant' v='畑' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057721' lat='34.205511' lon='132.410182'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00108_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='岡' />
+    <tag k='name:en' v='Oka' />
+    <tag k='name:ja' v='岡' />
+    <tag k='name:ja-Hira' v='おか' />
+    <tag k='name:ko' v='오카' />
+    <tag k='name:zh-Hans' v='冈' />
+    <tag k='name:zh-Hant' v='岡' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057722' lat='34.203194' lon='132.412978'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00109_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大王' />
+    <tag k='name:en' v='Daiou' />
+    <tag k='name:ja' v='大王' />
+    <tag k='name:ja-Hira' v='だいおう' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057723' lat='34.20224' lon='132.414646'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00110_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大王神社前' />
+    <tag k='name:en' v='Daiou Jinja Mae' />
+    <tag k='name:ja' v='大王神社前' />
+    <tag k='name:ja-Hira' v='だいおうじんじゃまえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057724' lat='34.199931' lon='132.421164'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00111_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小田' />
+    <tag k='name:en' v='Oda' />
+    <tag k='name:ja' v='小田' />
+    <tag k='name:ja-Hira' v='おだ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057725' lat='34.199101' lon='132.420281'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00111_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小田' />
+    <tag k='name:en' v='Oda' />
+    <tag k='name:ja' v='小田' />
+    <tag k='name:ja-Hira' v='おだ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057726' lat='34.249111' lon='132.476736'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00112_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='中郷公園' />
+    <tag k='name:en' v='Nakago Koen Mae' />
+    <tag k='name:ja' v='中郷公園' />
+    <tag k='name:ja-Hira' v='なかごうこうえん' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057727' lat='34.249047' lon='132.476687'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00112_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='中郷公園' />
+    <tag k='name:en' v='Nakago Koen Mae' />
+    <tag k='name:ja' v='中郷公園' />
+    <tag k='name:ja-Hira' v='なかごうこうえん' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057728' lat='34.250056' lon='132.474368'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00113_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='奥小路' />
+    <tag k='name:en' v='Okushoji' />
+    <tag k='name:ja' v='奥小路' />
+    <tag k='name:ja-Hira' v='おくしょうじ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057729' lat='34.249138' lon='132.465597'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00114_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='世上' />
+    <tag k='name:en' v='Sejo' />
+    <tag k='name:ja' v='世上' />
+    <tag k='name:ja-Hira' v='せじょう' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057730' lat='34.250614' lon='132.462544'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00115_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='世上大橋' />
+    <tag k='name:en' v='Sejo Ohashi' />
+    <tag k='name:ja' v='世上大橋' />
+    <tag k='name:ja-Hira' v='せじょうおおはし' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057731' lat='34.252162' lon='132.460999'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00116_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='宮ノ原２丁目' />
+    <tag k='name:en' v='nichome' />
+    <tag k='name:ja' v='宮ノ原２丁目' />
+    <tag k='name:ja-Hira' v='みやのはらにちょうめ' />
+    <tag k='name:ko' v='2초메' />
+    <tag k='name:zh-Hans' v='2丁目' />
+    <tag k='name:zh-Hant' v='2丁目' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057732' lat='34.255895' lon='132.457936'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00117_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='一つ川橋' />
+    <tag k='name:en' v='Hitotsu Kawa Bashi' />
+    <tag k='name:ja' v='一つ川橋' />
+    <tag k='name:ja-Hira' v='ひとつかわばし' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057733' lat='34.25985' lon='132.456027'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00118_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='石風呂' />
+    <tag k='name:en' v='Ishiburo' />
+    <tag k='name:ja' v='石風呂' />
+    <tag k='name:ja-Hira' v='いしぶろ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057734' lat='34.26435' lon='132.452706'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00119_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大原' />
+    <tag k='name:en' v='Ohara' />
+    <tag k='name:ja' v='大原' />
+    <tag k='name:ja-Hira' v='おおはら' />
+    <tag k='name:ko' v='오하라' />
+    <tag k='name:zh-Hans' v='大原' />
+    <tag k='name:zh-Hant' v='大原' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057735' lat='34.260799' lon='132.451767'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00120_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大原口' />
+    <tag k='name:en' v='Oharaguchi' />
+    <tag k='name:ja' v='大原口' />
+    <tag k='name:ja-Hira' v='おおはらぐち' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057736' lat='34.261002' lon='132.451582'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00120_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大原口' />
+    <tag k='name:en' v='Oharaguchi' />
+    <tag k='name:ja' v='大原口' />
+    <tag k='name:ja-Hira' v='おおはらぐち' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057737' lat='34.257584' lon='132.450292'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00121_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='青少年交流の家入口' />
+    <tag k='name:en' v='Seishonen Koryu no Ie Iriguchi' />
+    <tag k='name:ja' v='青少年交流の家入口' />
+    <tag k='name:ja-Hira' v='せいしょうねんこうりゅうのいえいりぐち' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057738' lat='34.249523' lon='132.44953'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00122_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='津久茂' />
+    <tag k='name:en' v='Tsukumo' />
+    <tag k='name:ja' v='津久茂' />
+    <tag k='name:ja-Hira' v='つくも' />
+    <tag k='name:ko' v='쓰쿠모' />
+    <tag k='name:zh-Hans' v='津久茂' />
+    <tag k='name:zh-Hant' v='津久茂' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057739' lat='34.226902' lon='132.49119'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00128_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='秋月' />
+    <tag k='name:en' v='Akiduki' />
+    <tag k='name:ja' v='秋月' />
+    <tag k='name:ja-Hira' v='あきづき' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057740' lat='34.230122' lon='132.491749'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='00129_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='秋月桟橋' />
+    <tag k='name:en' v='Akiduki Sanbashi' />
+    <tag k='name:ja' v='秋月桟橋' />
+    <tag k='name:ja-Hira' v='あきづきさんばし' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057741' lat='34.203316' lon='132.473923'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='0030_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='飛渡瀬' />
+    <tag k='name:en' v='Hitonose' />
+    <tag k='name:ja' v='飛渡瀬' />
+    <tag k='name:ja-Hira' v='ひとのせ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057742' lat='34.202796' lon='132.473987'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='0030_2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='飛渡瀬' />
+    <tag k='name:en' v='Hitonose' />
+    <tag k='name:ja' v='飛渡瀬' />
+    <tag k='name:ja-Hira' v='ひとのせ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057743' lat='34.180058' lon='132.470292'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='130_1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='一光ハマ前' />
+    <tag k='name:en' v='Ikko Hama-mae' />
+    <tag k='name:ja' v='一光ハマ前' />
+    <tag k='name:ja-Hira' v='いっこうはままえ' />
+    <tag k='operator' v='江田島バス' />
+    <tag k='operator:en' v='Etajima Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+</osm>

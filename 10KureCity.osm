@@ -1,0 +1,4369 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-1057046' lat='34.30086526' lon='132.5572862'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25230 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='北原' />
+    <tag k='name:en' v='Kitahara' />
+    <tag k='name:ja' v='北原' />
+    <tag k='name:ja-Hira' v='きたはら' />
+    <tag k='name:ko' v='기타하라' />
+    <tag k='name:zh-Hans' v='北原' />
+    <tag k='name:zh-Hant' v='北原' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057047' lat='34.30093192' lon='132.5571528'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25230 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='北原' />
+    <tag k='name:en' v='Kitahara' />
+    <tag k='name:ja' v='北原' />
+    <tag k='name:ja-Hira' v='きたはら' />
+    <tag k='name:ko' v='기타하라' />
+    <tag k='name:zh-Hans' v='北原' />
+    <tag k='name:zh-Hant' v='北原' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057048' lat='34.29603245' lon='132.5578197'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25239 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='昭和市民センター前' />
+    <tag k='name:en' v='Showa Shimin Center-mae' />
+    <tag k='name:ja' v='昭和市民センター前' />
+    <tag k='name:ja-Hira' v='しょうわしみんせんたーまえ' />
+    <tag k='name:ko' v='쇼와 시민센터' />
+    <tag k='name:zh-Hans' v='昭和市民中心前' />
+    <tag k='name:zh-Hant' v='昭和市民中心前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057049' lat='34.29616577' lon='132.557603'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25239 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='昭和市民センター前' />
+    <tag k='name:en' v='Showa Shimin Center-mae' />
+    <tag k='name:ja' v='昭和市民センター前' />
+    <tag k='name:ja-Hira' v='しょうわしみんせんたーまえ' />
+    <tag k='name:ko' v='쇼와 시민센터' />
+    <tag k='name:zh-Hans' v='昭和市民中心前' />
+    <tag k='name:zh-Hant' v='昭和市民中心前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057050' lat='34.29594909' lon='132.5555365'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25241 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='昭和市民センター西' />
+    <tag k='name:en' v='Showa Shimin Center-nishi' />
+    <tag k='name:ja' v='昭和市民センター西' />
+    <tag k='name:ja-Hira' v='しょうわしみんせんたーにし' />
+    <tag k='name:ko' v='쇼와 시민센터 서쪽' />
+    <tag k='name:zh-Hans' v='昭和市民中心西' />
+    <tag k='name:zh-Hant' v='昭和市民中心西' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057051' lat='34.2955659' lon='132.5611361'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25390 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='仲間が原' />
+    <tag k='name:en' v='Nakamagahara' />
+    <tag k='name:ja' v='仲間が原' />
+    <tag k='name:ja-Hira' v='なかまがはら' />
+    <tag k='name:ko' v='나카마가하라' />
+    <tag k='name:zh-Hans' v='仲间原' />
+    <tag k='name:zh-Hant' v='仲間原' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057052' lat='34.29573254' lon='132.5610694'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25390 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='仲間が原' />
+    <tag k='name:en' v='Nakamagahara' />
+    <tag k='name:ja' v='仲間が原' />
+    <tag k='name:ja-Hira' v='なかまがはら' />
+    <tag k='name:ko' v='나카마가하라' />
+    <tag k='name:zh-Hans' v='仲间原' />
+    <tag k='name:zh-Hant' v='仲間原' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057053' lat='34.25297083' lon='132.5828863'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25440 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西畑' />
+    <tag k='name:en' v='Nishihata' />
+    <tag k='name:ja' v='西畑' />
+    <tag k='name:ja-Hira' v='にしはた' />
+    <tag k='name:ko' v='니시하타' />
+    <tag k='name:zh-Hans' v='西畑' />
+    <tag k='name:zh-Hant' v='西畑' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057054' lat='34.25315414' lon='132.5827696'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25440 3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西畑' />
+    <tag k='name:en' v='Nishihata' />
+    <tag k='name:ja' v='西畑' />
+    <tag k='name:ja-Hira' v='にしはた' />
+    <tag k='name:ko' v='니시하타' />
+    <tag k='name:zh-Hans' v='西畑' />
+    <tag k='name:zh-Hant' v='西畑' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057055' lat='34.23687287' lon='132.6008522'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25480 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阿賀駅前' />
+    <tag k='name:en' v='Aga Sta.' />
+    <tag k='name:ja' v='阿賀駅前' />
+    <tag k='name:ja-Hira' v='あがえきまえ' />
+    <tag k='name:ko' v='아가 역' />
+    <tag k='name:zh-Hans' v='阿贺站前' />
+    <tag k='name:zh-Hant' v='阿賀站前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057056' lat='34.2364229' lon='132.5998856'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25480 3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阿賀駅前' />
+    <tag k='name:en' v='Aga Sta.' />
+    <tag k='name:ja' v='阿賀駅前' />
+    <tag k='name:ja-Hira' v='あがえきまえ' />
+    <tag k='name:ko' v='아가 역' />
+    <tag k='name:zh-Hans' v='阿贺站前' />
+    <tag k='name:zh-Hant' v='阿賀站前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057057' lat='34.23663955' lon='132.6001689'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25480 4' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阿賀駅前' />
+    <tag k='name:en' v='Aga Sta.' />
+    <tag k='name:ja' v='阿賀駅前' />
+    <tag k='name:ja-Hira' v='あがえきまえ' />
+    <tag k='name:ko' v='아가 역' />
+    <tag k='name:zh-Hans' v='阿贺站前' />
+    <tag k='name:zh-Hant' v='阿賀站前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057058' lat='34.23300686' lon='132.6151512'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25520 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='広市民センター' />
+    <tag k='name:en' v='Hiro Shimin Center (Hiro Citizen Center)' />
+    <tag k='name:ja' v='広市民センター' />
+    <tag k='name:ja-Hira' v='ひろしみんせんたー' />
+    <tag k='name:ko' v='히로 시민센터' />
+    <tag k='name:zh-Hans' v='广市民中心' />
+    <tag k='name:zh-Hant' v='廣市民中心' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057059' lat='34.23330683' lon='132.6151178'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25520 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='広市民センター' />
+    <tag k='name:en' v='Hiro Shimin Center (Hiro Citizen Center)' />
+    <tag k='name:ja' v='広市民センター' />
+    <tag k='name:ja-Hira' v='ひろしみんせんたー' />
+    <tag k='name:ko' v='히로 시민센터' />
+    <tag k='name:zh-Hans' v='广市民中心' />
+    <tag k='name:zh-Hant' v='廣市民中心' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057060' lat='34.23232361' lon='132.6156511'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25520 3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='広市民センター' />
+    <tag k='name:en' v='Hiro Shimin Center (Hiro Citizen Center)' />
+    <tag k='name:ja' v='広市民センター' />
+    <tag k='name:ja-Hira' v='ひろしみんせんたー' />
+    <tag k='name:ko' v='히로 시민센터' />
+    <tag k='name:zh-Hans' v='广市民中心' />
+    <tag k='name:zh-Hant' v='廣市民中心' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057061' lat='34.23230695' lon='132.6157345'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25520 4' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='広市民センター' />
+    <tag k='name:en' v='Hiro Shimin Center (Hiro Citizen Center)' />
+    <tag k='name:ja' v='広市民センター' />
+    <tag k='name:ja-Hira' v='ひろしみんせんたー' />
+    <tag k='name:ko' v='히로 시민센터' />
+    <tag k='name:zh-Hans' v='广市民中心' />
+    <tag k='name:zh-Hant' v='廣市民中心' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057062' lat='34.23070726' lon='132.6235506'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25530 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='広交叉点(広交叉点東)' />
+    <tag k='name:en' v='Hiro Kosaten' />
+    <tag k='name:ja' v='広交叉点(広交叉点東)' />
+    <tag k='name:ja-Hira' v='ひろこうさてん' />
+    <tag k='name:ko' v='히로 코사텐' />
+    <tag k='name:zh-Hans' v='广交叉点' />
+    <tag k='name:zh-Hant' v='廣交叉點' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057063' lat='34.23114053' lon='132.6227506'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25530 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='広交叉点(広交叉点東)' />
+    <tag k='name:en' v='Hiro Kosaten' />
+    <tag k='name:ja' v='広交叉点(広交叉点東)' />
+    <tag k='name:ja-Hira' v='ひろこうさてん' />
+    <tag k='name:ko' v='히로 코사텐' />
+    <tag k='name:zh-Hans' v='广交叉点' />
+    <tag k='name:zh-Hant' v='廣交叉點' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057064' lat='34.23057391' lon='132.6219174'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25530 5' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='広交叉点(広交叉点南)' />
+    <tag k='name:en' v='Hiro Kosaten' />
+    <tag k='name:ja' v='広交叉点(広交叉点南)' />
+    <tag k='name:ja-Hira' v='ひろこうさてん' />
+    <tag k='name:ko' v='히로 코사텐' />
+    <tag k='name:zh-Hans' v='广交叉点' />
+    <tag k='name:zh-Hant' v='廣交叉點' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057065' lat='34.23075723' lon='132.6221174'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25530 6' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='広交叉点(広交叉点南)' />
+    <tag k='name:en' v='Hiro Kosaten' />
+    <tag k='name:ja' v='広交叉点(広交叉点南)' />
+    <tag k='name:ja-Hira' v='ひろこうさてん' />
+    <tag k='name:ko' v='히로 코사텐' />
+    <tag k='name:zh-Hans' v='广交叉点' />
+    <tag k='name:zh-Hant' v='廣交叉點' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057066' lat='34.22929082' lon='132.6281836'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25540 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='広駅前' />
+    <tag k='name:en' v='Hiro Sta.' />
+    <tag k='name:ja' v='広駅前' />
+    <tag k='name:ja-Hira' v='ひろえきまえ' />
+    <tag k='name:ko' v='히로 역' />
+    <tag k='name:zh-Hans' v='广站前' />
+    <tag k='name:zh-Hant' v='廣站前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057067' lat='34.22914085' lon='132.6290835'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25540 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='広駅前' />
+    <tag k='name:en' v='Hiro Sta.' />
+    <tag k='name:ja' v='広駅前' />
+    <tag k='name:ja-Hira' v='ひろえきまえ' />
+    <tag k='name:ko' v='히로 역' />
+    <tag k='name:zh-Hans' v='广站前' />
+    <tag k='name:zh-Hant' v='廣站前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057068' lat='34.22650795' lon='132.6373829'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25550 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='東のりば' />
+    <tag k='name:en' v='Higashi Noriba' />
+    <tag k='name:ja' v='東のりば' />
+    <tag k='name:ja-Hira' v='ひがしのりば' />
+    <tag k='name:ko' v='히가시 노리바' />
+    <tag k='name:zh-Hans' v='东站台' />
+    <tag k='name:zh-Hant' v='東站臺' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057069' lat='34.22624133' lon='132.6387162'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='25550 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='東のりば' />
+    <tag k='name:en' v='Higashi Noriba' />
+    <tag k='name:ja' v='東のりば' />
+    <tag k='name:ja-Hira' v='ひがしのりば' />
+    <tag k='name:ko' v='히가시 노리바' />
+    <tag k='name:zh-Hans' v='东站台' />
+    <tag k='name:zh-Hant' v='東站臺' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057070' lat='34.24558786' lon='132.5586553'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='5440 12' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='呉駅前' />
+    <tag k='name:en' v='Kure Sta.' />
+    <tag k='name:ja' v='呉駅前' />
+    <tag k='name:ja-Hira' v='くれえきまえ' />
+    <tag k='name:ko' v='구레 역' />
+    <tag k='name:zh-Hans' v='吴站前' />
+    <tag k='name:zh-Hant' v='吳站前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057071' lat='34.24570451' lon='132.5579553'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='5440 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='2' />
+    <tag k='name' v='呉駅前' />
+    <tag k='name:en' v='Kure Sta.' />
+    <tag k='name:ja' v='呉駅前' />
+    <tag k='name:ja-Hira' v='くれえきまえ' />
+    <tag k='name:ko' v='구레 역' />
+    <tag k='name:zh-Hans' v='吴站前' />
+    <tag k='name:zh-Hant' v='吳站前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057072' lat='34.21140795' lon='132.5449913'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80019 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='鍋桟橋' />
+    <tag k='name:en' v='Nabe Sambashi' />
+    <tag k='name:ja' v='鍋桟橋' />
+    <tag k='name:ja-Hira' v='なべさんばし' />
+    <tag k='name:ko' v='나베산바시' />
+    <tag k='name:zh-Hans' v='锅栈桥' />
+    <tag k='name:zh-Hant' v='鍋棧橋' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057073' lat='34.21025808' lon='132.5455413'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80020 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='呉信警固屋支店前' />
+    <tag k='name:en' v='Kureshin Kegoya Shiten-mae' />
+    <tag k='name:ja' v='呉信警固屋支店前' />
+    <tag k='name:ja-Hira' v='くれしんけごやしてんまえ' />
+    <tag k='name:ko' v='구레신 케고야 시텐 마에' />
+    <tag k='name:zh-Hans' v='吴信警固屋支店前' />
+    <tag k='name:zh-Hant' v='吳信警固屋支店前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057074' lat='34.20984146' lon='132.5454247'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80020 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='呉信警固屋支店前' />
+    <tag k='name:en' v='Kureshin Kegoya Shiten-mae' />
+    <tag k='name:ja' v='呉信警固屋支店前' />
+    <tag k='name:ja-Hira' v='くれしんけごやしてんまえ' />
+    <tag k='name:ko' v='구레신 케고야 시텐 마에' />
+    <tag k='name:zh-Hans' v='吴信警固屋支店前' />
+    <tag k='name:zh-Hant' v='吳信警固屋支店前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057075' lat='34.20735837' lon='132.5445249'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80021 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='警固屋５丁目' />
+    <tag k='name:en' v='Kegoya-gochome (Kegoya 5)' />
+    <tag k='name:ja' v='警固屋５丁目' />
+    <tag k='name:ja-Hira' v='けごやごちょうめ' />
+    <tag k='name:ko' v='게고야 5초메' />
+    <tag k='name:zh-Hans' v='警固屋5丁目' />
+    <tag k='name:zh-Hant' v='警固屋5丁目' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057076' lat='34.20762501' lon='132.5445915'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80021 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='警固屋５丁目' />
+    <tag k='name:en' v='Kegoya-gochome (Kegoya 5)' />
+    <tag k='name:ja' v='警固屋５丁目' />
+    <tag k='name:ja-Hira' v='けごやごちょうめ' />
+    <tag k='name:ko' v='게고야 5초메' />
+    <tag k='name:zh-Hans' v='警固屋5丁目' />
+    <tag k='name:zh-Hant' v='警固屋5丁目' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057077' lat='34.20570854' lon='132.5441083'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80022 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='警固屋ドック前' />
+    <tag k='name:en' v='Kegoya Dock-mae' />
+    <tag k='name:ja' v='警固屋ドック前' />
+    <tag k='name:ja-Hira' v='けごやどっくまえ' />
+    <tag k='name:ko' v='게고야 독 마에' />
+    <tag k='name:zh-Hans' v='警固屋船坞前' />
+    <tag k='name:zh-Hant' v='警固屋船塢前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057078' lat='34.2057752' lon='132.544225'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80022 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='警固屋ドック前' />
+    <tag k='name:en' v='Kegoya Dock-mae' />
+    <tag k='name:ja' v='警固屋ドック前' />
+    <tag k='name:ja-Hira' v='けごやどっくまえ' />
+    <tag k='name:ko' v='게고야 독 마에' />
+    <tag k='name:zh-Hans' v='警固屋船坞前' />
+    <tag k='name:zh-Hant' v='警固屋船塢前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057079' lat='34.2021922' lon='132.5411254'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80023 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='警固屋市民センター' />
+    <tag k='name:en' v='Kegoya Shimin Center (Kegoya Citizen Center)' />
+    <tag k='name:ja' v='警固屋市民センター' />
+    <tag k='name:ja-Hira' v='けごやしみんせんたー' />
+    <tag k='name:ko' v='게고야 시민 센터' />
+    <tag k='name:zh-Hans' v='警固屋市民中心' />
+    <tag k='name:zh-Hant' v='警固屋市民中心' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057080' lat='34.20162559' lon='132.5410588'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80023 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='警固屋市民センター' />
+    <tag k='name:en' v='Kegoya Shimin Center (Kegoya Citizen Center)' />
+    <tag k='name:ja' v='警固屋市民センター' />
+    <tag k='name:ja-Hira' v='けごやしみんせんたー' />
+    <tag k='name:ko' v='게고야 시민 센터' />
+    <tag k='name:zh-Hans' v='警固屋市民中心' />
+    <tag k='name:zh-Hant' v='警固屋市民中心' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057081' lat='34.20015908' lon='132.5409422'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80024 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='警固屋中学校' />
+    <tag k='name:en' v='Kegoya Chugakko (Kegoya Junior High School)' />
+    <tag k='name:ja' v='警固屋中学校' />
+    <tag k='name:ja-Hira' v='けごやちゅうがっこう' />
+    <tag k='name:ko' v='게고야 중학교' />
+    <tag k='name:zh-Hans' v='警固屋中学' />
+    <tag k='name:zh-Hant' v='警固屋中學' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057082' lat='34.19964247' lon='132.5409089'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80024 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='警固屋中学校' />
+    <tag k='name:en' v='Kegoya Chugakko (Kegoya Junior High School)' />
+    <tag k='name:ja' v='警固屋中学校' />
+    <tag k='name:ja-Hira' v='けごやちゅうがっこう' />
+    <tag k='name:ko' v='게고야 중학교' />
+    <tag k='name:zh-Hans' v='警固屋中学' />
+    <tag k='name:zh-Hant' v='警固屋中學' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057083' lat='34.19649278' lon='132.5392091'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80025 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='音戸渡船口' />
+    <tag k='name:en' v='Ondo Tosen-guchi' />
+    <tag k='name:ja' v='音戸渡船口' />
+    <tag k='name:ja-Hira' v='おんどとせんぐち' />
+    <tag k='name:ko' v='온도 토센 구치' />
+    <tag k='name:zh-Hans' v='音户渡船口' />
+    <tag k='name:zh-Hant' v='音戶渡船口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057084' lat='34.19689274' lon='132.5394924'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80025 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='音戸渡船口' />
+    <tag k='name:en' v='Ondo Tosen-guchi' />
+    <tag k='name:ja' v='音戸渡船口' />
+    <tag k='name:ja-Hira' v='おんどとせんぐち' />
+    <tag k='name:ko' v='온도 토센 구치' />
+    <tag k='name:zh-Hans' v='音户渡船口' />
+    <tag k='name:zh-Hant' v='音戶渡船口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057085' lat='34.1961761' lon='132.5369094'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80063 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='音戸' />
+    <tag k='name:en' v='Ondo' />
+    <tag k='name:ja' v='音戸' />
+    <tag k='name:ja-Hira' v='おんど' />
+    <tag k='name:ko' v='온도' />
+    <tag k='name:zh-Hans' v='音户' />
+    <tag k='name:zh-Hant' v='音戶' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057086' lat='34.19620943' lon='132.5368594'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80063 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='音戸' />
+    <tag k='name:en' v='Ondo' />
+    <tag k='name:ja' v='音戸' />
+    <tag k='name:ja-Hira' v='おんど' />
+    <tag k='name:ko' v='온도' />
+    <tag k='name:zh-Hans' v='音户' />
+    <tag k='name:zh-Hant' v='音戶' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057087' lat='34.19964241' lon='132.5377258'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80064 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='三軒鼻' />
+    <tag k='name:en' v='Sangembana' />
+    <tag k='name:ja' v='三軒鼻' />
+    <tag k='name:ja-Hira' v='さんげんばな' />
+    <tag k='name:ko' v='산겐바나' />
+    <tag k='name:zh-Hans' v='三轩鼻' />
+    <tag k='name:zh-Hant' v='三軒鼻' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057088' lat='34.19962575' lon='132.5376758'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80064 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='三軒鼻' />
+    <tag k='name:en' v='Sangembana' />
+    <tag k='name:ja' v='三軒鼻' />
+    <tag k='name:ja-Hira' v='さんげんばな' />
+    <tag k='name:ko' v='산겐바나' />
+    <tag k='name:zh-Hans' v='三轩鼻' />
+    <tag k='name:zh-Hant' v='三軒鼻' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057089' lat='34.19937573' lon='132.535076'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80065 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='坪井東' />
+    <tag k='name:en' v='Tsuboi-higashi' />
+    <tag k='name:ja' v='坪井東' />
+    <tag k='name:ja-Hira' v='つぼいひがし' />
+    <tag k='name:ko' v='쓰보이 히가시' />
+    <tag k='name:zh-Hans' v='坪井东' />
+    <tag k='name:zh-Hant' v='坪井東' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057090' lat='34.19810914' lon='132.5316764'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80066 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='坪井（呉市）' />
+    <tag k='name:ja' v='坪井（呉市）' />
+    <tag k='name:ja-Hira' v='つぼい' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057091' lat='34.19810914' lon='132.5317597'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80066 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='坪井（呉市）' />
+    <tag k='name:ja' v='坪井（呉市）' />
+    <tag k='name:ja-Hira' v='つぼい' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057092' lat='34.19889232' lon='132.5280933'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80067 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='日付' />
+    <tag k='name:en' v='Hizuke' />
+    <tag k='name:ja' v='日付' />
+    <tag k='name:ja-Hira' v='ひづけ' />
+    <tag k='name:ko' v='히즈케' />
+    <tag k='name:zh-Hans' v='日付' />
+    <tag k='name:zh-Hant' v='日付' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057093' lat='34.19870901' lon='132.5282433'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80067 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='日付' />
+    <tag k='name:en' v='Hizuke' />
+    <tag k='name:ja' v='日付' />
+    <tag k='name:ja-Hira' v='ひづけ' />
+    <tag k='name:ko' v='히즈케' />
+    <tag k='name:zh-Hans' v='日付' />
+    <tag k='name:zh-Hant' v='日付' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057094' lat='34.19617587' lon='132.5237938'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80068 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='美化センター' />
+    <tag k='name:en' v='Bika Center' />
+    <tag k='name:ja' v='美化センター' />
+    <tag k='name:ja-Hira' v='びかせんたー' />
+    <tag k='name:ko' v='비카 센터' />
+    <tag k='name:zh-Hans' v='美化中心' />
+    <tag k='name:zh-Hant' v='美化中心' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057095' lat='34.19612588' lon='132.5235771'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80068 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='美化センター' />
+    <tag k='name:en' v='Bika Center' />
+    <tag k='name:ja' v='美化センター' />
+    <tag k='name:ja-Hira' v='びかせんたー' />
+    <tag k='name:ko' v='비카 센터' />
+    <tag k='name:zh-Hans' v='美化中心' />
+    <tag k='name:zh-Hant' v='美化中心' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057096' lat='34.19219289' lon='132.519661'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80069 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='下光友' />
+    <tag k='name:en' v='Shimo-mitsutomo' />
+    <tag k='name:ja' v='下光友' />
+    <tag k='name:ja-Hira' v='しもみつとも' />
+    <tag k='name:ko' v='시모미쓰토모' />
+    <tag k='name:zh-Hans' v='下光友' />
+    <tag k='name:zh-Hant' v='下光友' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057097' lat='34.1921929' lon='132.5197443'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80069 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='下光友' />
+    <tag k='name:en' v='Shimo-mitsutomo' />
+    <tag k='name:ja' v='下光友' />
+    <tag k='name:ja-Hira' v='しもみつとも' />
+    <tag k='name:ko' v='시모미쓰토모' />
+    <tag k='name:zh-Hans' v='下光友' />
+    <tag k='name:zh-Hant' v='下光友' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057098' lat='34.18992643' lon='132.5172779'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80070 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='渡子' />
+    <tag k='name:en' v='Tonoko' />
+    <tag k='name:ja' v='渡子' />
+    <tag k='name:ja-Hira' v='とのこ' />
+    <tag k='name:ko' v='도노코' />
+    <tag k='name:zh-Hans' v='渡子' />
+    <tag k='name:zh-Hant' v='渡子' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057099' lat='34.18994309' lon='132.5172946'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80070 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='渡子' />
+    <tag k='name:en' v='Tonoko' />
+    <tag k='name:ja' v='渡子' />
+    <tag k='name:ja-Hira' v='とのこ' />
+    <tag k='name:ko' v='도노코' />
+    <tag k='name:zh-Hans' v='渡子' />
+    <tag k='name:zh-Hant' v='渡子' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057100' lat='34.18852649' lon='132.5122284'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80071 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='前の浜' />
+    <tag k='name:en' v='Maenohama' />
+    <tag k='name:ja' v='前の浜' />
+    <tag k='name:ja-Hira' v='まえのはま' />
+    <tag k='name:ko' v='마에노하마' />
+    <tag k='name:zh-Hans' v='前之滨' />
+    <tag k='name:zh-Hant' v='前之濱' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057101' lat='34.18842651' lon='132.5125951'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80071 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='前の浜' />
+    <tag k='name:en' v='Maenohama' />
+    <tag k='name:ja' v='前の浜' />
+    <tag k='name:ja-Hira' v='まえのはま' />
+    <tag k='name:ko' v='마에노하마' />
+    <tag k='name:zh-Hans' v='前之滨' />
+    <tag k='name:zh-Hant' v='前之濱' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057102' lat='34.18630995' lon='132.5058124'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80072 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='雇用促進住宅渡子前' />
+    <tag k='name:en' v='Koyo Sokushin Jutaku Tonoko-mae' />
+    <tag k='name:ja' v='雇用促進住宅渡子前' />
+    <tag k='name:ja-Hira' v='こようそくしんじゅうたくとのこ' />
+    <tag k='name:ko' v='고요 소쿠신 주타쿠 토노코 마에' />
+    <tag k='name:zh-Hans' v='雇用促进住宅渡子前' />
+    <tag k='name:zh-Hant' v='雇用促進住宅渡子前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057103' lat='34.18640994' lon='132.506129'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80072 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='雇用促進住宅渡子前' />
+    <tag k='name:en' v='Koyo Sokushin Jutaku Tonoko-mae' />
+    <tag k='name:ja' v='雇用促進住宅渡子前' />
+    <tag k='name:ja-Hira' v='こようそくしんじゅうたくとのこ' />
+    <tag k='name:ko' v='고요 소쿠신 주타쿠 토노코 마에' />
+    <tag k='name:zh-Hans' v='雇用促进住宅渡子前' />
+    <tag k='name:zh-Hant' v='雇用促進住宅渡子前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057104' lat='34.1809271' lon='132.5006797'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80073 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='後口' />
+    <tag k='name:en' v='Ushiro-guchi' />
+    <tag k='name:ja' v='後口' />
+    <tag k='name:ja-Hira' v='うしろぐち' />
+    <tag k='name:ko' v='우시로구치' />
+    <tag k='name:zh-Hans' v='后口' />
+    <tag k='name:zh-Hant' v='後口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057105' lat='34.18076045' lon='132.5007131'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80073 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='後口' />
+    <tag k='name:en' v='Ushiro-guchi' />
+    <tag k='name:ja' v='後口' />
+    <tag k='name:ja-Hira' v='うしろぐち' />
+    <tag k='name:ko' v='우시로구치' />
+    <tag k='name:zh-Hans' v='后口' />
+    <tag k='name:zh-Hant' v='後口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057106' lat='34.17699417' lon='132.49938'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80074 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='田原桟橋' />
+    <tag k='name:en' v='Tahara Sambashi (Tahara Pier)' />
+    <tag k='name:ja' v='田原桟橋' />
+    <tag k='name:ja-Hira' v='たはらさんばし' />
+    <tag k='name:ko' v='다하라 산바시' />
+    <tag k='name:zh-Hans' v='田原栈桥' />
+    <tag k='name:zh-Hant' v='田原棧橋' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057107' lat='34.1806438' lon='132.5007297'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80074 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='田原桟橋' />
+    <tag k='name:en' v='Tahara Sambashi (Tahara Pier)' />
+    <tag k='name:ja' v='田原桟橋' />
+    <tag k='name:ja-Hira' v='たはらさんばし' />
+    <tag k='name:ko' v='다하라 산바시' />
+    <tag k='name:zh-Hans' v='田原栈桥' />
+    <tag k='name:zh-Hant' v='田原棧橋' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057108' lat='34.17467774' lon='132.4990635'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80075 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='五反田' />
+    <tag k='name:en' v='Gotanda' />
+    <tag k='name:ja' v='五反田' />
+    <tag k='name:ja-Hira' v='ごたんだ' />
+    <tag k='name:ko' v='고탄다' />
+    <tag k='name:zh-Hans' v='五反田' />
+    <tag k='name:zh-Hant' v='五反田' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057109' lat='34.17471107' lon='132.4991468'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80075 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='五反田' />
+    <tag k='name:en' v='Gotanda' />
+    <tag k='name:ja' v='五反田' />
+    <tag k='name:ja-Hira' v='ごたんだ' />
+    <tag k='name:ko' v='고탄다' />
+    <tag k='name:zh-Hans' v='五反田' />
+    <tag k='name:zh-Hant' v='五反田' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057110' lat='34.17292793' lon='132.4989969'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80076 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='田原' />
+    <tag k='name:en' v='Tahara' />
+    <tag k='name:ja' v='田原' />
+    <tag k='name:ja-Hira' v='たはら' />
+    <tag k='name:ko' v='다하라' />
+    <tag k='name:zh-Hans' v='田原' />
+    <tag k='name:zh-Hant' v='田原' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057111' lat='34.17277794' lon='132.4990469'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80076 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='田原' />
+    <tag k='name:en' v='Tahara' />
+    <tag k='name:ja' v='田原' />
+    <tag k='name:ja-Hira' v='たはら' />
+    <tag k='name:ko' v='다하라' />
+    <tag k='name:zh-Hans' v='田原' />
+    <tag k='name:zh-Hant' v='田原' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057112' lat='34.17027818' lon='132.4970639'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80077 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='コドウラ' />
+    <tag k='name:en' v='Kodoura' />
+    <tag k='name:ja' v='コドウラ' />
+    <tag k='name:ja-Hira' v='こどうら' />
+    <tag k='name:ko' v='고도우라' />
+    <tag k='name:zh-Hans' v='KODOURA' />
+    <tag k='name:zh-Hant' v='KODOURA' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057113' lat='34.17031151' lon='132.4970805'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80077 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='コドウラ' />
+    <tag k='name:en' v='Kodoura' />
+    <tag k='name:ja' v='コドウラ' />
+    <tag k='name:ja-Hira' v='こどうら' />
+    <tag k='name:ko' v='고도우라' />
+    <tag k='name:zh-Hans' v='KODOURA' />
+    <tag k='name:zh-Hant' v='KODOURA' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057114' lat='34.16496203' lon='132.494231'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80078 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='流田' />
+    <tag k='name:en' v='Nagareda' />
+    <tag k='name:ja' v='流田' />
+    <tag k='name:ja-Hira' v='ながれだ' />
+    <tag k='name:ko' v='나가레다' />
+    <tag k='name:zh-Hans' v='流田' />
+    <tag k='name:zh-Hant' v='流田' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057115' lat='34.16412878' lon='132.494131'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80078 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='流田' />
+    <tag k='name:en' v='Nagareda' />
+    <tag k='name:ja' v='流田' />
+    <tag k='name:ja-Hira' v='ながれだ' />
+    <tag k='name:ko' v='나가레다' />
+    <tag k='name:zh-Hans' v='流田' />
+    <tag k='name:zh-Hant' v='流田' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057116' lat='34.15804609' lon='132.493648'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80079 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='早瀬大橋北' />
+    <tag k='name:en' v='Hayase-ohashi-kita' />
+    <tag k='name:ja' v='早瀬大橋北' />
+    <tag k='name:ja-Hira' v='はやせおおはしきた' />
+    <tag k='name:ko' v='하야세 오하시 키타' />
+    <tag k='name:zh-Hans' v='早濑大桥北' />
+    <tag k='name:zh-Hant' v='早瀨大橋北' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057117' lat='34.15826274' lon='132.4937647'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80079 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='早瀬大橋北' />
+    <tag k='name:en' v='Hayase-ohashi-kita' />
+    <tag k='name:ja' v='早瀬大橋北' />
+    <tag k='name:ja-Hira' v='はやせおおはしきた' />
+    <tag k='name:ko' v='하야세 오하시 키타' />
+    <tag k='name:zh-Hans' v='早濑大桥北' />
+    <tag k='name:zh-Hant' v='早瀨大橋北' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057118' lat='34.15656291' lon='132.4934315'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80080 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='早瀬大橋' />
+    <tag k='name:en' v='Hayase-ohashi' />
+    <tag k='name:ja' v='早瀬大橋' />
+    <tag k='name:ja-Hira' v='はやせおおはし' />
+    <tag k='name:ko' v='하야세 오하시' />
+    <tag k='name:zh-Hans' v='早濑大桥' />
+    <tag k='name:zh-Hant' v='早瀨大橋' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057119' lat='34.15659625' lon='132.4935481'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80080 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='早瀬大橋' />
+    <tag k='name:en' v='Hayase-ohashi' />
+    <tag k='name:ja' v='早瀬大橋' />
+    <tag k='name:ja-Hira' v='はやせおおはし' />
+    <tag k='name:ko' v='하야세 오하시' />
+    <tag k='name:zh-Hans' v='早濑大桥' />
+    <tag k='name:zh-Hant' v='早瀨大橋' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057120' lat='34.1567629' lon='132.4935814'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80080 3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='早瀬大橋' />
+    <tag k='name:en' v='Hayase-ohashi' />
+    <tag k='name:ja' v='早瀬大橋' />
+    <tag k='name:ja-Hira' v='はやせおおはし' />
+    <tag k='name:ko' v='하야세 오하시' />
+    <tag k='name:zh-Hans' v='早濑大桥' />
+    <tag k='name:zh-Hant' v='早瀨大橋' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057121' lat='34.15263002' lon='132.4944316'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80081 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='早瀬桟橋前' />
+    <tag k='name:en' v='Hayase Sambashi-mae' />
+    <tag k='name:ja' v='早瀬桟橋前' />
+    <tag k='name:ja-Hira' v='はやせさんばしまえ' />
+    <tag k='name:ko' v='하야세 산바시 마에' />
+    <tag k='name:zh-Hans' v='早濑栈桥前' />
+    <tag k='name:zh-Hant' v='早瀨棧橋前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057122' lat='34.15321328' lon='132.4939316'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80081 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='早瀬桟橋前' />
+    <tag k='name:en' v='Hayase Sambashi-mae' />
+    <tag k='name:ja' v='早瀬桟橋前' />
+    <tag k='name:ja-Hira' v='はやせさんばしまえ' />
+    <tag k='name:ko' v='하야세 산바시 마에' />
+    <tag k='name:zh-Hans' v='早濑栈桥前' />
+    <tag k='name:zh-Hant' v='早瀨棧橋前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057123' lat='34.15173013' lon='132.4950982'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80082 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='南浜' />
+    <tag k='name:en' v='Minamihama' />
+    <tag k='name:ja' v='南浜' />
+    <tag k='name:ja-Hira' v='みなみはま' />
+    <tag k='name:ko' v='미나미하마' />
+    <tag k='name:zh-Hans' v='南滨' />
+    <tag k='name:zh-Hant' v='南濱' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057124' lat='34.15161347' lon='132.4952649'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80082 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='南浜' />
+    <tag k='name:en' v='Minamihama' />
+    <tag k='name:ja' v='南浜' />
+    <tag k='name:ja-Hira' v='みなみはま' />
+    <tag k='name:ko' v='미나미하마' />
+    <tag k='name:zh-Hans' v='南滨' />
+    <tag k='name:zh-Hant' v='南濱' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057125' lat='34.14888044' lon='132.4955816'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80083 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='鳥ヶ首' />
+    <tag k='name:en' v='Torigakubi' />
+    <tag k='name:ja' v='鳥ヶ首' />
+    <tag k='name:ja-Hira' v='とりがくび' />
+    <tag k='name:ko' v='도리가쿠비' />
+    <tag k='name:zh-Hans' v='鸟首' />
+    <tag k='name:zh-Hant' v='鳥首' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057126' lat='34.14936372' lon='132.4955983'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80083 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='鳥ヶ首' />
+    <tag k='name:en' v='Torigakubi' />
+    <tag k='name:ja' v='鳥ヶ首' />
+    <tag k='name:ja-Hira' v='とりがくび' />
+    <tag k='name:ko' v='도리가쿠비' />
+    <tag k='name:zh-Hans' v='鸟首' />
+    <tag k='name:zh-Hant' v='鳥首' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057127' lat='34.1488971' lon='132.4955983'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80084 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='鯉の浦' />
+    <tag k='name:en' v='Koinoura' />
+    <tag k='name:ja' v='鯉の浦' />
+    <tag k='name:ja-Hira' v='こいのうら' />
+    <tag k='name:ko' v='고이노우라' />
+    <tag k='name:zh-Hans' v='鲤之浦' />
+    <tag k='name:zh-Hant' v='鯉之浦' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057128' lat='34.14936372' lon='132.4956149'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80084 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='鯉の浦' />
+    <tag k='name:en' v='Koinoura' />
+    <tag k='name:ja' v='鯉の浦' />
+    <tag k='name:ja-Hira' v='こいのうら' />
+    <tag k='name:ko' v='고이노우라' />
+    <tag k='name:zh-Hans' v='鲤之浦' />
+    <tag k='name:zh-Hant' v='鯉之浦' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057129' lat='34.14748074' lon='132.504281'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80085 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='藤の脇桟橋' />
+    <tag k='name:en' v='Fujinowaki Sambashi (Fujinowaki Pier)' />
+    <tag k='name:ja' v='藤の脇桟橋' />
+    <tag k='name:ja-Hira' v='ふじのわきさんばし' />
+    <tag k='name:ko' v='후지노와키 산바시' />
+    <tag k='name:zh-Hans' v='藤之胁栈桥' />
+    <tag k='name:zh-Hant' v='藤之脅棧橋' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057130' lat='34.14743075' lon='132.504281'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80085 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='藤の脇桟橋' />
+    <tag k='name:en' v='Fujinowaki Sambashi (Fujinowaki Pier)' />
+    <tag k='name:ja' v='藤の脇桟橋' />
+    <tag k='name:ja-Hira' v='ふじのわきさんばし' />
+    <tag k='name:ko' v='후지노와키 산바시' />
+    <tag k='name:zh-Hans' v='藤之胁栈桥' />
+    <tag k='name:zh-Hant' v='藤之脅棧橋' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057131' lat='34.14649755' lon='132.5065475'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80086 3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='藤の脇' />
+    <tag k='name:en' v='Fujinowaki' />
+    <tag k='name:ja' v='藤の脇' />
+    <tag k='name:ja-Hira' v='ふじのわき' />
+    <tag k='name:ko' v='후지노와키' />
+    <tag k='name:zh-Hans' v='藤之胁' />
+    <tag k='name:zh-Hant' v='藤之脅' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057132' lat='34.19402635' lon='132.5380927'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80087 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='音戸の瀬戸' />
+    <tag k='name:en' v='Ondo-no-Seto' />
+    <tag k='name:ja' v='音戸の瀬戸' />
+    <tag k='name:ja-Hira' v='おんどのせと' />
+    <tag k='name:ko' v='온도노세토' />
+    <tag k='name:zh-Hans' v='音户之濑户' />
+    <tag k='name:zh-Hant' v='音戶之瀨戶' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057133' lat='34.19414301' lon='132.5382093'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80087 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='音戸の瀬戸' />
+    <tag k='name:en' v='Ondo-no-Seto' />
+    <tag k='name:ja' v='音戸の瀬戸' />
+    <tag k='name:ja-Hira' v='おんどのせと' />
+    <tag k='name:ko' v='온도노세토' />
+    <tag k='name:zh-Hans' v='音户之濑户' />
+    <tag k='name:zh-Hant' v='音戶之瀨戶' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057134' lat='34.19464305' lon='132.5433922'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80088 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='県営警固屋アパート前' />
+    <tag k='name:en' v='Kenei Kegoya Apart-mae' />
+    <tag k='name:ja' v='県営警固屋アパート前' />
+    <tag k='name:ja-Hira' v='けんえいけごやあぱーとまえ' />
+    <tag k='name:ko' v='겐에이 케고야 아파트 마에' />
+    <tag k='name:zh-Hans' v='县营警固屋公寓前' />
+    <tag k='name:zh-Hant' v='縣營警固屋公寓前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057135' lat='34.19437641' lon='132.5437422'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80088 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='県営警固屋アパート前' />
+    <tag k='name:en' v='Kenei Kegoya Apart-mae' />
+    <tag k='name:ja' v='県営警固屋アパート前' />
+    <tag k='name:ja-Hira' v='けんえいけごやあぱーとまえ' />
+    <tag k='name:ko' v='겐에이 케고야 아파트 마에' />
+    <tag k='name:zh-Hans' v='县营警固屋公寓前' />
+    <tag k='name:zh-Hant' v='縣營警固屋公寓前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057136' lat='34.19494307' lon='132.546292'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80089 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='警固屋９丁目西' />
+    <tag k='name:en' v='Kegoya-kyuchome-nishi (Kegoya 9 West)' />
+    <tag k='name:ja' v='警固屋９丁目西' />
+    <tag k='name:ja-Hira' v='けごやきゅうちょうめにし' />
+    <tag k='name:ko' v='게고야 9초메 니시' />
+    <tag k='name:zh-Hans' v='警固屋9丁目西' />
+    <tag k='name:zh-Hant' v='警固屋9丁目西' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057137' lat='34.19500972' lon='132.5461586'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80089 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='警固屋９丁目西' />
+    <tag k='name:en' v='Kegoya-kyuchome-nishi (Kegoya 9 West)' />
+    <tag k='name:ja' v='警固屋９丁目西' />
+    <tag k='name:ja-Hira' v='けごやきゅうちょうめにし' />
+    <tag k='name:ko' v='게고야 9초메 니시' />
+    <tag k='name:zh-Hans' v='警固屋9丁目西' />
+    <tag k='name:zh-Hant' v='警固屋9丁目西' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057138' lat='34.19540976' lon='132.5505749'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80090 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='警固屋９丁目' />
+    <tag k='name:en' v='Kegoya-kyuchome (Kegoya 9)' />
+    <tag k='name:ja' v='警固屋９丁目' />
+    <tag k='name:ja-Hira' v='けごやきゅうちょうめ' />
+    <tag k='name:ko' v='게고야 9초메' />
+    <tag k='name:zh-Hans' v='警固屋9丁目' />
+    <tag k='name:zh-Hant' v='警固屋9丁目' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057139' lat='34.19542643' lon='132.5507582'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80090 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='警固屋９丁目' />
+    <tag k='name:en' v='Kegoya-kyuchome (Kegoya 9)' />
+    <tag k='name:ja' v='警固屋９丁目' />
+    <tag k='name:ja-Hira' v='けごやきゅうちょうめ' />
+    <tag k='name:ko' v='게고야 9초메' />
+    <tag k='name:zh-Hans' v='警固屋9丁目' />
+    <tag k='name:zh-Hant' v='警固屋9丁目' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057140' lat='34.19654304' lon='132.5546245'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80091 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='見晴口' />
+    <tag k='name:en' v='Miharashi-guchi' />
+    <tag k='name:ja' v='見晴口' />
+    <tag k='name:ja-Hira' v='みはらしぐち' />
+    <tag k='name:ko' v='미하라시 구치' />
+    <tag k='name:zh-Hans' v='见晴口' />
+    <tag k='name:zh-Hant' v='見晴口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057141' lat='34.19647638' lon='132.5543579'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80091 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='見晴口' />
+    <tag k='name:en' v='Miharashi-guchi' />
+    <tag k='name:ja' v='見晴口' />
+    <tag k='name:ja-Hira' v='みはらしぐち' />
+    <tag k='name:ko' v='미하라시 구치' />
+    <tag k='name:zh-Hans' v='见晴口' />
+    <tag k='name:zh-Hant' v='見晴口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057142' lat='34.1989929' lon='132.5618738'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80092 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='長郷' />
+    <tag k='name:en' v='Nagago' />
+    <tag k='name:ja' v='長郷' />
+    <tag k='name:ja-Hira' v='ながごう' />
+    <tag k='name:ko' v='나가고' />
+    <tag k='name:zh-Hans' v='长乡' />
+    <tag k='name:zh-Hant' v='長鄉' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057143' lat='34.19915956' lon='132.5620405'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80092 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='長郷' />
+    <tag k='name:en' v='Nagago' />
+    <tag k='name:ja' v='長郷' />
+    <tag k='name:ja-Hira' v='ながごう' />
+    <tag k='name:ko' v='나가고' />
+    <tag k='name:zh-Hans' v='长乡' />
+    <tag k='name:zh-Hant' v='長鄉' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057144' lat='34.19929292' lon='132.5647736'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80093 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='火山峠' />
+    <tag k='name:en' v='Hinoyama-toge' />
+    <tag k='name:ja' v='火山峠' />
+    <tag k='name:ja-Hira' v='ひのやまとうげ' />
+    <tag k='name:ko' v='히노야마 토게' />
+    <tag k='name:zh-Hans' v='火山峠' />
+    <tag k='name:zh-Hant' v='火山峠' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057145' lat='34.19932625' lon='132.5647902'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80093 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='火山峠' />
+    <tag k='name:en' v='Hinoyama-toge' />
+    <tag k='name:ja' v='火山峠' />
+    <tag k='name:ja-Hira' v='ひのやまとうげ' />
+    <tag k='name:ko' v='히노야마 토게' />
+    <tag k='name:zh-Hans' v='火山峠' />
+    <tag k='name:zh-Hant' v='火山峠' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057146' lat='34.20099276' lon='132.5658234'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80094 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='冠崎西' />
+    <tag k='name:en' v='Kaburasaki-nishi' />
+    <tag k='name:ja' v='冠崎西' />
+    <tag k='name:ja-Hira' v='かぶらさきにし' />
+    <tag k='name:ko' v='가부라사키 니시' />
+    <tag k='name:zh-Hans' v='冠崎西' />
+    <tag k='name:zh-Hant' v='冠崎西' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057147' lat='34.20105942' lon='132.5657401'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80094 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='冠崎西' />
+    <tag k='name:en' v='Kaburasaki-nishi' />
+    <tag k='name:ja' v='冠崎西' />
+    <tag k='name:ja-Hira' v='かぶらさきにし' />
+    <tag k='name:ko' v='가부라사키 니시' />
+    <tag k='name:zh-Hans' v='冠崎西' />
+    <tag k='name:zh-Hant' v='冠崎西' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057148' lat='34.19984291' lon='132.56754'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80095 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='冠崎' />
+    <tag k='name:en' v='Kaburasaki' />
+    <tag k='name:ja' v='冠崎' />
+    <tag k='name:ja-Hira' v='かぶらさき' />
+    <tag k='name:ko' v='가부라사키' />
+    <tag k='name:zh-Hans' v='冠崎' />
+    <tag k='name:zh-Hant' v='冠崎' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057149' lat='34.20037618' lon='132.56704'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80095 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='冠崎' />
+    <tag k='name:en' v='Kaburasaki' />
+    <tag k='name:ja' v='冠崎' />
+    <tag k='name:ja-Hira' v='かぶらさき' />
+    <tag k='name:ko' v='가부라사키' />
+    <tag k='name:zh-Hans' v='冠崎' />
+    <tag k='name:zh-Hant' v='冠崎' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057150' lat='34.20372594' lon='132.5739559'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80096 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大冠中学校前' />
+    <tag k='name:en' v='Daikan Chugakko-mae (Daikan Junior High School)' />
+    <tag k='name:ja' v='大冠中学校前' />
+    <tag k='name:ja-Hira' v='だいかんちゅうがっこうまえ' />
+    <tag k='name:ko' v='다이칸 중학교' />
+    <tag k='name:zh-Hans' v='大冠中学前' />
+    <tag k='name:zh-Hant' v='大冠中學前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057151' lat='34.2038926' lon='132.5741559'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80096 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大冠中学校前' />
+    <tag k='name:en' v='Daikan Chugakko-mae (Daikan Junior High School)' />
+    <tag k='name:ja' v='大冠中学校前' />
+    <tag k='name:ja-Hira' v='だいかんちゅうがっこうまえ' />
+    <tag k='name:ko' v='다이칸 중학교' />
+    <tag k='name:zh-Hans' v='大冠中学前' />
+    <tag k='name:zh-Hant' v='大冠中學前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057152' lat='34.20759227' lon='132.5784054'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80097 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大入' />
+    <tag k='name:en' v='Dainyu' />
+    <tag k='name:ja' v='大入' />
+    <tag k='name:ja-Hira' v='だいにゅう' />
+    <tag k='name:ko' v='다이뉴' />
+    <tag k='name:zh-Hans' v='大入' />
+    <tag k='name:zh-Hant' v='大入' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057153' lat='34.20807556' lon='132.5788553'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80097 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大入' />
+    <tag k='name:en' v='Dainyu' />
+    <tag k='name:ja' v='大入' />
+    <tag k='name:ja-Hira' v='だいにゅう' />
+    <tag k='name:ko' v='다이뉴' />
+    <tag k='name:zh-Hans' v='大入' />
+    <tag k='name:zh-Hant' v='大入' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057154' lat='34.2096421' lon='132.5811717'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80098 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='浜田' />
+    <tag k='name:en' v='Hamada' />
+    <tag k='name:ja' v='浜田' />
+    <tag k='name:ja-Hira' v='はまだ' />
+    <tag k='name:ko' v='하마다' />
+    <tag k='name:zh-Hans' v='滨田' />
+    <tag k='name:zh-Hant' v='濱田' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057155' lat='34.20984209' lon='132.5814384'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80098 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='浜田' />
+    <tag k='name:en' v='Hamada' />
+    <tag k='name:ja' v='浜田' />
+    <tag k='name:ja-Hira' v='はまだ' />
+    <tag k='name:ko' v='하마다' />
+    <tag k='name:zh-Hans' v='滨田' />
+    <tag k='name:zh-Hant' v='濱田' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057156' lat='34.21172526' lon='132.5840881'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80099 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大崎' />
+    <tag k='name:en' v='Osaki' />
+    <tag k='name:ja' v='大崎' />
+    <tag k='name:ja-Hira' v='おおさき' />
+    <tag k='name:ko' v='오사키' />
+    <tag k='name:zh-Hans' v='大崎' />
+    <tag k='name:zh-Hant' v='大崎' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057157' lat='34.21169193' lon='132.5840047'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80099 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大崎' />
+    <tag k='name:en' v='Osaki' />
+    <tag k='name:ja' v='大崎' />
+    <tag k='name:ja-Hira' v='おおさき' />
+    <tag k='name:ko' v='오사키' />
+    <tag k='name:zh-Hans' v='大崎' />
+    <tag k='name:zh-Hant' v='大崎' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057158' lat='34.22109104' lon='132.5903538'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80100 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='灘' />
+    <tag k='name:en' v='Nada' />
+    <tag k='name:ja' v='灘' />
+    <tag k='name:ja-Hira' v='なだ' />
+    <tag k='name:ko' v='나다' />
+    <tag k='name:zh-Hans' v='滩' />
+    <tag k='name:zh-Hant' v='灘' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057159' lat='34.22109104' lon='132.5903538'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80100 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='灘' />
+    <tag k='name:en' v='Nada' />
+    <tag k='name:ja' v='灘' />
+    <tag k='name:ja-Hira' v='なだ' />
+    <tag k='name:ko' v='나다' />
+    <tag k='name:zh-Hans' v='滩' />
+    <tag k='name:zh-Hant' v='灘' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057160' lat='34.22267422' lon='132.591137'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80101 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='東灘' />
+    <tag k='name:en' v='Higashi-nada' />
+    <tag k='name:ja' v='東灘' />
+    <tag k='name:ja-Hira' v='ひがしなだ' />
+    <tag k='name:ko' v='히가시나다' />
+    <tag k='name:zh-Hans' v='东滩' />
+    <tag k='name:zh-Hant' v='東灘' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057161' lat='34.22265755' lon='132.591187'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80101 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='東灘' />
+    <tag k='name:en' v='Higashi-nada' />
+    <tag k='name:ja' v='東灘' />
+    <tag k='name:ja-Hira' v='ひがしなだ' />
+    <tag k='name:ko' v='히가시나다' />
+    <tag k='name:zh-Hans' v='东滩' />
+    <tag k='name:zh-Hant' v='東灘' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057162' lat='34.22724044' lon='132.5935199'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80102 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='塩谷' />
+    <tag k='name:en' v='Shioya' />
+    <tag k='name:ja' v='塩谷' />
+    <tag k='name:ja-Hira' v='しおや' />
+    <tag k='name:ko' v='시오야' />
+    <tag k='name:zh-Hans' v='盐谷' />
+    <tag k='name:zh-Hant' v='鹽谷' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057163' lat='34.22739042' lon='132.5935365'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80102 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='塩谷' />
+    <tag k='name:en' v='Shioya' />
+    <tag k='name:ja' v='塩谷' />
+    <tag k='name:ja-Hira' v='しおや' />
+    <tag k='name:ko' v='시오야' />
+    <tag k='name:zh-Hans' v='盐谷' />
+    <tag k='name:zh-Hant' v='鹽谷' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057164' lat='34.22905691' lon='132.5937864'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80103 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='塩谷住宅' />
+    <tag k='name:en' v='Shioya Jutaku' />
+    <tag k='name:ja' v='塩谷住宅' />
+    <tag k='name:ja-Hira' v='しおやじゅうたく' />
+    <tag k='name:ko' v='시오야 주타쿠' />
+    <tag k='name:zh-Hans' v='盐谷住宅' />
+    <tag k='name:zh-Hant' v='鹽谷住宅' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057165' lat='34.22912357' lon='132.5938364'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80103 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='塩谷住宅' />
+    <tag k='name:en' v='Shioya Jutaku' />
+    <tag k='name:ja' v='塩谷住宅' />
+    <tag k='name:ja-Hira' v='しおやじゅうたく' />
+    <tag k='name:ko' v='시오야 주타쿠' />
+    <tag k='name:zh-Hans' v='盐谷住宅' />
+    <tag k='name:zh-Hant' v='鹽谷住宅' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057166' lat='34.23089008' lon='132.5953529'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80104 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阿賀港' />
+    <tag k='name:en' v='Aga Port' />
+    <tag k='name:ja' v='阿賀港' />
+    <tag k='name:ja-Hira' v='あがみなと' />
+    <tag k='name:ko' v='아가 항' />
+    <tag k='name:zh-Hans' v='阿贺港' />
+    <tag k='name:zh-Hant' v='阿賀港' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057167' lat='34.23017349' lon='132.5953863'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80104 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阿賀港' />
+    <tag k='name:en' v='Aga Port' />
+    <tag k='name:ja' v='阿賀港' />
+    <tag k='name:ja-Hira' v='あがみなと' />
+    <tag k='name:ko' v='아가 항' />
+    <tag k='name:zh-Hans' v='阿贺港' />
+    <tag k='name:zh-Hant' v='阿賀港' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057168' lat='34.23218994' lon='132.5957028'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80105 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='延崎' />
+    <tag k='name:en' v='Nobusaki' />
+    <tag k='name:ja' v='延崎' />
+    <tag k='name:ja-Hira' v='のぶさき' />
+    <tag k='name:ko' v='노부사키' />
+    <tag k='name:zh-Hans' v='延崎' />
+    <tag k='name:zh-Hant' v='延崎' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057169' lat='34.23265656' lon='132.5955528'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80105 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='延崎' />
+    <tag k='name:en' v='Nobusaki' />
+    <tag k='name:ja' v='延崎' />
+    <tag k='name:ja-Hira' v='のぶさき' />
+    <tag k='name:ko' v='노부사키' />
+    <tag k='name:zh-Hans' v='延崎' />
+    <tag k='name:zh-Hant' v='延崎' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057170' lat='34.23352319' lon='132.5988192'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80106 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阿賀小学校' />
+    <tag k='name:en' v='Aga Shogakko (Aga Elementary School)' />
+    <tag k='name:ja' v='阿賀小学校' />
+    <tag k='name:ja-Hira' v='あがしょうがっこう' />
+    <tag k='name:ko' v='아가 초등학교' />
+    <tag k='name:zh-Hans' v='阿贺小学' />
+    <tag k='name:zh-Hant' v='阿賀小學' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057171' lat='34.23553959' lon='132.5957527'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80107 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西町' />
+    <tag k='name:en' v='Nishimachi' />
+    <tag k='name:ja' v='西町' />
+    <tag k='name:ja-Hira' v='にしまち' />
+    <tag k='name:ko' v='니시마치' />
+    <tag k='name:zh-Hans' v='西町' />
+    <tag k='name:zh-Hant' v='西町' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057172' lat='34.23532294' lon='132.5956193'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80107 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西町' />
+    <tag k='name:en' v='Nishimachi' />
+    <tag k='name:ja' v='西町' />
+    <tag k='name:ja-Hira' v='にしまち' />
+    <tag k='name:ko' v='니시마치' />
+    <tag k='name:zh-Hans' v='西町' />
+    <tag k='name:zh-Hant' v='西町' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057173' lat='34.23757272' lon='132.5968025'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80108 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='東町' />
+    <tag k='name:en' v='Higashimachi' />
+    <tag k='name:ja' v='東町' />
+    <tag k='name:ja-Hira' v='ひがしまち' />
+    <tag k='name:ko' v='히가시마치' />
+    <tag k='name:zh-Hans' v='东町' />
+    <tag k='name:zh-Hant' v='東町' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057174' lat='34.23787269' lon='132.5968358'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80108 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='東町' />
+    <tag k='name:en' v='Higashimachi' />
+    <tag k='name:ja' v='東町' />
+    <tag k='name:ja-Hira' v='ひがしまち' />
+    <tag k='name:ko' v='히가시마치' />
+    <tag k='name:zh-Hans' v='东町' />
+    <tag k='name:zh-Hant' v='東町' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057175' lat='34.19680948' lon='132.5434754'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80110 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='音戸大橋上' />
+    <tag k='name:en' v='Ondo-ohashi-ue (Ondo Long Bridge)' />
+    <tag k='name:ja' v='音戸大橋上' />
+    <tag k='name:ja-Hira' v='おんどおおはしうえ' />
+    <tag k='name:ko' v='온도 대교' />
+    <tag k='name:zh-Hans' v='音户大桥上' />
+    <tag k='name:zh-Hant' v='音戶大橋上' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057176' lat='34.19674282' lon='132.5434921'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80110 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='音戸大橋上' />
+    <tag k='name:en' v='Ondo-ohashi-ue (Ondo Long Bridge)' />
+    <tag k='name:ja' v='音戸大橋上' />
+    <tag k='name:ja-Hira' v='おんどおおはしうえ' />
+    <tag k='name:ko' v='온도 대교' />
+    <tag k='name:zh-Hans' v='音户大桥上' />
+    <tag k='name:zh-Hant' v='音戶大橋上' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057177' lat='34.1971428' lon='132.5447753'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80111 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='みはらし荘' />
+    <tag k='name:en' v='Miharashiso' />
+    <tag k='name:ja' v='みはらし荘' />
+    <tag k='name:ja-Hira' v='みはらしそう' />
+    <tag k='name:ko' v='미하라시소' />
+    <tag k='name:zh-Hans' v='见晴庄' />
+    <tag k='name:zh-Hant' v='見晴莊' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057178' lat='34.19737611' lon='132.544592'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80111 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='みはらし荘' />
+    <tag k='name:en' v='Miharashiso' />
+    <tag k='name:ja' v='みはらし荘' />
+    <tag k='name:ja-Hira' v='みはらしそう' />
+    <tag k='name:ko' v='미하라시소' />
+    <tag k='name:zh-Hans' v='见晴庄' />
+    <tag k='name:zh-Hant' v='見晴莊' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057179' lat='34.19779277' lon='132.5469084'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80112 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='見晴町' />
+    <tag k='name:en' v='Miharashicho' />
+    <tag k='name:ja' v='見晴町' />
+    <tag k='name:ja-Hira' v='みはらしちょう' />
+    <tag k='name:ko' v='미하라시초' />
+    <tag k='name:zh-Hans' v='见晴町' />
+    <tag k='name:zh-Hant' v='見晴町' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057180' lat='34.24270491' lon='132.5628051'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80140 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='中通１丁目' />
+    <tag k='name:en' v='Nakadori-itchome (Nakadori 1)' />
+    <tag k='name:ja' v='中通１丁目' />
+    <tag k='name:ja-Hira' v='なかどおりいっちょうめ' />
+    <tag k='name:ko' v='나카도리 1초메' />
+    <tag k='name:zh-Hans' v='中通1丁目' />
+    <tag k='name:zh-Hant' v='中通1丁目' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057181' lat='34.24287156' lon='132.563005'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80140 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='中通１丁目' />
+    <tag k='name:en' v='Nakadori-itchome (Nakadori 1)' />
+    <tag k='name:ja' v='中通１丁目' />
+    <tag k='name:ja-Hira' v='なかどおりいっちょうめ' />
+    <tag k='name:ko' v='나카도리 1초메' />
+    <tag k='name:zh-Hans' v='中通1丁目' />
+    <tag k='name:zh-Hant' v='中通1丁目' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057182' lat='34.24390483' lon='132.5656381'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80141 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='1' />
+    <tag k='name' v='四道路・四ツ道路' />
+    <tag k='name:en' v='Yotsudoro' />
+    <tag k='name:ja' v='四道路・四ツ道路' />
+    <tag k='name:ja-Hira' v='よつどうろ' />
+    <tag k='name:ko' v='요쓰 도로' />
+    <tag k='name:zh-Hans' v='四道路' />
+    <tag k='name:zh-Hant' v='四道路' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057183' lat='34.24383817' lon='132.5652048'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80141 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='2' />
+    <tag k='name' v='四道路・四ツ道路' />
+    <tag k='name:en' v='Yotsudoro' />
+    <tag k='name:ja' v='四道路・四ツ道路' />
+    <tag k='name:ja-Hira' v='よつどうろ' />
+    <tag k='name:ko' v='요쓰 도로' />
+    <tag k='name:zh-Hans' v='四道路' />
+    <tag k='name:zh-Hant' v='四道路' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057184' lat='34.24515472' lon='132.5669213'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80142 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='1' />
+    <tag k='name' v='本通３丁目・呉本通り三丁目' />
+    <tag k='name:ja' v='本通３丁目・呉本通り三丁目' />
+    <tag k='name:ja-Hira' v='ほんどおりさんちょうめ' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057185' lat='34.24593798' lon='132.5673212'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80142 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='2' />
+    <tag k='name' v='本通３丁目・呉本通り三丁目' />
+    <tag k='name:ja' v='本通３丁目・呉本通り三丁目' />
+    <tag k='name:ja-Hira' v='ほんどおりさんちょうめ' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057186' lat='34.24698789' lon='132.5687544'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80143 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='本通４丁目・呉本通り四丁目' />
+    <tag k='name:ja' v='本通４丁目・呉本通り四丁目' />
+    <tag k='name:ja-Hira' v='くれほんどおりよんちょうめ' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057187' lat='34.24723786' lon='132.5686377'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80143 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='本通４丁目・呉本通り四丁目' />
+    <tag k='name:ja' v='本通４丁目・呉本通り四丁目' />
+    <tag k='name:ja-Hira' v='くれほんどおりよんちょうめ' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057188' lat='34.24885442' lon='132.5721207'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80144 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='本通５丁目' />
+    <tag k='name:en' v='Hondori-gochome (Hondori 5)' />
+    <tag k='name:ja' v='本通５丁目' />
+    <tag k='name:ja-Hira' v='ほんどおりごちょうめ' />
+    <tag k='name:ko' v='혼도리 5초메' />
+    <tag k='name:zh-Hans' v='本通5丁目' />
+    <tag k='name:zh-Hant' v='本通5丁目' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057189' lat='34.24878774' lon='132.5712207'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80144 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='本通５丁目' />
+    <tag k='name:en' v='Hondori-gochome (Hondori 5)' />
+    <tag k='name:ja' v='本通５丁目' />
+    <tag k='name:ja-Hira' v='ほんどおりごちょうめ' />
+    <tag k='name:ko' v='혼도리 5초메' />
+    <tag k='name:zh-Hans' v='本通5丁目' />
+    <tag k='name:zh-Hant' v='本通5丁目' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057190' lat='34.24960437' lon='132.5740371'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80145 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='本通６丁目・呉本通り六丁目' />
+    <tag k='name:ja' v='本通６丁目・呉本通り六丁目' />
+    <tag k='name:ja-Hira' v='くれほんどおりろくちょうめ' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057191' lat='34.250021' lon='132.5743204'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80145 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='本通６丁目・呉本通り六丁目' />
+    <tag k='name:ja' v='本通６丁目・呉本通り六丁目' />
+    <tag k='name:ja-Hira' v='くれほんどおりろくちょうめ' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057192' lat='34.25038766' lon='132.5761369'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80146 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='本通７丁目' />
+    <tag k='name:en' v='Hondori-nanachome (Hondori 7)' />
+    <tag k='name:ja' v='本通７丁目' />
+    <tag k='name:ja-Hira' v='ほんどおりななちょうめ' />
+    <tag k='name:ko' v='혼도리 7초메' />
+    <tag k='name:zh-Hans' v='本通7丁目' />
+    <tag k='name:zh-Hant' v='本通7丁目' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057193' lat='34.25082095' lon='132.5767202'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80146 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='本通７丁目' />
+    <tag k='name:en' v='Hondori-nanachome (Hondori 7)' />
+    <tag k='name:ja' v='本通７丁目' />
+    <tag k='name:ja-Hira' v='ほんどおりななちょうめ' />
+    <tag k='name:ko' v='혼도리 7초메' />
+    <tag k='name:zh-Hans' v='本通7丁目' />
+    <tag k='name:zh-Hant' v='本通7丁目' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057194' lat='34.25098765' lon='132.5792366'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80147 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='本通８丁目・呉本通り八丁目' />
+    <tag k='name:ja' v='本通８丁目・呉本通り八丁目' />
+    <tag k='name:ja-Hira' v='くれほんどおりはっちょうめ' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057195' lat='34.25112097' lon='132.57952'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80147 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='本通８丁目・呉本通り八丁目' />
+    <tag k='name:ja' v='本通８丁目・呉本通り八丁目' />
+    <tag k='name:ja-Hira' v='くれほんどおりはっちょうめ' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057196' lat='34.23848931' lon='132.5980023'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80156 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阿賀海岸通' />
+    <tag k='name:en' v='Aga Kaigan-dori (Aga Kaigan Ave.)' />
+    <tag k='name:ja' v='阿賀海岸通' />
+    <tag k='name:ja-Hira' v='あがかいがんどおり' />
+    <tag k='name:ko' v='아가 카이간 도리' />
+    <tag k='name:zh-Hans' v='阿贺海岸通' />
+    <tag k='name:zh-Hant' v='阿賀海岸通' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057197' lat='34.23807269' lon='132.597969'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80156 3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阿賀海岸通' />
+    <tag k='name:en' v='Aga Kaigan-dori (Aga Kaigan Ave.)' />
+    <tag k='name:ja' v='阿賀海岸通' />
+    <tag k='name:ja-Hira' v='あがかいがんどおり' />
+    <tag k='name:ko' v='아가 카이간 도리' />
+    <tag k='name:zh-Hans' v='阿贺海岸通' />
+    <tag k='name:zh-Hant' v='阿賀海岸通' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057198' lat='34.23269021' lon='132.6141679'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80161 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='新広駅' />
+    <tag k='name:en' v='Shinhiro Sta.' />
+    <tag k='name:ja' v='新広駅' />
+    <tag k='name:ja-Hira' v='しんひろえき' />
+    <tag k='name:ko' v='신히로 역' />
+    <tag k='name:zh-Hans' v='新广站' />
+    <tag k='name:zh-Hant' v='新廣站' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057199' lat='34.23215701' lon='132.6184843'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80163 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='二級橋' />
+    <tag k='name:en' v='Nikyubashi' />
+    <tag k='name:ja' v='二級橋' />
+    <tag k='name:ja-Hira' v='にきゅうばし' />
+    <tag k='name:ko' v='니큐바시' />
+    <tag k='name:zh-Hans' v='二级桥' />
+    <tag k='name:zh-Hant' v='二級橋' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057200' lat='34.23274027' lon='132.6175843'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80163 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='二級橋' />
+    <tag k='name:en' v='Nikyubashi' />
+    <tag k='name:ja' v='二級橋' />
+    <tag k='name:ja-Hira' v='にきゅうばし' />
+    <tag k='name:ko' v='니큐바시' />
+    <tag k='name:zh-Hans' v='二级桥' />
+    <tag k='name:zh-Hant' v='二級橋' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057201' lat='34.22989073' lon='132.6262837'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80165 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='オークアリーナ入口' />
+    <tag k='name:en' v='Oak Arena-iriguchi' />
+    <tag k='name:ja' v='オークアリーナ入口' />
+    <tag k='name:ja-Hira' v='おーくありーないりぐち' />
+    <tag k='name:ko' v='오크 아리나 이리구치' />
+    <tag k='name:zh-Hans' v='吴市综合体育馆Oak Arena入口' />
+    <tag k='name:zh-Hant' v='吳市綜合體育館Oak Arena入口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057202' lat='34.23025734' lon='132.6254671'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80165 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='オークアリーナ入口' />
+    <tag k='name:en' v='Oak Arena-iriguchi' />
+    <tag k='name:ja' v='オークアリーナ入口' />
+    <tag k='name:ja-Hira' v='おーくありーないりぐち' />
+    <tag k='name:ko' v='오크 아리나 이리구치' />
+    <tag k='name:zh-Hans' v='吴市综合体育馆Oak Arena入口' />
+    <tag k='name:zh-Hant' v='吳市綜合體育館Oak Arena入口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057203' lat='34.22755778' lon='132.6339665'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80167 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='白岳入口' />
+    <tag k='name:en' v='Shiratake-iriguchi' />
+    <tag k='name:ja' v='白岳入口' />
+    <tag k='name:ja-Hira' v='しらたけいりぐち' />
+    <tag k='name:ko' v='시라타케 이리구치' />
+    <tag k='name:zh-Hans' v='白岳入口' />
+    <tag k='name:zh-Hant' v='白嶽入口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057204' lat='34.22732449' lon='132.6350831'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80167 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='白岳入口' />
+    <tag k='name:en' v='Shiratake-iriguchi' />
+    <tag k='name:ja' v='白岳入口' />
+    <tag k='name:ja-Hira' v='しらたけいりぐち' />
+    <tag k='name:ko' v='시라타케 이리구치' />
+    <tag k='name:zh-Hans' v='白岳入口' />
+    <tag k='name:zh-Hant' v='白嶽入口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057205' lat='34.2254248' lon='132.6411327'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80169 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='白石' />
+    <tag k='name:en' v='Shiraishi' />
+    <tag k='name:ja' v='白石' />
+    <tag k='name:ja-Hira' v='しらいし' />
+    <tag k='name:ko' v='시라이시' />
+    <tag k='name:zh-Hans' v='白石' />
+    <tag k='name:zh-Hant' v='白石' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057206' lat='34.2256081' lon='132.6408827'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80169 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='白石' />
+    <tag k='name:en' v='Shiraishi' />
+    <tag k='name:ja' v='白石' />
+    <tag k='name:ja-Hira' v='しらいし' />
+    <tag k='name:ko' v='시라이시' />
+    <tag k='name:zh-Hans' v='白石' />
+    <tag k='name:zh-Hant' v='白石' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057207' lat='34.22480835' lon='132.650182'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80170 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西神町' />
+    <tag k='name:en' v='Nishigamicho' />
+    <tag k='name:ja' v='西神町' />
+    <tag k='name:ja-Hira' v='にしがみちょう' />
+    <tag k='name:ko' v='니시가미초' />
+    <tag k='name:zh-Hans' v='西神町' />
+    <tag k='name:zh-Hant' v='西神町' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057208' lat='34.22470838' lon='132.6510152'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80170 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西神町' />
+    <tag k='name:en' v='Nishigamicho' />
+    <tag k='name:ja' v='西神町' />
+    <tag k='name:ja-Hira' v='にしがみちょう' />
+    <tag k='name:ko' v='니시가미초' />
+    <tag k='name:zh-Hans' v='西神町' />
+    <tag k='name:zh-Hant' v='西神町' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057209' lat='34.22347524' lon='132.6547983'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80171 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='汐込川' />
+    <tag k='name:en' v='Shiokomigawa' />
+    <tag k='name:ja' v='汐込川' />
+    <tag k='name:ja-Hira' v='しおこみがわ' />
+    <tag k='name:ko' v='시오코미가와' />
+    <tag k='name:zh-Hans' v='汐込川' />
+    <tag k='name:zh-Hant' v='汐込川' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057210' lat='34.22362522' lon='132.6545983'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80171 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='汐込川' />
+    <tag k='name:en' v='Shiokomigawa' />
+    <tag k='name:ja' v='汐込川' />
+    <tag k='name:ja-Hira' v='しおこみがわ' />
+    <tag k='name:ko' v='시오코미가와' />
+    <tag k='name:zh-Hans' v='汐込川' />
+    <tag k='name:zh-Hant' v='汐込川' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057211' lat='34.22259203' lon='132.6564482'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80172 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='仁方駅前' />
+    <tag k='name:en' v='Nigata Sta.' />
+    <tag k='name:ja' v='仁方駅前' />
+    <tag k='name:ja-Hira' v='にがたえきまえ' />
+    <tag k='name:ko' v='니가타 역' />
+    <tag k='name:zh-Hans' v='仁方站前' />
+    <tag k='name:zh-Hant' v='仁方站前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057212' lat='34.22212542' lon='132.6568315'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80172 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='仁方駅前' />
+    <tag k='name:en' v='Nigata Sta.' />
+    <tag k='name:ja' v='仁方駅前' />
+    <tag k='name:ja-Hira' v='にがたえきまえ' />
+    <tag k='name:ko' v='니가타 역' />
+    <tag k='name:zh-Hans' v='仁方站前' />
+    <tag k='name:zh-Hant' v='仁方站前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057213' lat='34.22110888' lon='132.6575315'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80173 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大東踏切前' />
+    <tag k='name:en' v='Ohigashi Fumikiri-mae' />
+    <tag k='name:ja' v='大東踏切前' />
+    <tag k='name:ja-Hira' v='おおひがしふみきりまえ' />
+    <tag k='name:ko' v='오히가시 후미키리 마에' />
+    <tag k='name:zh-Hans' v='大东道口前' />
+    <tag k='name:zh-Hant' v='大東道口前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057214' lat='34.2209589' lon='132.6577148'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80173 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大東踏切前' />
+    <tag k='name:en' v='Ohigashi Fumikiri-mae' />
+    <tag k='name:ja' v='大東踏切前' />
+    <tag k='name:ja-Hira' v='おおひがしふみきりまえ' />
+    <tag k='name:ko' v='오히가시 후미키리 마에' />
+    <tag k='name:zh-Hans' v='大东道口前' />
+    <tag k='name:zh-Hant' v='大東道口前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057215' lat='34.2196591' lon='132.6617479'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80174 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大東' />
+    <tag k='name:en' v='Ohigashi' />
+    <tag k='name:ja' v='大東' />
+    <tag k='name:ja-Hira' v='おおひがし' />
+    <tag k='name:ko' v='오히가시' />
+    <tag k='name:zh-Hans' v='大东' />
+    <tag k='name:zh-Hant' v='大東' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057216' lat='34.21964243' lon='132.661098'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80174 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大東' />
+    <tag k='name:en' v='Ohigashi' />
+    <tag k='name:ja' v='大東' />
+    <tag k='name:ja-Hira' v='おおひがし' />
+    <tag k='name:ko' v='오히가시' />
+    <tag k='name:zh-Hans' v='大东' />
+    <tag k='name:zh-Hant' v='大東' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057217' lat='34.22035909' lon='132.6649643'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80175 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大歳町' />
+    <tag k='name:en' v='Otoshicho' />
+    <tag k='name:ja' v='大歳町' />
+    <tag k='name:ja-Hira' v='おおとしちょう' />
+    <tag k='name:ko' v='오토시초' />
+    <tag k='name:zh-Hans' v='大岁町' />
+    <tag k='name:zh-Hant' v='大歲町' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057218' lat='34.22059238' lon='132.6641143'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80175 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大歳町' />
+    <tag k='name:en' v='Otoshicho' />
+    <tag k='name:ja' v='大歳町' />
+    <tag k='name:ja-Hira' v='おおとしちょう' />
+    <tag k='name:ko' v='오토시초' />
+    <tag k='name:zh-Hans' v='大岁町' />
+    <tag k='name:zh-Hant' v='大歲町' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057219' lat='34.21747618' lon='132.6716972'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80176 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='戸浜西' />
+    <tag k='name:en' v='Tohama-nishi' />
+    <tag k='name:ja' v='戸浜西' />
+    <tag k='name:ja-Hira' v='とはまにし' />
+    <tag k='name:ko' v='도하마 니시' />
+    <tag k='name:zh-Hans' v='户滨西' />
+    <tag k='name:zh-Hant' v='戶濱西' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057220' lat='34.21794279' lon='132.6714805'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80176 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='戸浜西' />
+    <tag k='name:en' v='Tohama-nishi' />
+    <tag k='name:ja' v='戸浜西' />
+    <tag k='name:ja-Hira' v='とはまにし' />
+    <tag k='name:ko' v='도하마 니시' />
+    <tag k='name:zh-Hans' v='户滨西' />
+    <tag k='name:zh-Hant' v='戶濱西' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057221' lat='34.21500982' lon='132.6740138'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80177 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='戸浜' />
+    <tag k='name:en' v='Tohama' />
+    <tag k='name:ja' v='戸浜' />
+    <tag k='name:ja-Hira' v='とはま' />
+    <tag k='name:ko' v='도하마' />
+    <tag k='name:zh-Hans' v='户滨' />
+    <tag k='name:zh-Hant' v='戶濱' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057222' lat='34.21512648' lon='132.6743137'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80177 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='戸浜' />
+    <tag k='name:en' v='Tohama' />
+    <tag k='name:ja' v='戸浜' />
+    <tag k='name:ja-Hira' v='とはま' />
+    <tag k='name:ko' v='도하마' />
+    <tag k='name:zh-Hans' v='户滨' />
+    <tag k='name:zh-Hant' v='戶濱' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057223' lat='34.21595978' lon='132.6775134'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80178 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小仁方' />
+    <tag k='name:en' v='Konigata' />
+    <tag k='name:ja' v='小仁方' />
+    <tag k='name:ja-Hira' v='こにがた' />
+    <tag k='name:ko' v='고니가타' />
+    <tag k='name:zh-Hans' v='小仁方' />
+    <tag k='name:zh-Hant' v='小仁方' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057224' lat='34.21607643' lon='132.6772634'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80178 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小仁方' />
+    <tag k='name:en' v='Konigata' />
+    <tag k='name:ja' v='小仁方' />
+    <tag k='name:ja-Hira' v='こにがた' />
+    <tag k='name:ko' v='고니가타' />
+    <tag k='name:zh-Hans' v='小仁方' />
+    <tag k='name:zh-Hant' v='小仁方' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057225' lat='34.21894289' lon='132.6833795'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80179 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='丸岩口' />
+    <tag k='name:en' v='Maruiwa-guchi' />
+    <tag k='name:ja' v='丸岩口' />
+    <tag k='name:ja-Hira' v='まるいわぐち' />
+    <tag k='name:ko' v='마루이와 구치' />
+    <tag k='name:zh-Hans' v='丸岩口' />
+    <tag k='name:zh-Hant' v='丸巖口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057226' lat='34.21994279' lon='132.6834961'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80179 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='丸岩口' />
+    <tag k='name:en' v='Maruiwa-guchi' />
+    <tag k='name:ja' v='丸岩口' />
+    <tag k='name:ja-Hira' v='まるいわぐち' />
+    <tag k='name:ko' v='마루이와 구치' />
+    <tag k='name:zh-Hans' v='丸岩口' />
+    <tag k='name:zh-Hant' v='丸巖口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057227' lat='34.22240921' lon='132.6846459'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80180 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='岩戸' />
+    <tag k='name:en' v='Iwato' />
+    <tag k='name:ja' v='岩戸' />
+    <tag k='name:ja-Hira' v='いわと' />
+    <tag k='name:ko' v='이와토' />
+    <tag k='name:zh-Hans' v='岩户' />
+    <tag k='name:zh-Hant' v='巖戶' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057228' lat='34.22269252' lon='132.6847959'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80180 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='岩戸' />
+    <tag k='name:en' v='Iwato' />
+    <tag k='name:ja' v='岩戸' />
+    <tag k='name:ja-Hira' v='いわと' />
+    <tag k='name:ko' v='이와토' />
+    <tag k='name:zh-Hans' v='岩户' />
+    <tag k='name:zh-Hant' v='巖戶' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057229' lat='34.22460905' lon='132.6888954'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80181 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='えびさき' />
+    <tag k='name:en' v='Ebisaki' />
+    <tag k='name:ja' v='えびさき' />
+    <tag k='name:ja-Hira' v='えびさき' />
+    <tag k='name:ko' v='에비사키' />
+    <tag k='name:zh-Hans' v='EBISAKI' />
+    <tag k='name:zh-Hant' v='EBISAKI' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057230' lat='34.22412575' lon='132.6876455'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80181 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='えびさき' />
+    <tag k='name:en' v='Ebisaki' />
+    <tag k='name:ja' v='えびさき' />
+    <tag k='name:ja-Hira' v='えびさき' />
+    <tag k='name:ko' v='에비사키' />
+    <tag k='name:zh-Hans' v='EBISAKI' />
+    <tag k='name:zh-Hant' v='EBISAKI' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057231' lat='34.2294919' lon='132.690945'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80182 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='新宮神社前' />
+    <tag k='name:en' v='Shingu Jinja-mae (Shingu Jinja Shrine)' />
+    <tag k='name:ja' v='新宮神社前' />
+    <tag k='name:ja-Hira' v='しんぐうじんじゃまえ' />
+    <tag k='name:ko' v='신구진자 신사' />
+    <tag k='name:zh-Hans' v='新宫神社前' />
+    <tag k='name:zh-Hant' v='新宮神社前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057232' lat='34.22957522' lon='132.6908784'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80182 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='新宮神社前' />
+    <tag k='name:en' v='Shingu Jinja-mae (Shingu Jinja Shrine)' />
+    <tag k='name:ja' v='新宮神社前' />
+    <tag k='name:ja-Hira' v='しんぐうじんじゃまえ' />
+    <tag k='name:ko' v='신구진자 신사' />
+    <tag k='name:zh-Hans' v='新宫神社前' />
+    <tag k='name:zh-Hant' v='新宮神社前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057233' lat='34.23452476' lon='132.6948778'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80183 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='川尻駅' />
+    <tag k='name:en' v='Kawajiri Sta.' />
+    <tag k='name:ja' v='川尻駅' />
+    <tag k='name:ja-Hira' v='かわじりえき' />
+    <tag k='name:ko' v='가와지리 역' />
+    <tag k='name:zh-Hans' v='川尻站' />
+    <tag k='name:zh-Hant' v='川尻站' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057234' lat='34.2335415' lon='132.6930613'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80183 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='川尻駅' />
+    <tag k='name:en' v='Kawajiri Sta.' />
+    <tag k='name:ja' v='川尻駅' />
+    <tag k='name:ja-Hira' v='かわじりえき' />
+    <tag k='name:ko' v='가와지리 역' />
+    <tag k='name:zh-Hans' v='川尻站' />
+    <tag k='name:zh-Hant' v='川尻站' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057235' lat='34.23617462' lon='132.6970442'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80184 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='清水町' />
+    <tag k='name:en' v='Shimizucho' />
+    <tag k='name:ja' v='清水町' />
+    <tag k='name:ja-Hira' v='しみずちょう' />
+    <tag k='name:ko' v='시미즈초' />
+    <tag k='name:zh-Hans' v='清水町' />
+    <tag k='name:zh-Hant' v='清水町' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057236' lat='34.23650792' lon='132.6973608'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80184 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='清水町' />
+    <tag k='name:en' v='Shimizucho' />
+    <tag k='name:ja' v='清水町' />
+    <tag k='name:ja-Hira' v='しみずちょう' />
+    <tag k='name:ko' v='시미즈초' />
+    <tag k='name:zh-Hans' v='清水町' />
+    <tag k='name:zh-Hant' v='清水町' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057237' lat='34.23839113' lon='132.7015104'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80185 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='川尻月の浦' />
+    <tag k='name:en' v='Kawajiri Tsukinoura' />
+    <tag k='name:ja' v='川尻月の浦' />
+    <tag k='name:ja-Hira' v='かわじりつきのうら' />
+    <tag k='name:ko' v='가와지리 쓰키노우라' />
+    <tag k='name:zh-Hans' v='川尻月之浦' />
+    <tag k='name:zh-Hant' v='川尻月之浦' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057238' lat='34.23785783' lon='132.7002439'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80185 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='川尻月の浦' />
+    <tag k='name:en' v='Kawajiri Tsukinoura' />
+    <tag k='name:ja' v='川尻月の浦' />
+    <tag k='name:ja-Hira' v='かわじりつきのうら' />
+    <tag k='name:ko' v='가와지리 쓰키노우라' />
+    <tag k='name:zh-Hans' v='川尻月之浦' />
+    <tag k='name:zh-Hant' v='川尻月之浦' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057239' lat='34.23984116' lon='132.7122095'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80186 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小用入口' />
+    <tag k='name:en' v='Koyo-iriguchi' />
+    <tag k='name:ja' v='小用入口' />
+    <tag k='name:ja-Hira' v='こよういりぐち' />
+    <tag k='name:ko' v='고요 이리구치' />
+    <tag k='name:zh-Hans' v='小用入口' />
+    <tag k='name:zh-Hant' v='小用入口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057240' lat='34.24034112' lon='132.7127427'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80186 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小用入口' />
+    <tag k='name:en' v='Koyo-iriguchi' />
+    <tag k='name:ja' v='小用入口' />
+    <tag k='name:ja-Hira' v='こよういりぐち' />
+    <tag k='name:ko' v='고요 이리구치' />
+    <tag k='name:zh-Hans' v='小用入口' />
+    <tag k='name:zh-Hant' v='小用入口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057241' lat='34.21672599' lon='132.6559985'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80189 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='新開橋' />
+    <tag k='name:en' v='Shingaibashi' />
+    <tag k='name:ja' v='新開橋' />
+    <tag k='name:ja-Hira' v='しんかいばし' />
+    <tag k='name:ko' v='신가이바시' />
+    <tag k='name:zh-Hans' v='新开桥' />
+    <tag k='name:zh-Hant' v='新開橋' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057242' lat='34.21644269' lon='132.6562318'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80189 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='新開橋' />
+    <tag k='name:en' v='Shingaibashi' />
+    <tag k='name:ja' v='新開橋' />
+    <tag k='name:ja-Hira' v='しんかいばし' />
+    <tag k='name:ko' v='신가이바시' />
+    <tag k='name:zh-Hans' v='新开桥' />
+    <tag k='name:zh-Hant' v='新開橋' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057243' lat='34.21357635' lon='132.6574819'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80190 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='皆実町' />
+    <tag k='name:en' v='Minamicho' />
+    <tag k='name:ja' v='皆実町' />
+    <tag k='name:ja-Hira' v='みなみちょう' />
+    <tag k='name:ko' v='미나미초' />
+    <tag k='name:zh-Hans' v='皆实町' />
+    <tag k='name:zh-Hant' v='皆實町' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057244' lat='34.21359301' lon='132.6575819'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80190 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='皆実町' />
+    <tag k='name:en' v='Minamicho' />
+    <tag k='name:ja' v='皆実町' />
+    <tag k='name:ja-Hira' v='みなみちょう' />
+    <tag k='name:ko' v='미나미초' />
+    <tag k='name:zh-Hans' v='皆实町' />
+    <tag k='name:zh-Hant' v='皆實町' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057245' lat='34.21184322' lon='132.6585819'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80191 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='皆実公園前' />
+    <tag k='name:en' v='Minami Koen-mae (Minami Park)' />
+    <tag k='name:ja' v='皆実公園前' />
+    <tag k='name:ja-Hira' v='みなみこうえんまえ' />
+    <tag k='name:ko' v='미나미 공원' />
+    <tag k='name:zh-Hans' v='皆实公园前' />
+    <tag k='name:zh-Hant' v='皆實公園前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057246' lat='34.21179323' lon='132.6587318'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80191 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='皆実公園前' />
+    <tag k='name:en' v='Minami Koen-mae (Minami Park)' />
+    <tag k='name:ja' v='皆実公園前' />
+    <tag k='name:ja-Hira' v='みなみこうえんまえ' />
+    <tag k='name:ko' v='미나미 공원' />
+    <tag k='name:zh-Hans' v='皆实公园前' />
+    <tag k='name:zh-Hant' v='皆實公園前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057247' lat='34.20656034' lon='132.6524826'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80192 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小須磨' />
+    <tag k='name:en' v='Kosuma' />
+    <tag k='name:ja' v='小須磨' />
+    <tag k='name:ja-Hira' v='こすま' />
+    <tag k='name:ko' v='고스마' />
+    <tag k='name:zh-Hans' v='小须磨' />
+    <tag k='name:zh-Hant' v='小須磨' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057248' lat='34.20656035' lon='132.6525159'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80192 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小須磨' />
+    <tag k='name:en' v='Kosuma' />
+    <tag k='name:ja' v='小須磨' />
+    <tag k='name:ja-Hira' v='こすま' />
+    <tag k='name:ko' v='고스마' />
+    <tag k='name:zh-Hans' v='小须磨' />
+    <tag k='name:zh-Hant' v='小須磨' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057249' lat='34.22660767' lon='132.6222509'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80213 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='王子マテリア前' />
+    <tag k='name:en' v='Oji Materia-mae' />
+    <tag k='name:ja' v='王子マテリア前' />
+    <tag k='name:ja-Hira' v='おうじまてりあまえ' />
+    <tag k='name:ko' v='오지 마테리아 마에' />
+    <tag k='name:zh-Hans' v='王子MATERIA前' />
+    <tag k='name:zh-Hant' v='王子MATERIA前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057250' lat='34.22682432' lon='132.6224508'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80213 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='王子マテリア前' />
+    <tag k='name:en' v='Oji Materia-mae' />
+    <tag k='name:ja' v='王子マテリア前' />
+    <tag k='name:ja-Hira' v='おうじまてりあまえ' />
+    <tag k='name:ko' v='오지 마테리아 마에' />
+    <tag k='name:zh-Hans' v='王子MATERIA前' />
+    <tag k='name:zh-Hant' v='王子MATERIA前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057251' lat='34.22275808' lon='132.6217844'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80214 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='末広２丁目' />
+    <tag k='name:en' v='Suehiro-nichome (Suehiro 2-chome)' />
+    <tag k='name:ja' v='末広２丁目' />
+    <tag k='name:ja-Hira' v='すえひろにちょうめ' />
+    <tag k='name:ko' v='스에히로 2초메' />
+    <tag k='name:zh-Hans' v='末广2丁目' />
+    <tag k='name:zh-Hant' v='末廣2丁目' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057252' lat='34.22362466' lon='132.6222343'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80214 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='末広２丁目' />
+    <tag k='name:en' v='Suehiro-nichome (Suehiro 2-chome)' />
+    <tag k='name:ja' v='末広２丁目' />
+    <tag k='name:ja-Hira' v='すえひろにちょうめ' />
+    <tag k='name:ko' v='스에히로 2초메' />
+    <tag k='name:zh-Hans' v='末广2丁目' />
+    <tag k='name:zh-Hant' v='末廣2丁目' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057253' lat='34.21980837' lon='132.620768'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80215 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='津久茂' />
+    <tag k='name:en' v='Tsukumo' />
+    <tag k='name:ja' v='津久茂' />
+    <tag k='name:ja-Hira' v='つくも' />
+    <tag k='name:ko' v='쓰쿠모' />
+    <tag k='name:zh-Hans' v='津久茂' />
+    <tag k='name:zh-Hant' v='津久茂' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057254' lat='34.21945841' lon='132.6206513'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80215 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='津久茂' />
+    <tag k='name:en' v='Tsukumo' />
+    <tag k='name:ja' v='津久茂' />
+    <tag k='name:ja-Hira' v='つくも' />
+    <tag k='name:ko' v='쓰쿠모' />
+    <tag k='name:zh-Hans' v='津久茂' />
+    <tag k='name:zh-Hant' v='津久茂' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057255' lat='34.21369237' lon='132.6212349'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80216 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='長浜桟橋' />
+    <tag k='name:en' v='Nagahama Sambashi (Nagahama Pier)' />
+    <tag k='name:ja' v='長浜桟橋' />
+    <tag k='name:ja-Hira' v='ながはまさんばし' />
+    <tag k='name:ko' v='나가하마 산바시' />
+    <tag k='name:zh-Hans' v='长滨栈桥' />
+    <tag k='name:zh-Hant' v='長濱棧橋' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057256' lat='34.21402567' lon='132.6212515'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80216 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='長浜桟橋' />
+    <tag k='name:en' v='Nagahama Sambashi (Nagahama Pier)' />
+    <tag k='name:ja' v='長浜桟橋' />
+    <tag k='name:ja-Hira' v='ながはまさんばし' />
+    <tag k='name:ko' v='나가하마 산바시' />
+    <tag k='name:zh-Hans' v='长滨栈桥' />
+    <tag k='name:zh-Hant' v='長濱棧橋' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057257' lat='34.2120093' lon='132.6258679'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80217 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='広南小学校' />
+    <tag k='name:en' v='Hiro-minami Shogakko (Hiro-minami Elementary School)' />
+    <tag k='name:ja' v='広南小学校' />
+    <tag k='name:ja-Hira' v='ひろみなみしょうがっこう' />
+    <tag k='name:ko' v='히로미나미 초등학교' />
+    <tag k='name:zh-Hans' v='广南小学' />
+    <tag k='name:zh-Hant' v='廣南小學' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057258' lat='34.21170934' lon='132.6263345'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80217 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='広南小学校' />
+    <tag k='name:en' v='Hiro-minami Shogakko (Hiro-minami Elementary School)' />
+    <tag k='name:ja' v='広南小学校' />
+    <tag k='name:ja-Hira' v='ひろみなみしょうがっこう' />
+    <tag k='name:ko' v='히로미나미 초등학교' />
+    <tag k='name:zh-Hans' v='广南小学' />
+    <tag k='name:zh-Hant' v='廣南小學' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057259' lat='34.20989288' lon='132.6272346'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80218 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='造船所前' />
+    <tag k='name:en' v='Zosenjo-ｍae' />
+    <tag k='name:ja' v='造船所前' />
+    <tag k='name:ja-Hira' v='ぞうせんしょまえ' />
+    <tag k='name:ko' v='조센조마에' />
+    <tag k='name:zh-Hans' v='造船所前' />
+    <tag k='name:zh-Hant' v='造船所前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057260' lat='34.20992621' lon='132.6273012'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80218 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='造船所前' />
+    <tag k='name:en' v='Zosenjo-ｍae' />
+    <tag k='name:ja' v='造船所前' />
+    <tag k='name:ja-Hira' v='ぞうせんしょまえ' />
+    <tag k='name:ko' v='조센조마에' />
+    <tag k='name:zh-Hans' v='造船所前' />
+    <tag k='name:zh-Hant' v='造船所前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057261' lat='34.2075099' lon='132.6328675'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80219 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='下小坪' />
+    <tag k='name:en' v='Shimo-kotsubo' />
+    <tag k='name:ja' v='下小坪' />
+    <tag k='name:ja-Hira' v='しもこつぼ' />
+    <tag k='name:ko' v='시모코쓰보' />
+    <tag k='name:zh-Hans' v='下小坪' />
+    <tag k='name:zh-Hant' v='下小坪' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057262' lat='34.20769321' lon='132.6329175'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80219 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='下小坪' />
+    <tag k='name:en' v='Shimo-kotsubo' />
+    <tag k='name:ja' v='下小坪' />
+    <tag k='name:ja-Hira' v='しもこつぼ' />
+    <tag k='name:ko' v='시모코쓰보' />
+    <tag k='name:zh-Hans' v='下小坪' />
+    <tag k='name:zh-Hant' v='下小坪' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057263' lat='34.20824318' lon='132.634534'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80220 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='こつぼふれあい広場' />
+    <tag k='name:en' v='Kotsubo Fureai-hiroba' />
+    <tag k='name:ja' v='こつぼふれあい広場' />
+    <tag k='name:ja-Hira' v='こつぼふれあいひろば' />
+    <tag k='name:ko' v='고쓰보 후레아이 히로바' />
+    <tag k='name:zh-Hans' v='小坪交流广场' />
+    <tag k='name:zh-Hant' v='小坪交流廣場' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057264' lat='34.20835984' lon='132.6343674'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80220 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='こつぼふれあい広場' />
+    <tag k='name:en' v='Kotsubo Fureai-hiroba' />
+    <tag k='name:ja' v='こつぼふれあい広場' />
+    <tag k='name:ja-Hira' v='こつぼふれあいひろば' />
+    <tag k='name:ko' v='고쓰보 후레아이 히로바' />
+    <tag k='name:zh-Hans' v='小坪交流广场' />
+    <tag k='name:zh-Hant' v='小坪交流廣場' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057265' lat='34.20596013' lon='132.6362673'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80221 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小坪' />
+    <tag k='name:en' v='Kotsubo' />
+    <tag k='name:ja' v='小坪' />
+    <tag k='name:ja-Hira' v='こつぼ' />
+    <tag k='name:ko' v='고쓰보' />
+    <tag k='name:zh-Hans' v='小坪' />
+    <tag k='name:zh-Hant' v='小坪' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057266' lat='34.20606011' lon='132.6362007'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80221 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小坪' />
+    <tag k='name:en' v='Kotsubo' />
+    <tag k='name:ja' v='小坪' />
+    <tag k='name:ja-Hira' v='こつぼ' />
+    <tag k='name:ko' v='고쓰보' />
+    <tag k='name:zh-Hans' v='小坪' />
+    <tag k='name:zh-Hant' v='小坪' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057267' lat='34.20469362' lon='132.6375006'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80222 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='東小坪' />
+    <tag k='name:en' v='Higashi-kotsubo' />
+    <tag k='name:ja' v='東小坪' />
+    <tag k='name:ja-Hira' v='ひがしこつぼ' />
+    <tag k='name:ko' v='히가시코쓰보' />
+    <tag k='name:zh-Hans' v='东小坪' />
+    <tag k='name:zh-Hant' v='東小坪' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057268' lat='34.20429366' lon='132.6376839'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80222 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='東小坪' />
+    <tag k='name:en' v='Higashi-kotsubo' />
+    <tag k='name:ja' v='東小坪' />
+    <tag k='name:ja-Hira' v='ひがしこつぼ' />
+    <tag k='name:ko' v='히가시코쓰보' />
+    <tag k='name:zh-Hans' v='东小坪' />
+    <tag k='name:zh-Hant' v='東小坪' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057269' lat='34.29633236' lon='132.5545199'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80313 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='宮ヶ迫団地入口' />
+    <tag k='name:en' v='Miyagasako-Danchi-iriguchi' />
+    <tag k='name:ja' v='宮ヶ迫団地入口' />
+    <tag k='name:ja-Hira' v='みやがさこだんちいりぐち' />
+    <tag k='name:ko' v='미야가사코 단이 이리구치' />
+    <tag k='name:zh-Hans' v='宫迫团地入口' />
+    <tag k='name:zh-Hant' v='宮迫團地入口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057270' lat='34.29304955' lon='132.5642193'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80329 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='焼山下呉地' />
+    <tag k='name:en' v='Yakeyama-shimo-kureji' />
+    <tag k='name:ja' v='焼山下呉地' />
+    <tag k='name:ja-Hira' v='やけやましもくれじ' />
+    <tag k='name:ko' v='야케야마 시모 쿠레지' />
+    <tag k='name:zh-Hans' v='烧山下吴地' />
+    <tag k='name:zh-Hant' v='燒山下吳地' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057271' lat='34.2932662' lon='132.5643359'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80329 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='焼山下呉地' />
+    <tag k='name:en' v='Yakeyama-shimo-kureji' />
+    <tag k='name:ja' v='焼山下呉地' />
+    <tag k='name:ja-Hira' v='やけやましもくれじ' />
+    <tag k='name:ko' v='야케야마 시모 쿠레지' />
+    <tag k='name:zh-Hans' v='烧山下吴地' />
+    <tag k='name:zh-Hant' v='燒山下吳地' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057272' lat='34.29098314' lon='132.5661192'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80330 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='第３団地入口' />
+    <tag k='name:en' v='Daisan-Danchi-iriguchi' />
+    <tag k='name:ja' v='第３団地入口' />
+    <tag k='name:ja-Hira' v='だいさんだんちいりぐち' />
+    <tag k='name:ko' v='다이산 단치 이리구치' />
+    <tag k='name:zh-Hans' v='第3团地入口' />
+    <tag k='name:zh-Hant' v='第3團地入口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057273' lat='34.29108313' lon='132.5661692'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80330 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='第３団地入口' />
+    <tag k='name:en' v='Daisan-Danchi-iriguchi' />
+    <tag k='name:ja' v='第３団地入口' />
+    <tag k='name:ja-Hira' v='だいさんだんちいりぐち' />
+    <tag k='name:ko' v='다이산 단치 이리구치' />
+    <tag k='name:zh-Hans' v='第3团地入口' />
+    <tag k='name:zh-Hant' v='第3團地入口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057274' lat='34.28936668' lon='132.5680858'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80331 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='南ハイツ入口' />
+    <tag k='name:en' v='Minami Heights-iriguchi' />
+    <tag k='name:ja' v='南ハイツ入口' />
+    <tag k='name:ja-Hira' v='みなみはいついりぐち' />
+    <tag k='name:ko' v='미나미 하이츠 이리구치' />
+    <tag k='name:zh-Hans' v='南公寓入口' />
+    <tag k='name:zh-Hant' v='南公寓入口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057275' lat='34.28946667' lon='132.5681858'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80331 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='南ハイツ入口' />
+    <tag k='name:en' v='Minami Heights-iriguchi' />
+    <tag k='name:ja' v='南ハイツ入口' />
+    <tag k='name:ja-Hira' v='みなみはいついりぐち' />
+    <tag k='name:ko' v='미나미 하이츠 이리구치' />
+    <tag k='name:zh-Hans' v='南公寓入口' />
+    <tag k='name:zh-Hant' v='南公寓入口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057276' lat='34.29143345' lon='132.5869175'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80337 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='苗代' />
+    <tag k='name:en' v='Naeshiro' />
+    <tag k='name:ja' v='苗代' />
+    <tag k='name:ja-Hira' v='なえしろ' />
+    <tag k='name:ko' v='나에시로' />
+    <tag k='name:zh-Hans' v='苗代' />
+    <tag k='name:zh-Hant' v='苗代' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057277' lat='34.29213338' lon='132.5871508'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80337 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='苗代' />
+    <tag k='name:en' v='Naeshiro' />
+    <tag k='name:ja' v='苗代' />
+    <tag k='name:ja-Hira' v='なえしろ' />
+    <tag k='name:ko' v='나에시로' />
+    <tag k='name:zh-Hans' v='苗代' />
+    <tag k='name:zh-Hant' v='苗代' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057278' lat='34.29726612' lon='132.5843008'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80338 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='苗代西条' />
+    <tag k='name:en' v='Naeshiro Nishijo' />
+    <tag k='name:ja' v='苗代西条' />
+    <tag k='name:ja-Hira' v='なえしろにしじょう' />
+    <tag k='name:ko' v='나에시로 니시조' />
+    <tag k='name:zh-Hans' v='苗代西条' />
+    <tag k='name:zh-Hant' v='苗代西條' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057279' lat='34.29744943' lon='132.5841674'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80338 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='苗代西条' />
+    <tag k='name:en' v='Naeshiro Nishijo' />
+    <tag k='name:ja' v='苗代西条' />
+    <tag k='name:ja-Hira' v='なえしろにしじょう' />
+    <tag k='name:ko' v='나에시로 니시조' />
+    <tag k='name:zh-Hans' v='苗代西条' />
+    <tag k='name:zh-Hant' v='苗代西條' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057280' lat='34.30164902' lon='132.5862671'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80339 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='苗代下条' />
+    <tag k='name:en' v='Neshiro Shimojo' />
+    <tag k='name:ja' v='苗代下条' />
+    <tag k='name:ja-Hira' v='なえしろしもじょう' />
+    <tag k='name:ko' v='나에시로 시모조' />
+    <tag k='name:zh-Hans' v='苗代下条' />
+    <tag k='name:zh-Hant' v='苗代下條' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057281' lat='34.28891669' lon='132.5659027'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80354 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='1' />
+    <tag k='name' v='昭和中学校前' />
+    <tag k='name:en' v='Showa Chugakko-mae (Showa Junior High School)' />
+    <tag k='name:ja' v='昭和中学校前' />
+    <tag k='name:ja-Hira' v='しょうわちゅうがっこうまえ' />
+    <tag k='name:ko' v='쇼와 중학교' />
+    <tag k='name:zh-Hans' v='昭和中学前' />
+    <tag k='name:zh-Hant' v='昭和中學前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057282' lat='34.28880004' lon='132.566286'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80354 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='2' />
+    <tag k='name' v='昭和中学校前' />
+    <tag k='name:en' v='Showa Chugakko-mae (Showa Junior High School)' />
+    <tag k='name:ja' v='昭和中学校前' />
+    <tag k='name:ja-Hira' v='しょうわちゅうがっこうまえ' />
+    <tag k='name:ko' v='쇼와 중학교' />
+    <tag k='name:zh-Hans' v='昭和中学前' />
+    <tag k='name:zh-Hant' v='昭和中學前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057283' lat='34.28826673' lon='132.5641862'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80354 3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='3' />
+    <tag k='name' v='昭和中学校前' />
+    <tag k='name:en' v='Showa Chugakko-mae (Showa Junior High School)' />
+    <tag k='name:ja' v='昭和中学校前' />
+    <tag k='name:ja-Hira' v='しょうわちゅうがっこうまえ' />
+    <tag k='name:ko' v='쇼와 중학교' />
+    <tag k='name:zh-Hans' v='昭和中学前' />
+    <tag k='name:zh-Hant' v='昭和中學前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057284' lat='34.28836672' lon='132.5643195'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80354 4' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='4' />
+    <tag k='name' v='昭和中学校前' />
+    <tag k='name:en' v='Showa Chugakko-mae (Showa Junior High School)' />
+    <tag k='name:ja' v='昭和中学校前' />
+    <tag k='name:ja-Hira' v='しょうわちゅうがっこうまえ' />
+    <tag k='name:ko' v='쇼와 중학교' />
+    <tag k='name:zh-Hans' v='昭和中学前' />
+    <tag k='name:zh-Hant' v='昭和中學前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057285' lat='34.28393389' lon='132.5661029'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80355 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='三石' />
+    <tag k='name:en' v='Mitsuishi' />
+    <tag k='name:ja' v='三石' />
+    <tag k='name:ja-Hira' v='みついし' />
+    <tag k='name:ko' v='미쓰이시' />
+    <tag k='name:zh-Hans' v='三石' />
+    <tag k='name:zh-Hant' v='三石' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057286' lat='34.28398389' lon='132.5661029'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80355 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='三石' />
+    <tag k='name:en' v='Mitsuishi' />
+    <tag k='name:ja' v='三石' />
+    <tag k='name:ja-Hira' v='みついし' />
+    <tag k='name:ko' v='미쓰이시' />
+    <tag k='name:zh-Hans' v='三石' />
+    <tag k='name:zh-Hant' v='三石' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057287' lat='34.28106759' lon='132.5695027'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80356 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='洗川' />
+    <tag k='name:en' v='Araikawa' />
+    <tag k='name:ja' v='洗川' />
+    <tag k='name:ja-Hira' v='あらいかわ' />
+    <tag k='name:ko' v='아라이카와' />
+    <tag k='name:zh-Hans' v='洗川' />
+    <tag k='name:zh-Hant' v='洗川' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057288' lat='34.28106759' lon='132.5695527'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80356 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='洗川' />
+    <tag k='name:en' v='Araikawa' />
+    <tag k='name:ja' v='洗川' />
+    <tag k='name:ja-Hira' v='あらいかわ' />
+    <tag k='name:ko' v='아라이카와' />
+    <tag k='name:zh-Hans' v='洗川' />
+    <tag k='name:zh-Hant' v='洗川' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057289' lat='34.27821795' lon='132.5722526'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80357 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='神山' />
+    <tag k='name:en' v='Jinyama' />
+    <tag k='name:ja' v='神山' />
+    <tag k='name:ja-Hira' v='じんやま' />
+    <tag k='name:ko' v='진야마' />
+    <tag k='name:zh-Hans' v='神山' />
+    <tag k='name:zh-Hant' v='神山' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057290' lat='34.27823461' lon='132.572336'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80357 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='神山' />
+    <tag k='name:en' v='Jinyama' />
+    <tag k='name:ja' v='神山' />
+    <tag k='name:ja-Hira' v='じんやま' />
+    <tag k='name:ko' v='진야마' />
+    <tag k='name:zh-Hans' v='神山' />
+    <tag k='name:zh-Hant' v='神山' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057291' lat='34.27448508' lon='132.5760192'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80358 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='神山峠' />
+    <tag k='name:en' v='Jinyama-toge' />
+    <tag k='name:ja' v='神山峠' />
+    <tag k='name:ja-Hira' v='じんやまとうげ' />
+    <tag k='name:ko' v='진야마 토게' />
+    <tag k='name:zh-Hans' v='神山峠' />
+    <tag k='name:zh-Hant' v='神山峠' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057292' lat='34.27365185' lon='132.5770191'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80358 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='神山峠' />
+    <tag k='name:en' v='Jinyama-toge' />
+    <tag k='name:ja' v='神山峠' />
+    <tag k='name:ja-Hira' v='じんやまとうげ' />
+    <tag k='name:ko' v='진야마 토게' />
+    <tag k='name:zh-Hans' v='神山峠' />
+    <tag k='name:zh-Hant' v='神山峠' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057293' lat='34.27435176' lon='132.5759192'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80358 3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='神山峠' />
+    <tag k='name:en' v='Jinyama-toge' />
+    <tag k='name:ja' v='神山峠' />
+    <tag k='name:ja-Hira' v='じんやまとうげ' />
+    <tag k='name:ko' v='진야마 토게' />
+    <tag k='name:zh-Hans' v='神山峠' />
+    <tag k='name:zh-Hant' v='神山峠' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057294' lat='34.27365185' lon='132.5768858'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80358 4' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='神山峠' />
+    <tag k='name:en' v='Jinyama-toge' />
+    <tag k='name:ja' v='神山峠' />
+    <tag k='name:ja-Hira' v='じんやまとうげ' />
+    <tag k='name:ko' v='진야마 토게' />
+    <tag k='name:zh-Hans' v='神山峠' />
+    <tag k='name:zh-Hant' v='神山峠' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057295' lat='34.25525388' lon='132.580303'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80359 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='平原水源池前' />
+    <tag k='name:en' v='Hirabara Suigenchi-mae' />
+    <tag k='name:ja' v='平原水源池前' />
+    <tag k='name:ja-Hira' v='ひらばらすいげんちまえ' />
+    <tag k='name:ko' v='히라바라 스이겐치 마에' />
+    <tag k='name:zh-Hans' v='平原水源池前' />
+    <tag k='name:zh-Hant' v='平原水源池前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057296' lat='34.25523721' lon='132.580203'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80359 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='平原水源池前' />
+    <tag k='name:en' v='Hirabara Suigenchi-mae' />
+    <tag k='name:ja' v='平原水源池前' />
+    <tag k='name:ja-Hira' v='ひらばらすいげんちまえ' />
+    <tag k='name:ko' v='히라바라 스이겐치 마에' />
+    <tag k='name:zh-Hans' v='平原水源池前' />
+    <tag k='name:zh-Hant' v='平原水源池前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057297' lat='34.25558721' lon='132.5824862'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80360 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='上平原町' />
+    <tag k='name:en' v='Kami-hirabaracho' />
+    <tag k='name:ja' v='上平原町' />
+    <tag k='name:ja-Hira' v='かみひらばらちょう' />
+    <tag k='name:ko' v='가미히라바라초' />
+    <tag k='name:zh-Hans' v='上平原町' />
+    <tag k='name:zh-Hant' v='上平原町' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057298' lat='34.25552055' lon='132.5824362'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80360 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='上平原町' />
+    <tag k='name:en' v='Kami-hirabaracho' />
+    <tag k='name:ja' v='上平原町' />
+    <tag k='name:ja-Hira' v='かみひらばらちょう' />
+    <tag k='name:ko' v='가미히라바라초' />
+    <tag k='name:zh-Hans' v='上平原町' />
+    <tag k='name:zh-Hant' v='上平原町' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057299' lat='34.2594368' lon='132.582736'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80361 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='望地' />
+    <tag k='name:en' v='Boji' />
+    <tag k='name:ja' v='望地' />
+    <tag k='name:ja-Hira' v='ぼうぢ' />
+    <tag k='name:ko' v='보지' />
+    <tag k='name:zh-Hans' v='望地' />
+    <tag k='name:zh-Hant' v='望地' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057300' lat='34.25950346' lon='132.582686'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80361 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='望地' />
+    <tag k='name:en' v='Boji' />
+    <tag k='name:ja' v='望地' />
+    <tag k='name:ja-Hira' v='ぼうぢ' />
+    <tag k='name:ko' v='보지' />
+    <tag k='name:zh-Hans' v='望地' />
+    <tag k='name:zh-Hant' v='望地' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057301' lat='34.26042001' lon='132.5816193'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80362 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西谷' />
+    <tag k='name:en' v='Nishitani' />
+    <tag k='name:ja' v='西谷' />
+    <tag k='name:ja-Hira' v='にしたに' />
+    <tag k='name:ko' v='니시타니' />
+    <tag k='name:zh-Hans' v='西谷' />
+    <tag k='name:zh-Hant' v='西谷' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057302' lat='34.26083663' lon='132.581636'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80362 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西谷' />
+    <tag k='name:en' v='Nishitani' />
+    <tag k='name:ja' v='西谷' />
+    <tag k='name:ja-Hira' v='にしたに' />
+    <tag k='name:ko' v='니시타니' />
+    <tag k='name:zh-Hans' v='西谷' />
+    <tag k='name:zh-Hant' v='西谷' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057303' lat='34.26200312' lon='132.5783695'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80363 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='涼ミ岩' />
+    <tag k='name:en' v='Suzumiiwa' />
+    <tag k='name:ja' v='涼ミ岩' />
+    <tag k='name:ja-Hira' v='すずみいわ' />
+    <tag k='name:ko' v='스즈미이와' />
+    <tag k='name:zh-Hans' v='凉岩' />
+    <tag k='name:zh-Hant' v='涼巖' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057304' lat='34.26191979' lon='132.5783362'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80363 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='涼ミ岩' />
+    <tag k='name:en' v='Suzumiiwa' />
+    <tag k='name:ja' v='涼ミ岩' />
+    <tag k='name:ja-Hira' v='すずみいわ' />
+    <tag k='name:ko' v='스즈미이와' />
+    <tag k='name:zh-Hans' v='凉岩' />
+    <tag k='name:zh-Hant' v='涼巖' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057305' lat='34.26446955' lon='132.579936'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80364 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='惣付' />
+    <tag k='name:en' v='Sozuke' />
+    <tag k='name:ja' v='惣付' />
+    <tag k='name:ja-Hira' v='そうづけ' />
+    <tag k='name:ko' v='소즈케' />
+    <tag k='name:zh-Hans' v='总付' />
+    <tag k='name:zh-Hant' v='總付' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057306' lat='34.26441956' lon='132.5800026'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80364 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='惣付' />
+    <tag k='name:en' v='Sozuke' />
+    <tag k='name:ja' v='惣付' />
+    <tag k='name:ja-Hira' v='そうづけ' />
+    <tag k='name:ko' v='소즈케' />
+    <tag k='name:zh-Hans' v='总付' />
+    <tag k='name:zh-Hant' v='總付' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057307' lat='34.2662527' lon='132.5803525'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80365 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='中惣付' />
+    <tag k='name:en' v='Naka-sozuke' />
+    <tag k='name:ja' v='中惣付' />
+    <tag k='name:ja-Hira' v='なかそうづけ' />
+    <tag k='name:ko' v='나카소즈케' />
+    <tag k='name:zh-Hans' v='中总付' />
+    <tag k='name:zh-Hant' v='中總付' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057308' lat='34.26616937' lon='132.5802525'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80365 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='中惣付' />
+    <tag k='name:en' v='Naka-sozuke' />
+    <tag k='name:ja' v='中惣付' />
+    <tag k='name:ja-Hira' v='なかそうづけ' />
+    <tag k='name:ko' v='나카소즈케' />
+    <tag k='name:zh-Hans' v='中总付' />
+    <tag k='name:zh-Hant' v='中總付' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057309' lat='34.27101883' lon='132.5787858'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80366 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='東惣付' />
+    <tag k='name:en' v='Higashi-sozuke' />
+    <tag k='name:ja' v='東惣付' />
+    <tag k='name:ja-Hira' v='ひがしそうづけ' />
+    <tag k='name:ko' v='히가시소즈케' />
+    <tag k='name:zh-Hans' v='东总付' />
+    <tag k='name:zh-Hant' v='東總付' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057310' lat='34.27106882' lon='132.5788024'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80366 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='東惣付' />
+    <tag k='name:en' v='Higashi-sozuke' />
+    <tag k='name:ja' v='東惣付' />
+    <tag k='name:ja-Hira' v='ひがしそうづけ' />
+    <tag k='name:ko' v='히가시소즈케' />
+    <tag k='name:zh-Hans' v='东总付' />
+    <tag k='name:zh-Hant' v='東總付' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057311' lat='34.27778481' lon='132.5809019'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80367 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小菅' />
+    <tag k='name:en' v='Kosuge' />
+    <tag k='name:ja' v='小菅' />
+    <tag k='name:ja-Hira' v='こすげ' />
+    <tag k='name:ko' v='고스게' />
+    <tag k='name:zh-Hans' v='小菅' />
+    <tag k='name:zh-Hant' v='小菅' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057312' lat='34.27786813' lon='132.5808353'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80367 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小菅' />
+    <tag k='name:en' v='Kosuge' />
+    <tag k='name:ja' v='小菅' />
+    <tag k='name:ja-Hira' v='こすげ' />
+    <tag k='name:ko' v='고스게' />
+    <tag k='name:zh-Hans' v='小菅' />
+    <tag k='name:zh-Hant' v='小菅' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057313' lat='34.28205108' lon='132.5846348'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80368 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='柳迫灰ヶ峰登山口' />
+    <tag k='name:en' v='Yanagisako Haigamine Tozan-guchi' />
+    <tag k='name:ja' v='柳迫灰ヶ峰登山口' />
+    <tag k='name:ja-Hira' v='やなぎさこはいがみねとざんぐち' />
+    <tag k='name:ko' v='야나기사코 하이가미네 산' />
+    <tag k='name:zh-Hans' v='柳迫灰峰登山口' />
+    <tag k='name:zh-Hant' v='柳迫灰峰登山口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057314' lat='34.28205108' lon='132.5845348'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80368 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='柳迫灰ヶ峰登山口' />
+    <tag k='name:en' v='Yanagisako Haigamine Tozan-guchi' />
+    <tag k='name:ja' v='柳迫灰ヶ峰登山口' />
+    <tag k='name:ja-Hira' v='やなぎさこはいがみねとざんぐち' />
+    <tag k='name:ko' v='야나기사코 하이가미네 산' />
+    <tag k='name:zh-Hans' v='柳迫灰峰登山口' />
+    <tag k='name:zh-Hant' v='柳迫灰峰登山口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057315' lat='34.28530077' lon='132.5863845'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80369 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='栃原' />
+    <tag k='name:en' v='Tochibara' />
+    <tag k='name:ja' v='栃原' />
+    <tag k='name:ja-Hira' v='とちばら' />
+    <tag k='name:ko' v='도치바라' />
+    <tag k='name:zh-Hans' v='栃原' />
+    <tag k='name:zh-Hant' v='栃原' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057316' lat='34.28541742' lon='132.5863345'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80369 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='栃原' />
+    <tag k='name:en' v='Tochibara' />
+    <tag k='name:ja' v='栃原' />
+    <tag k='name:ja-Hira' v='とちばら' />
+    <tag k='name:ko' v='도치바라' />
+    <tag k='name:zh-Hans' v='栃原' />
+    <tag k='name:zh-Hant' v='栃原' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057317' lat='34.28821716' lon='132.5887008'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80370 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='東谷' />
+    <tag k='name:en' v='Higashitani' />
+    <tag k='name:ja' v='東谷' />
+    <tag k='name:ja-Hira' v='ひがしたに' />
+    <tag k='name:ko' v='히가시타니' />
+    <tag k='name:zh-Hans' v='东谷' />
+    <tag k='name:zh-Hant' v='東谷' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057318' lat='34.28823383' lon='132.5885675'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='80370 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='東谷' />
+    <tag k='name:en' v='Higashitani' />
+    <tag k='name:ja' v='東谷' />
+    <tag k='name:ja-Hira' v='ひがしたに' />
+    <tag k='name:ko' v='히가시타니' />
+    <tag k='name:zh-Hans' v='东谷' />
+    <tag k='name:zh-Hant' v='東谷' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057319' lat='34.22142547' lon='132.6554317'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89172 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='仁方駅南口' />
+    <tag k='name:en' v='Nigata Sta. South Entrance' />
+    <tag k='name:ja' v='仁方駅南口' />
+    <tag k='name:ja-Hira' v='にがたえきみなみぐち' />
+    <tag k='name:ko' v='니가타 역' />
+    <tag k='name:zh-Hans' v='仁方站南口' />
+    <tag k='name:zh-Hant' v='仁方站南口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057320' lat='34.28380369' lon='132.7444048'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89201 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='安浦駅' />
+    <tag k='name:en' v='Yasuura station' />
+    <tag k='name:ja' v='安浦駅' />
+    <tag k='name:ja-Hira' v='やすうらえき' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057321' lat='34.28387034' lon='132.7442381'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89201 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='安浦駅' />
+    <tag k='name:en' v='Yasuura station' />
+    <tag k='name:ja' v='安浦駅' />
+    <tag k='name:ja-Hira' v='やすうらえき' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057322' lat='34.28260375' lon='132.7403718'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89202 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='呉信用金庫前' />
+    <tag k='name:ja' v='呉信用金庫前' />
+    <tag k='name:ja-Hira' v='くれしんようきんこまえ' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057323' lat='34.28290372' lon='132.7409384'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89202 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='呉信用金庫前' />
+    <tag k='name:ja' v='呉信用金庫前' />
+    <tag k='name:ja-Hira' v='くれしんようきんこまえ' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057324' lat='34.28078722' lon='132.7372888'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89203 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='浦尻' />
+    <tag k='name:en' v='Urajiri' />
+    <tag k='name:ja' v='浦尻' />
+    <tag k='name:ja-Hira' v='うらじり' />
+    <tag k='name:ko' v='우라지리' />
+    <tag k='name:zh-Hans' v='浦尻' />
+    <tag k='name:zh-Hant' v='浦尻' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057325' lat='34.28073722' lon='132.7371388'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89203 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='浦尻' />
+    <tag k='name:en' v='Urajiri' />
+    <tag k='name:ja' v='浦尻' />
+    <tag k='name:ja-Hira' v='うらじり' />
+    <tag k='name:ko' v='우라지리' />
+    <tag k='name:zh-Hans' v='浦尻' />
+    <tag k='name:zh-Hant' v='浦尻' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057326' lat='34.27910404' lon='132.7357057'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89204 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='藤三前' />
+    <tag k='name:ja' v='藤三前' />
+    <tag k='name:ja-Hira' v='ふじさんまえ' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057327' lat='34.27622097' lon='132.7331727'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89205 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='赤仁田' />
+    <tag k='name:ja' v='赤仁田' />
+    <tag k='name:ja-Hira' v='あかにた' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057328' lat='34.27560436' lon='132.7324395'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89205 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='赤仁田' />
+    <tag k='name:ja' v='赤仁田' />
+    <tag k='name:ja-Hira' v='あかにた' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057329' lat='34.2738545' lon='132.7298564'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89206 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='中切' />
+    <tag k='name:ja' v='中切' />
+    <tag k='name:ja-Hira' v='なかぎり' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057330' lat='34.27353785' lon='132.7292398'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89206 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='中切' />
+    <tag k='name:ja' v='中切' />
+    <tag k='name:ja-Hira' v='なかぎり' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057331' lat='34.27035483' lon='132.7271735'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89207 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='野呂登山口' />
+    <tag k='name:ja' v='野呂登山口' />
+    <tag k='name:ja-Hira' v='のろとざんぐち' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057332' lat='34.27073812' lon='132.7272068'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89207 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='野呂登山口' />
+    <tag k='name:ja' v='野呂登山口' />
+    <tag k='name:ja-Hira' v='のろとざんぐち' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057333' lat='34.26403881' lon='132.7259905'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89208 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='安登境' />
+    <tag k='name:ja' v='安登境' />
+    <tag k='name:ja-Hira' v='あとざかい' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057334' lat='34.2644221' lon='132.7257572'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89208 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='安登境' />
+    <tag k='name:ja' v='安登境' />
+    <tag k='name:ja-Hira' v='あとざかい' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057335' lat='34.2593893' lon='132.7251575'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89209 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='岡谷' />
+    <tag k='name:ja' v='岡谷' />
+    <tag k='name:ja-Hira' v='おかだに' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057336' lat='34.25928931' lon='132.7250408'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89209 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='岡谷' />
+    <tag k='name:ja' v='岡谷' />
+    <tag k='name:ja-Hira' v='おかだに' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057337' lat='34.25192335' lon='132.7206749'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89210 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='診療所前' />
+    <tag k='name:en' v='Shinryosho-mae' />
+    <tag k='name:ja' v='診療所前' />
+    <tag k='name:ja-Hira' v='しんりようしよまえ' />
+    <tag k='name:ko' v='신료쇼 마에' />
+    <tag k='name:zh-Hans' v='诊疗所前' />
+    <tag k='name:zh-Hant' v='診療所前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057338' lat='34.25167338' lon='132.7205915'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89210 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='診療所前' />
+    <tag k='name:en' v='Shinryosho-mae' />
+    <tag k='name:ja' v='診療所前' />
+    <tag k='name:ja-Hira' v='しんりようしよまえ' />
+    <tag k='name:ko' v='신료쇼 마에' />
+    <tag k='name:zh-Hans' v='诊疗所前' />
+    <tag k='name:zh-Hant' v='診療所前' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057339' lat='34.24879031' lon='132.7183252'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89211 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='山口' />
+    <tag k='name:en' v='Yamaguchi' />
+    <tag k='name:ja' v='山口' />
+    <tag k='name:ja-Hira' v='やまぐち' />
+    <tag k='name:ko' v='야마구치' />
+    <tag k='name:zh-Hans' v='山口' />
+    <tag k='name:zh-Hant' v='山口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057340' lat='34.24874032' lon='132.7184085'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89211 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='山口' />
+    <tag k='name:en' v='Yamaguchi' />
+    <tag k='name:ja' v='山口' />
+    <tag k='name:ja-Hira' v='やまぐち' />
+    <tag k='name:ko' v='야마구치' />
+    <tag k='name:zh-Hans' v='山口' />
+    <tag k='name:zh-Hant' v='山口' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057341' lat='34.2306571' lon='132.614368'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89250 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='中国労災病院' />
+    <tag k='name:en' v='Chugoku Rosai Byoin(Chugoku Rosai Hospital)' />
+    <tag k='name:ja' v='中国労災病院' />
+    <tag k='name:ja-Hira' v='ちゅうごくろうさいびょういん' />
+    <tag k='name:ko' v='주고쿠 로사이 병원' />
+    <tag k='name:zh-Hans' v='中国劳灾医院' />
+    <tag k='name:zh-Hant' v='中國勞災醫院' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-1057342' lat='34.23067377' lon='132.6144347'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='89250 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='中国労災病院' />
+    <tag k='name:en' v='Chugoku Rosai Byoin(Chugoku Rosai Hospital)' />
+    <tag k='name:ja' v='中国労災病院' />
+    <tag k='name:ja-Hira' v='ちゅうごくろうさいびょういん' />
+    <tag k='name:ko' v='주고쿠 로사이 병원' />
+    <tag k='name:zh-Hans' v='中国劳灾医院' />
+    <tag k='name:zh-Hant' v='中國勞災醫院' />
+    <tag k='operator' v='呉市' />
+    <tag k='operator:en' v='Kure City' />
+    <tag k='public_transport' v='platform' />
+  </node>
+</osm>
