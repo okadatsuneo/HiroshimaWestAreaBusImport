@@ -730,7 +730,7 @@
     <tag k='gtfs:stop_id' v='1290 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='前空駅' />
-    <tag k='name:en' v='Maezora Sta.' />
+    <tag k='name:en' v='Maezora Station' />
     <tag k='name:ja' v='前空駅' />
     <tag k='name:ja-Hira' v='まえぞらえき' />
     <tag k='name:ko' v='마에조라 역' />
@@ -1338,7 +1338,7 @@
     <tag k='gtfs:stop_id' v='1490 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='玖波駅' />
-    <tag k='name:en' v='Kuba Sta.' />
+    <tag k='name:en' v='Kuba Station' />
     <tag k='name:ja' v='玖波駅' />
     <tag k='name:ja-Hira' v='くばえき' />
     <tag k='name:ko' v='구바 역' />
@@ -1674,7 +1674,7 @@
     <tag k='gtfs:stop_id' v='1650 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広電阿品駅' />
-    <tag k='name:en' v='Hiroden-ajina Sta.' />
+    <tag k='name:en' v='Hiroden-ajina Station' />
     <tag k='name:ja' v='広電阿品駅' />
     <tag k='name:ja-Hira' v='ひろでんあじなえき' />
     <tag k='name:ko' v='히로덴 아지나 역' />
@@ -1780,7 +1780,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='1' />
     <tag k='name' v='大野浦駅南口' />
-    <tag k='name:en' v='Onoura Sta. South Entrance' />
+    <tag k='name:en' v='Onoura Station South Entrance' />
     <tag k='name:ja' v='大野浦駅南口' />
     <tag k='name:ja-Hira' v='おおのうらえきみなみぐち' />
     <tag k='name:ko' v='오노우라 역' />
@@ -1797,7 +1797,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='2' />
     <tag k='name' v='大野浦駅南口' />
-    <tag k='name:en' v='Onoura Sta. South Entrance' />
+    <tag k='name:en' v='Onoura Station South Entrance' />
     <tag k='name:ja' v='大野浦駅南口' />
     <tag k='name:ja-Hira' v='おおのうらえきみなみぐち' />
     <tag k='name:ko' v='오노우라 역' />
@@ -1813,7 +1813,7 @@
     <tag k='gtfs:stop_id' v='1710 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='ＪＲ阿品駅' />
-    <tag k='name:en' v='JR Ajina Sta.' />
+    <tag k='name:en' v='JR Ajina Station' />
     <tag k='name:ja' v='ＪＲ阿品駅' />
     <tag k='name:ja-Hira' v='じぇいあーるあじなえき' />
     <tag k='name:ko' v='JR 아지나 역' />

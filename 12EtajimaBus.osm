@@ -1001,7 +1001,7 @@
     <tag k='gtfs:stop_id' v='00057_1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='ＪＡ呉大古支店前' />
-    <tag k='name:en' v='JA  Kure Ofuru Shiten Mae' />
+    <tag k='name:en' v='JA Kure Ofuru Shiten Mae' />
     <tag k='name:ja' v='ＪＡ呉大古支店前' />
     <tag k='name:ja-Hira' v='じぇいえいくれおおふるしてんまえ' />
     <tag k='operator' v='江田島バス' />
@@ -1013,7 +1013,7 @@
     <tag k='gtfs:stop_id' v='00057_2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='ＪＡ呉大古支店前' />
-    <tag k='name:en' v='JA  Kure Ofuru Shiten Mae' />
+    <tag k='name:en' v='JA Kure Ofuru Shiten Mae' />
     <tag k='name:ja' v='ＪＡ呉大古支店前' />
     <tag k='name:ja-Hira' v='じぇいえいくれおおふるしてんまえ' />
     <tag k='operator' v='江田島バス' />

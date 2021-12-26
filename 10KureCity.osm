@@ -140,7 +140,7 @@
     <tag k='gtfs:stop_id' v='25480 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='阿賀駅前' />
-    <tag k='name:en' v='Aga Sta.' />
+    <tag k='name:en' v='Aga Station' />
     <tag k='name:ja' v='阿賀駅前' />
     <tag k='name:ja-Hira' v='あがえきまえ' />
     <tag k='name:ko' v='아가 역' />
@@ -155,7 +155,7 @@
     <tag k='gtfs:stop_id' v='25480 3' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='阿賀駅前' />
-    <tag k='name:en' v='Aga Sta.' />
+    <tag k='name:en' v='Aga Station' />
     <tag k='name:ja' v='阿賀駅前' />
     <tag k='name:ja-Hira' v='あがえきまえ' />
     <tag k='name:ko' v='아가 역' />
@@ -170,7 +170,7 @@
     <tag k='gtfs:stop_id' v='25480 4' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='阿賀駅前' />
-    <tag k='name:en' v='Aga Sta.' />
+    <tag k='name:en' v='Aga Station' />
     <tag k='name:ja' v='阿賀駅前' />
     <tag k='name:ja-Hira' v='あがえきまえ' />
     <tag k='name:ko' v='아가 역' />
@@ -305,7 +305,7 @@
     <tag k='gtfs:stop_id' v='25540 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広駅前' />
-    <tag k='name:en' v='Hiro Sta.' />
+    <tag k='name:en' v='Hiro Station' />
     <tag k='name:ja' v='広駅前' />
     <tag k='name:ja-Hira' v='ひろえきまえ' />
     <tag k='name:ko' v='히로 역' />
@@ -320,7 +320,7 @@
     <tag k='gtfs:stop_id' v='25540 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広駅前' />
-    <tag k='name:en' v='Hiro Sta.' />
+    <tag k='name:en' v='Hiro Station' />
     <tag k='name:ja' v='広駅前' />
     <tag k='name:ja-Hira' v='ひろえきまえ' />
     <tag k='name:ko' v='히로 역' />
@@ -365,7 +365,7 @@
     <tag k='gtfs:stop_id' v='5440 12' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='呉駅前' />
-    <tag k='name:en' v='Kure Sta.' />
+    <tag k='name:en' v='Kure Station' />
     <tag k='name:ja' v='呉駅前' />
     <tag k='name:ja-Hira' v='くれえきまえ' />
     <tag k='name:ko' v='구레 역' />
@@ -381,7 +381,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='2' />
     <tag k='name' v='呉駅前' />
-    <tag k='name:en' v='Kure Sta.' />
+    <tag k='name:en' v='Kure Station' />
     <tag k='name:ja' v='呉駅前' />
     <tag k='name:ja-Hira' v='くれえきまえ' />
     <tag k='name:ko' v='구레 역' />
@@ -2220,7 +2220,7 @@
     <tag k='gtfs:stop_id' v='80156 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='阿賀海岸通' />
-    <tag k='name:en' v='Aga Kaigan-dori (Aga Kaigan Ave.)' />
+    <tag k='name:en' v='Aga Kaigan-dori (Aga Kaigan Avenue)' />
     <tag k='name:ja' v='阿賀海岸通' />
     <tag k='name:ja-Hira' v='あがかいがんどおり' />
     <tag k='name:ko' v='아가 카이간 도리' />
@@ -2235,7 +2235,7 @@
     <tag k='gtfs:stop_id' v='80156 3' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='阿賀海岸通' />
-    <tag k='name:en' v='Aga Kaigan-dori (Aga Kaigan Ave.)' />
+    <tag k='name:en' v='Aga Kaigan-dori (Aga Kaigan Avenue)' />
     <tag k='name:ja' v='阿賀海岸通' />
     <tag k='name:ja-Hira' v='あがかいがんどおり' />
     <tag k='name:ko' v='아가 카이간 도리' />
@@ -2250,7 +2250,7 @@
     <tag k='gtfs:stop_id' v='80161 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='新広駅' />
-    <tag k='name:en' v='Shinhiro Sta.' />
+    <tag k='name:en' v='Shinhiro Station' />
     <tag k='name:ja' v='新広駅' />
     <tag k='name:ja-Hira' v='しんひろえき' />
     <tag k='name:ko' v='신히로 역' />
@@ -2445,7 +2445,7 @@
     <tag k='gtfs:stop_id' v='80172 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='仁方駅前' />
-    <tag k='name:en' v='Nigata Sta.' />
+    <tag k='name:en' v='Nigata Station' />
     <tag k='name:ja' v='仁方駅前' />
     <tag k='name:ja-Hira' v='にがたえきまえ' />
     <tag k='name:ko' v='니가타 역' />
@@ -2460,7 +2460,7 @@
     <tag k='gtfs:stop_id' v='80172 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='仁方駅前' />
-    <tag k='name:en' v='Nigata Sta.' />
+    <tag k='name:en' v='Nigata Station' />
     <tag k='name:ja' v='仁方駅前' />
     <tag k='name:ja-Hira' v='にがたえきまえ' />
     <tag k='name:ko' v='니가타 역' />
@@ -2775,7 +2775,7 @@
     <tag k='gtfs:stop_id' v='80183 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='川尻駅' />
-    <tag k='name:en' v='Kawajiri Sta.' />
+    <tag k='name:en' v='Kawajiri Station' />
     <tag k='name:ja' v='川尻駅' />
     <tag k='name:ja-Hira' v='かわじりえき' />
     <tag k='name:ko' v='가와지리 역' />
@@ -2790,7 +2790,7 @@
     <tag k='gtfs:stop_id' v='80183 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='川尻駅' />
-    <tag k='name:en' v='Kawajiri Sta.' />
+    <tag k='name:en' v='Kawajiri Station' />
     <tag k='name:ja' v='川尻駅' />
     <tag k='name:ja-Hira' v='かわじりえき' />
     <tag k='name:ko' v='가와지리 역' />
@@ -4069,7 +4069,7 @@
     <tag k='gtfs:stop_id' v='89172 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='仁方駅南口' />
-    <tag k='name:en' v='Nigata Sta. South Entrance' />
+    <tag k='name:en' v='Nigata Station South Entrance' />
     <tag k='name:ja' v='仁方駅南口' />
     <tag k='name:ja-Hira' v='にがたえきみなみぐち' />
     <tag k='name:ko' v='니가타 역' />
