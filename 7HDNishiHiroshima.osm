@@ -6,7 +6,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='1' />
     <tag k='name' v='西広島駅・己斐' />
-    <tag k='name:en' v='Nishi-hiroshima Sta./Koi' />
+    <tag k='name:en' v='Nishi-hiroshima Station/Koi' />
     <tag k='name:ja' v='西広島駅・己斐' />
     <tag k='name:ja-Hira' v='にしひろしまえきこい' />
     <tag k='name:ko' v='니시히로시마 역·코이' />
@@ -22,7 +22,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='2' />
     <tag k='name' v='西広島駅・己斐' />
-    <tag k='name:en' v='Nishi-hiroshima Sta./Koi' />
+    <tag k='name:en' v='Nishi-hiroshima Station/Koi' />
     <tag k='name:ja' v='西広島駅・己斐' />
     <tag k='name:ja-Hira' v='にしひろしまえきこい' />
     <tag k='name:ko' v='니시히로시마 역·코이' />
@@ -38,7 +38,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='3' />
     <tag k='name' v='西広島駅・己斐' />
-    <tag k='name:en' v='Nishi-hiroshima Sta./Koi' />
+    <tag k='name:en' v='Nishi-hiroshima Station/Koi' />
     <tag k='name:ja' v='西広島駅・己斐' />
     <tag k='name:ja-Hira' v='にしひろしまえきこい' />
     <tag k='name:ko' v='니시히로시마 역·코이' />
@@ -1321,7 +1321,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='4' />
     <tag k='name' v='西広島駅・己斐' />
-    <tag k='name:en' v='Nishi-hiroshima Sta./Koi' />
+    <tag k='name:en' v='Nishi-hiroshima Station/Koi' />
     <tag k='name:ja' v='西広島駅・己斐' />
     <tag k='name:ja-Hira' v='にしひろしまえきこい' />
     <tag k='name:ko' v='니시히로시마 역·코이' />
@@ -1337,7 +1337,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='5' />
     <tag k='name' v='西広島駅・己斐' />
-    <tag k='name:en' v='Nishi-hiroshima Sta./Koi' />
+    <tag k='name:en' v='Nishi-hiroshima Station/Koi' />
     <tag k='name:ja' v='西広島駅・己斐' />
     <tag k='name:ja-Hira' v='にしひろしまえきこい' />
     <tag k='name:ko' v='니시히로시마 역·코이' />

@@ -2728,7 +2728,7 @@
     <tag k='gtfs:stop_id' v='3001 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='廿日市駅北口' />
-    <tag k='name:en' v='Hatsukaichi Sta. North Entrance' />
+    <tag k='name:en' v='Hatsukaichi Station North Entrance' />
     <tag k='name:ja' v='廿日市駅北口' />
     <tag k='name:ja-Hira' v='じぇいあーるはつかいちえききたぐち' />
     <tag k='name:ko' v='하쓰카이치' />
@@ -2773,7 +2773,7 @@
     <tag k='gtfs:stop_id' v='4981 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='廿日市市役所前駅' />
-    <tag k='name:en' v='Hatsukaichi Shiyakusho-mae Sta. (Hatsukaichi City Hall Sta.)' />
+    <tag k='name:en' v='Hatsukaichi Shiyakusho-mae Station (Hatsukaichi City Hall Station)' />
     <tag k='name:ja' v='廿日市市役所前駅' />
     <tag k='name:ja-Hira' v='はつかいちしやくしょまええき' />
     <tag k='name:ko' v='하쓰카이치 시야쿠쇼 마에 역' />

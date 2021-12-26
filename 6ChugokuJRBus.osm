@@ -5,7 +5,7 @@
     <tag k='gtfs:stop_id' v='40001 0' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='西条駅' />
-    <tag k='name:en' v='Saijo Sta.' />
+    <tag k='name:en' v='Saijo Station' />
     <tag k='name:ja' v='西条駅' />
     <tag k='name:ja-Hira' v='さいじょうえき' />
     <tag k='name:ko' v='사이조 역' />
@@ -21,7 +21,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='7' />
     <tag k='name' v='西条駅' />
-    <tag k='name:en' v='Saijo Sta.' />
+    <tag k='name:en' v='Saijo Station' />
     <tag k='name:ja' v='西条駅' />
     <tag k='name:ja-Hira' v='さいじょうえき' />
     <tag k='name:ko' v='사이조 역' />
@@ -36,7 +36,7 @@
     <tag k='gtfs:stop_id' v='40001 14' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='西条駅' />
-    <tag k='name:en' v='Saijo Sta.' />
+    <tag k='name:en' v='Saijo Station' />
     <tag k='name:ja' v='西条駅' />
     <tag k='name:ja-Hira' v='さいじょうえき' />
     <tag k='name:ko' v='사이조 역' />
@@ -51,7 +51,7 @@
     <tag k='gtfs:stop_id' v='40001 15' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='西条駅' />
-    <tag k='name:en' v='Saijo Sta.' />
+    <tag k='name:en' v='Saijo Station' />
     <tag k='name:ja' v='西条駅' />
     <tag k='name:ja-Hira' v='さいじょうえき' />
     <tag k='name:ko' v='사이조 역' />
@@ -67,7 +67,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='7' />
     <tag k='name' v='西条駅' />
-    <tag k='name:en' v='Saijo Sta.' />
+    <tag k='name:en' v='Saijo Station' />
     <tag k='name:ja' v='西条駅' />
     <tag k='name:ja-Hira' v='さいじょうえき' />
     <tag k='name:ko' v='사이조 역' />
@@ -83,7 +83,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='3' />
     <tag k='name' v='西条駅' />
-    <tag k='name:en' v='Saijo Sta.' />
+    <tag k='name:en' v='Saijo Station' />
     <tag k='name:ja' v='西条駅' />
     <tag k='name:ja-Hira' v='さいじょうえき' />
     <tag k='name:ko' v='사이조 역' />
@@ -99,7 +99,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='7' />
     <tag k='name' v='西条駅' />
-    <tag k='name:en' v='Saijo Sta.' />
+    <tag k='name:en' v='Saijo Station' />
     <tag k='name:ja' v='西条駅' />
     <tag k='name:ja-Hira' v='さいじょうえき' />
     <tag k='name:ko' v='사이조 역' />
@@ -115,7 +115,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='1' />
     <tag k='name' v='西条駅' />
-    <tag k='name:en' v='Saijo Sta.' />
+    <tag k='name:en' v='Saijo Station' />
     <tag k='name:ja' v='西条駅' />
     <tag k='name:ja-Hira' v='さいじょうえき' />
     <tag k='name:ko' v='사이조 역' />
@@ -131,7 +131,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='1' />
     <tag k='name' v='西条駅' />
-    <tag k='name:en' v='Saijo Sta.' />
+    <tag k='name:en' v='Saijo Station' />
     <tag k='name:ja' v='西条駅' />
     <tag k='name:ja-Hira' v='さいじょうえき' />
     <tag k='name:ko' v='사이조 역' />
@@ -147,7 +147,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='7' />
     <tag k='name' v='西条駅' />
-    <tag k='name:en' v='Saijo Sta.' />
+    <tag k='name:en' v='Saijo Station' />
     <tag k='name:ja' v='西条駅' />
     <tag k='name:ja-Hira' v='さいじょうえき' />
     <tag k='name:ko' v='사이조 역' />
@@ -845,7 +845,7 @@
     <tag k='gtfs:stop_id' v='40010 0' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大中央口' />
-    <tag k='name:en' v='Hirodai-chuo-guchi (Hiroshima Univ. Central Entrance)' />
+    <tag k='name:en' v='Hirodai-chuo-guchi (Hiroshima University Central Entrance)' />
     <tag k='name:ja' v='広大中央口' />
     <tag k='name:ja-Hira' v='ひろだいちゅうおうぐち' />
     <tag k='name:ko' v='히로다이 추오 구치' />
@@ -860,7 +860,7 @@
     <tag k='gtfs:stop_id' v='40010 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大中央口' />
-    <tag k='name:en' v='Hirodai-chuo-guchi (Hiroshima Univ. Central Entrance)' />
+    <tag k='name:en' v='Hirodai-chuo-guchi (Hiroshima University Central Entrance)' />
     <tag k='name:ja' v='広大中央口' />
     <tag k='name:ja-Hira' v='ひろだいちゅうおうぐち' />
     <tag k='name:ko' v='히로다이 추오 구치' />
@@ -875,7 +875,7 @@
     <tag k='gtfs:stop_id' v='40010 12' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大中央口' />
-    <tag k='name:en' v='Hirodai-chuo-guchi (Hiroshima Univ. Central Entrance)' />
+    <tag k='name:en' v='Hirodai-chuo-guchi (Hiroshima University Central Entrance)' />
     <tag k='name:ja' v='広大中央口' />
     <tag k='name:ja-Hira' v='ひろだいちゅうおうぐち' />
     <tag k='name:ko' v='히로다이 추오 구치' />
@@ -890,7 +890,7 @@
     <tag k='gtfs:stop_id' v='40010 5' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大中央口' />
-    <tag k='name:en' v='Hirodai-chuo-guchi (Hiroshima Univ. Central Entrance)' />
+    <tag k='name:en' v='Hirodai-chuo-guchi (Hiroshima University Central Entrance)' />
     <tag k='name:ja' v='広大中央口' />
     <tag k='name:ja-Hira' v='ひろだいちゅうおうぐち' />
     <tag k='name:ko' v='히로다이 추오 구치' />
@@ -905,7 +905,7 @@
     <tag k='gtfs:stop_id' v='40010 7' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大中央口' />
-    <tag k='name:en' v='Hirodai-chuo-guchi (Hiroshima Univ. Central Entrance)' />
+    <tag k='name:en' v='Hirodai-chuo-guchi (Hiroshima University Central Entrance)' />
     <tag k='name:ja' v='広大中央口' />
     <tag k='name:ja-Hira' v='ひろだいちゅうおうぐち' />
     <tag k='name:ko' v='히로다이 추오 구치' />
@@ -920,7 +920,7 @@
     <tag k='gtfs:stop_id' v='40011 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大北口' />
-    <tag k='name:en' v='Hirodai-kitaguchi (Hiroshima Univ. North Entrance)' />
+    <tag k='name:en' v='Hirodai-kitaguchi (Hiroshima University North Entrance)' />
     <tag k='name:ja' v='広大北口' />
     <tag k='name:ja-Hira' v='ひろだいきたぐち' />
     <tag k='name:ko' v='히로다이 키타구치' />
@@ -935,7 +935,7 @@
     <tag k='gtfs:stop_id' v='40011 5' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大北口' />
-    <tag k='name:en' v='Hirodai-kitaguchi (Hiroshima Univ. North Entrance)' />
+    <tag k='name:en' v='Hirodai-kitaguchi (Hiroshima University North Entrance)' />
     <tag k='name:ja' v='広大北口' />
     <tag k='name:ja-Hira' v='ひろだいきたぐち' />
     <tag k='name:ko' v='히로다이 키타구치' />
@@ -950,7 +950,7 @@
     <tag k='gtfs:stop_id' v='40011 7' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大北口' />
-    <tag k='name:en' v='Hirodai-kitaguchi (Hiroshima Univ. North Entrance)' />
+    <tag k='name:en' v='Hirodai-kitaguchi (Hiroshima University North Entrance)' />
     <tag k='name:ja' v='広大北口' />
     <tag k='name:ja-Hira' v='ひろだいきたぐち' />
     <tag k='name:ko' v='히로다이 키타구치' />
@@ -965,7 +965,7 @@
     <tag k='gtfs:stop_id' v='40012 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大二神口' />
-    <tag k='name:en' v='Hirodai-futagami-guchi (Hiroshima Univ. Futagami-guchi)' />
+    <tag k='name:en' v='Hirodai-futagami-guchi (Hiroshima University Futagami-guchi)' />
     <tag k='name:ja' v='広大二神口' />
     <tag k='name:ja-Hira' v='ひろだいふたがみぐち' />
     <tag k='name:ko' v='히로다이 후타가미 구치' />
@@ -980,7 +980,7 @@
     <tag k='gtfs:stop_id' v='40012 3' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大二神口' />
-    <tag k='name:en' v='Hirodai-futagami-guchi (Hiroshima Univ. Futagami-guchi)' />
+    <tag k='name:en' v='Hirodai-futagami-guchi (Hiroshima University Futagami-guchi)' />
     <tag k='name:ja' v='広大二神口' />
     <tag k='name:ja-Hira' v='ひろだいふたがみぐち' />
     <tag k='name:ko' v='히로다이 후타가미 구치' />
@@ -995,7 +995,7 @@
     <tag k='gtfs:stop_id' v='40012 5' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大二神口' />
-    <tag k='name:en' v='Hirodai-futagami-guchi (Hiroshima Univ. Futagami-guchi)' />
+    <tag k='name:en' v='Hirodai-futagami-guchi (Hiroshima University Futagami-guchi)' />
     <tag k='name:ja' v='広大二神口' />
     <tag k='name:ja-Hira' v='ひろだいふたがみぐち' />
     <tag k='name:ko' v='히로다이 후타가미 구치' />
@@ -1010,7 +1010,7 @@
     <tag k='gtfs:stop_id' v='40012 7' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大二神口' />
-    <tag k='name:en' v='Hirodai-futagami-guchi (Hiroshima Univ. Futagami-guchi)' />
+    <tag k='name:en' v='Hirodai-futagami-guchi (Hiroshima University Futagami-guchi)' />
     <tag k='name:ja' v='広大二神口' />
     <tag k='name:ja-Hira' v='ひろだいふたがみぐち' />
     <tag k='name:ko' v='히로다이 후타가미 구치' />
@@ -1025,7 +1025,7 @@
     <tag k='gtfs:stop_id' v='40013 0' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大西口' />
-    <tag k='name:en' v='Hirodai-nishiguchi (Hiroshima Univ. West Entrance)' />
+    <tag k='name:en' v='Hirodai-nishiguchi (Hiroshima University West Entrance)' />
     <tag k='name:ja' v='広大西口' />
     <tag k='name:ja-Hira' v='ひろだいにしぐち' />
     <tag k='name:ko' v='히로다이 니시구치' />
@@ -1040,7 +1040,7 @@
     <tag k='gtfs:stop_id' v='40013 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大西口' />
-    <tag k='name:en' v='Hirodai-nishiguchi (Hiroshima Univ. West Entrance)' />
+    <tag k='name:en' v='Hirodai-nishiguchi (Hiroshima University West Entrance)' />
     <tag k='name:ja' v='広大西口' />
     <tag k='name:ja-Hira' v='ひろだいにしぐち' />
     <tag k='name:ko' v='히로다이 니시구치' />
@@ -1055,7 +1055,7 @@
     <tag k='gtfs:stop_id' v='40013 12' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大西口' />
-    <tag k='name:en' v='Hirodai-nishiguchi (Hiroshima Univ. West Entrance)' />
+    <tag k='name:en' v='Hirodai-nishiguchi (Hiroshima University West Entrance)' />
     <tag k='name:ja' v='広大西口' />
     <tag k='name:ja-Hira' v='ひろだいにしぐち' />
     <tag k='name:ko' v='히로다이 니시구치' />
@@ -1070,7 +1070,7 @@
     <tag k='gtfs:stop_id' v='40013 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大西口' />
-    <tag k='name:en' v='Hirodai-nishiguchi (Hiroshima Univ. West Entrance)' />
+    <tag k='name:en' v='Hirodai-nishiguchi (Hiroshima University West Entrance)' />
     <tag k='name:ja' v='広大西口' />
     <tag k='name:ja-Hira' v='ひろだいにしぐち' />
     <tag k='name:ko' v='히로다이 니시구치' />
@@ -1085,7 +1085,7 @@
     <tag k='gtfs:stop_id' v='40013 3' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大西口' />
-    <tag k='name:en' v='Hirodai-nishiguchi (Hiroshima Univ. West Entrance)' />
+    <tag k='name:en' v='Hirodai-nishiguchi (Hiroshima University West Entrance)' />
     <tag k='name:ja' v='広大西口' />
     <tag k='name:ja-Hira' v='ひろだいにしぐち' />
     <tag k='name:ko' v='히로다이 니시구치' />
@@ -1100,7 +1100,7 @@
     <tag k='gtfs:stop_id' v='40013 5' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大西口' />
-    <tag k='name:en' v='Hirodai-nishiguchi (Hiroshima Univ. West Entrance)' />
+    <tag k='name:en' v='Hirodai-nishiguchi (Hiroshima University West Entrance)' />
     <tag k='name:ja' v='広大西口' />
     <tag k='name:ja-Hira' v='ひろだいにしぐち' />
     <tag k='name:ko' v='히로다이 니시구치' />
@@ -1115,7 +1115,7 @@
     <tag k='gtfs:stop_id' v='40013 7' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大西口' />
-    <tag k='name:en' v='Hirodai-nishiguchi (Hiroshima Univ. West Entrance)' />
+    <tag k='name:en' v='Hirodai-nishiguchi (Hiroshima University West Entrance)' />
     <tag k='name:ja' v='広大西口' />
     <tag k='name:ja-Hira' v='ひろだいにしぐち' />
     <tag k='name:ko' v='히로다이 니시구치' />
@@ -1250,7 +1250,7 @@
     <tag k='gtfs:stop_id' v='40016 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大東口' />
-    <tag k='name:en' v='Hirodai-higashiguchi (Hiroshima Univ. East Entrance)' />
+    <tag k='name:en' v='Hirodai-higashiguchi (Hiroshima University East Entrance)' />
     <tag k='name:ja' v='広大東口' />
     <tag k='name:ja-Hira' v='ひろだいひがしぐち' />
     <tag k='name:ko' v='히로다이 히가시구치' />
@@ -1265,7 +1265,7 @@
     <tag k='gtfs:stop_id' v='40016 5' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大東口' />
-    <tag k='name:en' v='Hirodai-higashiguchi (Hiroshima Univ. East Entrance)' />
+    <tag k='name:en' v='Hirodai-higashiguchi (Hiroshima University East Entrance)' />
     <tag k='name:ja' v='広大東口' />
     <tag k='name:ja-Hira' v='ひろだいひがしぐち' />
     <tag k='name:ko' v='히로다이 히가시구치' />
@@ -1280,7 +1280,7 @@
     <tag k='gtfs:stop_id' v='40016 7' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広大東口' />
-    <tag k='name:en' v='Hirodai-higashiguchi (Hiroshima Univ. East Entrance)' />
+    <tag k='name:en' v='Hirodai-higashiguchi (Hiroshima University East Entrance)' />
     <tag k='name:ja' v='広大東口' />
     <tag k='name:ja-Hira' v='ひろだいひがしぐち' />
     <tag k='name:ko' v='히로다이 히가시구치' />
@@ -1761,7 +1761,7 @@
     <tag k='gtfs:stop_id' v='40030 0' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='東広島駅' />
-    <tag k='name:en' v='Higashi-hiroshima Sta.' />
+    <tag k='name:en' v='Higashi-hiroshima Station' />
     <tag k='name:ja' v='東広島駅' />
     <tag k='name:ja-Hira' v='ひがしひろしまえき' />
     <tag k='name:ko' v='히가시히로시마 역' />
@@ -1776,7 +1776,7 @@
     <tag k='gtfs:stop_id' v='40030 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='東広島駅' />
-    <tag k='name:en' v='Higashi-hiroshima Sta.' />
+    <tag k='name:en' v='Higashi-hiroshima Station' />
     <tag k='name:ja' v='東広島駅' />
     <tag k='name:ja-Hira' v='ひがしひろしまえき' />
     <tag k='name:ko' v='히가시히로시마 역' />
@@ -1792,7 +1792,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='1' />
     <tag k='name' v='東広島駅' />
-    <tag k='name:en' v='Higashi-hiroshima Sta.' />
+    <tag k='name:en' v='Higashi-hiroshima Station' />
     <tag k='name:ja' v='東広島駅' />
     <tag k='name:ja-Hira' v='ひがしひろしまえき' />
     <tag k='name:ko' v='히가시히로시마 역' />
@@ -1808,7 +1808,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='2' />
     <tag k='name' v='東広島駅' />
-    <tag k='name:en' v='Higashi-hiroshima Sta.' />
+    <tag k='name:en' v='Higashi-hiroshima Station' />
     <tag k='name:ja' v='東広島駅' />
     <tag k='name:ja-Hira' v='ひがしひろしまえき' />
     <tag k='name:ko' v='히가시히로시마 역' />
@@ -3818,7 +3818,7 @@
     <tag k='gtfs:stop_id' v='40091 0' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広島国際大学' />
-    <tag k='name:en' v='Hiroshima Kokusai Daigaku (Hiroshima International Univ.)' />
+    <tag k='name:en' v='Hiroshima Kokusai Daigaku (Hiroshima International University)' />
     <tag k='name:ja' v='広島国際大学' />
     <tag k='name:ja-Hira' v='ひろしまこくさいだいがく' />
     <tag k='name:ko' v='히로시마국제대학' />
@@ -3833,7 +3833,7 @@
     <tag k='gtfs:stop_id' v='40091 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広島国際大学' />
-    <tag k='name:en' v='Hiroshima Kokusai Daigaku (Hiroshima International Univ.)' />
+    <tag k='name:en' v='Hiroshima Kokusai Daigaku (Hiroshima International University)' />
     <tag k='name:ja' v='広島国際大学' />
     <tag k='name:ja-Hira' v='ひろしまこくさいだいがく' />
     <tag k='name:ko' v='히로시마국제대학' />
@@ -3848,7 +3848,7 @@
     <tag k='gtfs:stop_id' v='40091 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広島国際大学' />
-    <tag k='name:en' v='Hiroshima Kokusai Daigaku (Hiroshima International Univ.)' />
+    <tag k='name:en' v='Hiroshima Kokusai Daigaku (Hiroshima International University)' />
     <tag k='name:ja' v='広島国際大学' />
     <tag k='name:ja-Hira' v='ひろしまこくさいだいがく' />
     <tag k='name:ko' v='히로시마국제대학' />
@@ -4585,7 +4585,7 @@
     <tag k='gtfs:stop_id' v='40115 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広駅' />
-    <tag k='name:en' v='Hiro Sta.' />
+    <tag k='name:en' v='Hiro Station' />
     <tag k='name:ja' v='広駅' />
     <tag k='name:ja-Hira' v='ひろえき' />
     <tag k='name:ko' v='히로 역' />
@@ -4600,7 +4600,7 @@
     <tag k='gtfs:stop_id' v='40115 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広駅' />
-    <tag k='name:en' v='Hiro Sta.' />
+    <tag k='name:en' v='Hiro Station' />
     <tag k='name:ja' v='広駅' />
     <tag k='name:ja-Hira' v='ひろえき' />
     <tag k='name:ko' v='히로 역' />
@@ -4675,7 +4675,7 @@
     <tag k='gtfs:stop_id' v='40118 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='阿賀海岸通' />
-    <tag k='name:en' v='Aga Kaigan-dori (Aga Kaigan Ave.)' />
+    <tag k='name:en' v='Aga Kaigan-dori (Aga Kaigan Avenue)' />
     <tag k='name:ja' v='阿賀海岸通' />
     <tag k='name:ja-Hira' v='あがかいがんどおり' />
     <tag k='name:ko' v='아가 카이간 도리' />
@@ -4690,7 +4690,7 @@
     <tag k='gtfs:stop_id' v='40118 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='阿賀海岸通' />
-    <tag k='name:en' v='Aga Kaigan-dori (Aga Kaigan Ave.)' />
+    <tag k='name:en' v='Aga Kaigan-dori (Aga Kaigan Avenue)' />
     <tag k='name:ja' v='阿賀海岸通' />
     <tag k='name:ja-Hira' v='あがかいがんどおり' />
     <tag k='name:ko' v='아가 카이간 도리' />
@@ -4852,7 +4852,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='6' />
     <tag k='name' v='呉駅前' />
-    <tag k='name:en' v='Kure Sta.' />
+    <tag k='name:en' v='Kure Station' />
     <tag k='name:ja' v='呉駅前' />
     <tag k='name:ja-Hira' v='くれえきまえ' />
     <tag k='name:ko' v='구레 역' />
@@ -4867,7 +4867,7 @@
     <tag k='gtfs:stop_id' v='40122 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='呉駅前' />
-    <tag k='name:en' v='Kure Sta.' />
+    <tag k='name:en' v='Kure Station' />
     <tag k='name:ja' v='呉駅前' />
     <tag k='name:ja-Hira' v='くれえきまえ' />
     <tag k='name:ko' v='구레 역' />
@@ -4883,7 +4883,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='5' />
     <tag k='name' v='呉駅前' />
-    <tag k='name:en' v='Kure Sta.' />
+    <tag k='name:en' v='Kure Station' />
     <tag k='name:ja' v='呉駅前' />
     <tag k='name:ja-Hira' v='くれえきまえ' />
     <tag k='name:ko' v='구레 역' />
@@ -4899,7 +4899,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='7' />
     <tag k='name' v='呉駅前' />
-    <tag k='name:en' v='Kure Sta.' />
+    <tag k='name:en' v='Kure Station' />
     <tag k='name:ja' v='呉駅前' />
     <tag k='name:ja-Hira' v='くれえきまえ' />
     <tag k='name:ko' v='구레 역' />
@@ -5962,7 +5962,7 @@
     <tag k='gtfs:stop_id' v='40152 0' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='阿賀駅前' />
-    <tag k='name:en' v='Aga Sta.' />
+    <tag k='name:en' v='Aga Station' />
     <tag k='name:ja' v='阿賀駅前' />
     <tag k='name:ja-Hira' v='あがえきまえ' />
     <tag k='name:ko' v='아가 역' />
@@ -5977,7 +5977,7 @@
     <tag k='gtfs:stop_id' v='40152 12' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='阿賀駅前' />
-    <tag k='name:en' v='Aga Sta.' />
+    <tag k='name:en' v='Aga Station' />
     <tag k='name:ja' v='阿賀駅前' />
     <tag k='name:ja-Hira' v='あがえきまえ' />
     <tag k='name:ko' v='아가 역' />
@@ -6188,7 +6188,7 @@
     <tag k='gtfs:stop_id' v='40162 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='西条駅' />
-    <tag k='name:en' v='Saijo Sta.' />
+    <tag k='name:en' v='Saijo Station' />
     <tag k='name:ja' v='西条駅' />
     <tag k='name:ja-Hira' v='さいじょうえき' />
     <tag k='name:ko' v='사이조 역' />
@@ -6902,7 +6902,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='32' />
     <tag k='name' v='本通り' />
-    <tag k='name:en' v='Hon-dori (Hon-dori Ave.)' />
+    <tag k='name:en' v='Hon-dori (Hon-dori Avenue)' />
     <tag k='name:ja' v='本通り' />
     <tag k='name:ja-Hira' v='ほんどおり' />
     <tag k='name:ko' v='혼도리' />
@@ -6918,7 +6918,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='31' />
     <tag k='name' v='本通り' />
-    <tag k='name:en' v='Hon-dori (Hon-dori Ave.)' />
+    <tag k='name:en' v='Hon-dori (Hon-dori Avenue)' />
     <tag k='name:ja' v='本通り' />
     <tag k='name:ja-Hira' v='ほんどおり' />
     <tag k='name:ko' v='혼도리' />
@@ -6934,7 +6934,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='32' />
     <tag k='name' v='本通り' />
-    <tag k='name:en' v='Hon-dori (Hon-dori Ave.)' />
+    <tag k='name:en' v='Hon-dori (Hon-dori Avenue)' />
     <tag k='name:ja' v='本通り' />
     <tag k='name:ja-Hira' v='ほんどおり' />
     <tag k='name:ko' v='혼도리' />
@@ -7069,7 +7069,7 @@
     <tag k='gtfs:stop_id' v='50007 0' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='大学病院南門' />
-    <tag k='name:en' v='Daigaku Byoin-minamimon (Univ. Hospital South Gate)' />
+    <tag k='name:en' v='Daigaku Byoin-minamimon (University Hospital South Gate)' />
     <tag k='name:ja' v='大学病院南門' />
     <tag k='name:ja-Hira' v='だいがくびょういんみなみもん' />
     <tag k='name:ko' v='대학병원 미나미몬' />
@@ -7084,7 +7084,7 @@
     <tag k='gtfs:stop_id' v='50007 11' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='大学病院南門' />
-    <tag k='name:en' v='Daigaku Byoin-minamimon (Univ. Hospital South Gate)' />
+    <tag k='name:en' v='Daigaku Byoin-minamimon (University Hospital South Gate)' />
     <tag k='name:ja' v='大学病院南門' />
     <tag k='name:ja-Hira' v='だいがくびょういんみなみもん' />
     <tag k='name:ko' v='대학병원 미나미몬' />
@@ -7145,7 +7145,7 @@
     <tag k='gtfs:stop_id' v='50010 0' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='中筋駅' />
-    <tag k='name:en' v='Nakasuji Sta.' />
+    <tag k='name:en' v='Nakasuji Station' />
     <tag k='name:ja' v='中筋駅' />
     <tag k='name:ja-Hira' v='なかすじえき' />
     <tag k='name:ko' v='나카스지 역' />
@@ -7160,7 +7160,7 @@
     <tag k='gtfs:stop_id' v='50010 11' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='中筋駅' />
-    <tag k='name:en' v='Nakasuji Sta.' />
+    <tag k='name:en' v='Nakasuji Station' />
     <tag k='name:ja' v='中筋駅' />
     <tag k='name:ja-Hira' v='なかすじえき' />
     <tag k='name:ko' v='나카스지 역' />
@@ -7176,7 +7176,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='2' />
     <tag k='name' v='広島駅新幹線口' />
-    <tag k='name:en' v='Hiroshima Sta. Shinkansen Entrance' />
+    <tag k='name:en' v='Hiroshima Station Shinkansen Entrance' />
     <tag k='name:ja' v='広島駅新幹線口' />
     <tag k='name:ja-Hira' v='ひろしまえきしんかんせんぐち' />
     <tag k='name:ko' v='히로시마 역 신칸센 출입구' />
@@ -7192,7 +7192,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='2' />
     <tag k='name' v='広島駅新幹線口' />
-    <tag k='name:en' v='Hiroshima Sta. Shinkansen Entrance' />
+    <tag k='name:en' v='Hiroshima Station Shinkansen Entrance' />
     <tag k='name:ja' v='広島駅新幹線口' />
     <tag k='name:ja-Hira' v='ひろしまえきしんかんせんぐち' />
     <tag k='name:ko' v='히로시마 역 신칸센 출입구' />
@@ -10051,7 +10051,7 @@
     <tag k='gtfs:stop_id' v='50107 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広島文教大学入口' />
-    <tag k='name:en' v='Hiroshima Bunkyo Daigaku-iriguchi (Hiroshima Bunkyo Univ.)' />
+    <tag k='name:en' v='Hiroshima Bunkyo Daigaku-iriguchi (Hiroshima Bunkyo University)' />
     <tag k='name:ja' v='広島文教大学入口' />
     <tag k='name:ja-Hira' v='ひろしまぶんきょうだいがくいりぐち' />
     <tag k='name:ko' v='히로시마문교대학 이리구치' />
@@ -10066,7 +10066,7 @@
     <tag k='gtfs:stop_id' v='50107 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広島文教大学入口' />
-    <tag k='name:en' v='Hiroshima Bunkyo Daigaku-iriguchi (Hiroshima Bunkyo Univ.)' />
+    <tag k='name:en' v='Hiroshima Bunkyo Daigaku-iriguchi (Hiroshima Bunkyo University)' />
     <tag k='name:ja' v='広島文教大学入口' />
     <tag k='name:ja-Hira' v='ひろしまぶんきょうだいがくいりぐち' />
     <tag k='name:ko' v='히로시마문교대학 이리구치' />
@@ -10081,7 +10081,7 @@
     <tag k='gtfs:stop_id' v='50108 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='中島駅口' />
-    <tag k='name:en' v='Nakashima Sta.' />
+    <tag k='name:en' v='Nakashima Station' />
     <tag k='name:ja' v='中島駅口' />
     <tag k='name:ja-Hira' v='なかしまえきぐち' />
     <tag k='name:ko' v='나카시마 역' />
@@ -10096,7 +10096,7 @@
     <tag k='gtfs:stop_id' v='50108 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='中島駅口' />
-    <tag k='name:en' v='Nakashima Sta.' />
+    <tag k='name:en' v='Nakashima Station' />
     <tag k='name:ja' v='中島駅口' />
     <tag k='name:ja-Hira' v='なかしまえきぐち' />
     <tag k='name:ko' v='나카시마 역' />
@@ -10703,7 +10703,7 @@
     <tag k='gtfs:stop_id' v='50128 0' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広島駅' />
-    <tag k='name:en' v='Hiroshima Sta.' />
+    <tag k='name:en' v='Hiroshima Station' />
     <tag k='name:ja' v='広島駅' />
     <tag k='name:ja-Hira' v='ひろしまえき' />
     <tag k='name:ko' v='히로시마 역' />
@@ -10719,7 +10719,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='8' />
     <tag k='name' v='広島駅' />
-    <tag k='name:en' v='Hiroshima Sta.' />
+    <tag k='name:en' v='Hiroshima Station' />
     <tag k='name:ja' v='広島駅' />
     <tag k='name:ja-Hira' v='ひろしまえき' />
     <tag k='name:ko' v='히로시마 역' />
@@ -10734,7 +10734,7 @@
     <tag k='gtfs:stop_id' v='50128 3' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広島駅' />
-    <tag k='name:en' v='Hiroshima Sta.' />
+    <tag k='name:en' v='Hiroshima Station' />
     <tag k='name:ja' v='広島駅' />
     <tag k='name:ja-Hira' v='ひろしまえき' />
     <tag k='name:ko' v='히로시마 역' />
@@ -10750,7 +10750,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='20' />
     <tag k='name' v='広島駅' />
-    <tag k='name:en' v='Hiroshima Sta.' />
+    <tag k='name:en' v='Hiroshima Station' />
     <tag k='name:ja' v='広島駅' />
     <tag k='name:ja-Hira' v='ひろしまえき' />
     <tag k='name:ko' v='히로시마 역' />
@@ -10766,7 +10766,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='8' />
     <tag k='name' v='広島駅' />
-    <tag k='name:en' v='Hiroshima Sta.' />
+    <tag k='name:en' v='Hiroshima Station' />
     <tag k='name:ja' v='広島駅' />
     <tag k='name:ja-Hira' v='ひろしまえき' />
     <tag k='name:ko' v='히로시마 역' />
@@ -10841,7 +10841,7 @@
     <tag k='gtfs:stop_id' v='50131 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='上深川駅前' />
-    <tag k='name:en' v='Kami-fukawa Sta.' />
+    <tag k='name:en' v='Kami-fukawa Station' />
     <tag k='name:ja' v='上深川駅前' />
     <tag k='name:ja-Hira' v='かみふかわえきまえ' />
     <tag k='name:ko' v='가미후카와 역' />
@@ -10856,7 +10856,7 @@
     <tag k='gtfs:stop_id' v='50131 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='上深川駅前' />
-    <tag k='name:en' v='Kami-fukawa Sta.' />
+    <tag k='name:en' v='Kami-fukawa Station' />
     <tag k='name:ja' v='上深川駅前' />
     <tag k='name:ja-Hira' v='かみふかわえきまえ' />
     <tag k='name:ko' v='가미후카와 역' />
@@ -12829,7 +12829,7 @@
     <tag k='gtfs:stop_id' v='50191 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='下深川駅前' />
-    <tag k='name:en' v='Shimo-fukawa Sta.' />
+    <tag k='name:en' v='Shimo-fukawa Station' />
     <tag k='name:ja' v='下深川駅前' />
     <tag k='name:ja-Hira' v='しもふかわえきまえ' />
     <tag k='name:ko' v='시모후카와 역' />
@@ -12844,7 +12844,7 @@
     <tag k='gtfs:stop_id' v='50191 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='下深川駅前' />
-    <tag k='name:en' v='Shimo-fukawa Sta.' />
+    <tag k='name:en' v='Shimo-fukawa Station' />
     <tag k='name:ja' v='下深川駅前' />
     <tag k='name:ja-Hira' v='しもふかわえきまえ' />
     <tag k='name:ko' v='시모후카와 역' />
@@ -13281,7 +13281,7 @@
     <tag k='gtfs:stop_id' v='50257 0' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='新白島駅' />
-    <tag k='name:en' v='Shin-hakushima Sta.' />
+    <tag k='name:en' v='Shin-hakushima Station' />
     <tag k='name:ja' v='新白島駅' />
     <tag k='name:ja-Hira' v='しんはくしまえき' />
     <tag k='name:ko' v='신하쿠시마 역' />
@@ -13296,7 +13296,7 @@
     <tag k='gtfs:stop_id' v='50257 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='新白島駅' />
-    <tag k='name:en' v='Shin-hakushima Sta.' />
+    <tag k='name:en' v='Shin-hakushima Station' />
     <tag k='name:ja' v='新白島駅' />
     <tag k='name:ja-Hira' v='しんはくしまえき' />
     <tag k='name:ko' v='신하쿠시마 역' />
@@ -13311,7 +13311,7 @@
     <tag k='gtfs:stop_id' v='50257 11' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='新白島駅' />
-    <tag k='name:en' v='Shin-hakushima Sta.' />
+    <tag k='name:en' v='Shin-hakushima Station' />
     <tag k='name:ja' v='新白島駅' />
     <tag k='name:ja-Hira' v='しんはくしまえき' />
     <tag k='name:ko' v='신하쿠시마 역' />
@@ -13326,7 +13326,7 @@
     <tag k='gtfs:stop_id' v='50257 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='新白島駅' />
-    <tag k='name:en' v='Shin-hakushima Sta.' />
+    <tag k='name:en' v='Shin-hakushima Station' />
     <tag k='name:ja' v='新白島駅' />
     <tag k='name:ja-Hira' v='しんはくしまえき' />
     <tag k='name:ko' v='신하쿠시마 역' />
@@ -13356,7 +13356,7 @@
     <tag k='gtfs:stop_id' v='50264 98' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='並木通り入口' />
-    <tag k='name:en' v='Namiki-dori-iriguchi (Namiki Ave.)' />
+    <tag k='name:en' v='Namiki-dori-iriguchi (Namiki Avenue)' />
     <tag k='name:ja' v='並木通り入口' />
     <tag k='name:ja-Hira' v='こまち' />
     <tag k='name:ko' v='나미키 도리 이리구치' />
