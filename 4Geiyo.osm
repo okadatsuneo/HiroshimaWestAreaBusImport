@@ -1310,12 +1310,12 @@
     <tag k='gtfs:stop_id' v='2025 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='貫道橋' />
-    <tag k='name:en' v='Sekiyabashi' />
+    <tag k='name:en' v='Kandobashi' />
     <tag k='name:ja' v='貫道橋' />
     <tag k='name:ja-Hira' v='かんどうばし' />
-    <tag k='name:ko' v='세키야바시' />
-    <tag k='name:zh-Hans' v='关屋桥' />
-    <tag k='name:zh-Hant' v='關屋橋' />
+    <tag k='name:ko' v='간도바시' />
+    <tag k='name:zh-Hans' v='贯道桥' />
+    <tag k='name:zh-Hant' v='貫道橋' />
     <tag k='operator' v='芸陽バス' />
     <tag k='operator:en' v='Geiyo Bus' />
     <tag k='public_transport' v='platform' />
@@ -1325,12 +1325,12 @@
     <tag k='gtfs:stop_id' v='2025 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='貫道橋' />
-    <tag k='name:en' v='Sekiyabashi' />
+    <tag k='name:en' v='Kandobashi' />
     <tag k='name:ja' v='貫道橋' />
     <tag k='name:ja-Hira' v='かんどうばし' />
-    <tag k='name:ko' v='세키야바시' />
-    <tag k='name:zh-Hans' v='关屋桥' />
-    <tag k='name:zh-Hant' v='關屋橋' />
+    <tag k='name:ko' v='간도바시' />
+    <tag k='name:zh-Hans' v='贯道桥' />
+    <tag k='name:zh-Hant' v='貫道橋' />
     <tag k='operator' v='芸陽バス' />
     <tag k='operator:en' v='Geiyo Bus' />
     <tag k='public_transport' v='platform' />
@@ -11923,8 +11923,12 @@
     <tag k='gtfs:stop_id' v='2452 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='丸宮橋' />
+    <tag k='name:en' v='Marumiyabashi' />
     <tag k='name:ja' v='丸宮橋' />
     <tag k='name:ja-Hira' v='まるみやばし' />
+    <tag k='name:ko' v='마루미야바시' />
+    <tag k='name:zh-Hans' v='丸宫桥' />
+    <tag k='name:zh-Hant' v='丸宮橋' />
     <tag k='operator' v='芸陽バス' />
     <tag k='operator:en' v='Geiyo Bus' />
     <tag k='public_transport' v='platform' />
@@ -11934,8 +11938,12 @@
     <tag k='gtfs:stop_id' v='2452 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='丸宮橋' />
+    <tag k='name:en' v='Marumiyabashi' />
     <tag k='name:ja' v='丸宮橋' />
     <tag k='name:ja-Hira' v='まるみやばし' />
+    <tag k='name:ko' v='마루미야바시' />
+    <tag k='name:zh-Hans' v='丸宫桥' />
+    <tag k='name:zh-Hant' v='丸宮橋' />
     <tag k='operator' v='芸陽バス' />
     <tag k='operator:en' v='Geiyo Bus' />
     <tag k='public_transport' v='platform' />
@@ -17029,8 +17037,12 @@
     <tag k='gtfs:stop_id' v='27 3' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='記念橋' />
+    <tag k='name:en' v='Kinembashi' />
     <tag k='name:ja' v='記念橋' />
     <tag k='name:ja-Hira' v='きねんばし' />
+    <tag k='name:ko' v='기넨바시 （하치혼마쓰 요시카와 센) （기넨바시 다리)（하치혼마쓰 요시카와 선)' />
+    <tag k='name:zh-Hans' v='记念桥（八本松吉川线）' />
+    <tag k='name:zh-Hant' v='記念橋（八本松吉川線）' />
     <tag k='operator' v='芸陽バス' />
     <tag k='operator:en' v='Geiyo Bus' />
     <tag k='public_transport' v='platform' />
@@ -17040,8 +17052,12 @@
     <tag k='gtfs:stop_id' v='27 4' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='記念橋' />
+    <tag k='name:en' v='Kinembashi' />
     <tag k='name:ja' v='記念橋' />
     <tag k='name:ja-Hira' v='きねんばし' />
+    <tag k='name:ko' v='기넨바시 （하치혼마쓰 요시카와 센) （기넨바시 다리)（하치혼마쓰 요시카와 선)' />
+    <tag k='name:zh-Hans' v='记念桥（八本松吉川线）' />
+    <tag k='name:zh-Hant' v='記念橋（八本松吉川線）' />
     <tag k='operator' v='芸陽バス' />
     <tag k='operator:en' v='Geiyo Bus' />
     <tag k='public_transport' v='platform' />
@@ -18213,12 +18229,12 @@
     <tag k='gtfs:stop_id' v='2759 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='関屋橋' />
-    <tag k='name:en' v='Marumiyabashi' />
+    <tag k='name:en' v='Sekiyabashi' />
     <tag k='name:ja' v='関屋橋' />
     <tag k='name:ja-Hira' v='せきやばし' />
-    <tag k='name:ko' v='마루미야바시' />
-    <tag k='name:zh-Hans' v='丸宫桥' />
-    <tag k='name:zh-Hant' v='丸宮橋' />
+    <tag k='name:ko' v='세키야바시' />
+    <tag k='name:zh-Hans' v='关屋桥' />
+    <tag k='name:zh-Hant' v='關屋橋' />
     <tag k='operator' v='芸陽バス' />
     <tag k='operator:en' v='Geiyo Bus' />
     <tag k='public_transport' v='platform' />
@@ -18228,12 +18244,12 @@
     <tag k='gtfs:stop_id' v='2759 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='関屋橋' />
-    <tag k='name:en' v='Marumiyabashi' />
+    <tag k='name:en' v='Sekiyabashi' />
     <tag k='name:ja' v='関屋橋' />
     <tag k='name:ja-Hira' v='せきやばし' />
-    <tag k='name:ko' v='마루미야바시' />
-    <tag k='name:zh-Hans' v='丸宫桥' />
-    <tag k='name:zh-Hant' v='丸宮橋' />
+    <tag k='name:ko' v='세키야바시' />
+    <tag k='name:zh-Hans' v='关屋桥' />
+    <tag k='name:zh-Hant' v='關屋橋' />
     <tag k='operator' v='芸陽バス' />
     <tag k='operator:en' v='Geiyo Bus' />
     <tag k='public_transport' v='platform' />

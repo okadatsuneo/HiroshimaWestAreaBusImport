@@ -5653,6 +5653,7 @@
     <tag k='gtfs:stop_id' v='3185 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広島特別支援学校' />
+    <tag k='name:en' v='Hiroshima Special Support Education School' />
     <tag k='name:ja' v='広島特別支援学校' />
     <tag k='name:ja-Hira' v='ひろしまとくべつしえんがつこう' />
     <tag k='operator' v='広島バス' />
@@ -8732,8 +8733,12 @@
     <tag k='gtfs:stop_id' v='4275 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='支援学校前' />
+    <tag k='name:en' v='Shiengakko-mae (Special Needs School)' />
     <tag k='name:ja' v='支援学校前' />
     <tag k='name:ja-Hira' v='しえんがっこうまえ' />
+    <tag k='name:ko' v='지원학교' />
+    <tag k='name:zh-Hans' v='支援学校前' />
+    <tag k='name:zh-Hant' v='支援學校前' />
     <tag k='operator' v='広島バス' />
     <tag k='operator:en' v='Hiroshima Bus' />
     <tag k='public_transport' v='platform' />

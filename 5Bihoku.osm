@@ -2756,8 +2756,12 @@
     <tag k='gtfs:stop_id' v='36119 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='三次もののけミュージアム' />
+    <tag k='name:en' v='Miyoshi Mononoke Museum' />
     <tag k='name:ja' v='三次もののけミュージアム' />
     <tag k='name:ja-Hira' v='みよしもののけみゅーじあむ' />
+    <tag k='name:ko' v='미요시모노노케뮤지엄' />
+    <tag k='name:zh-Hans' v='三次鬼怪博物馆' />
+    <tag k='name:zh-Hant' v='三次鬼怪博物館' />
     <tag k='operator' v='備北交通' />
     <tag k='operator:en' v='Bihoku' />
     <tag k='public_transport' v='platform' />
@@ -2767,8 +2771,12 @@
     <tag k='gtfs:stop_id' v='36119 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='三次もののけミュージアム' />
+    <tag k='name:en' v='Miyoshi Mononoke Museum' />
     <tag k='name:ja' v='三次もののけミュージアム' />
     <tag k='name:ja-Hira' v='みよしもののけみゅーじあむ' />
+    <tag k='name:ko' v='미요시모노노케뮤지엄' />
+    <tag k='name:zh-Hans' v='三次鬼怪博物馆' />
+    <tag k='name:zh-Hant' v='三次鬼怪博物館' />
     <tag k='operator' v='備北交通' />
     <tag k='operator:en' v='Bihoku' />
     <tag k='public_transport' v='platform' />
@@ -2778,8 +2786,12 @@
     <tag k='gtfs:stop_id' v='36119 33' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='三次もののけミュージアム' />
+    <tag k='name:en' v='Miyoshi Mononoke Museum' />
     <tag k='name:ja' v='三次もののけミュージアム' />
     <tag k='name:ja-Hira' v='みよしもののけみゅーじあむ' />
+    <tag k='name:ko' v='미요시모노노케뮤지엄' />
+    <tag k='name:zh-Hans' v='三次鬼怪博物馆' />
+    <tag k='name:zh-Hant' v='三次鬼怪博物館' />
     <tag k='operator' v='備北交通' />
     <tag k='operator:en' v='Bihoku' />
     <tag k='public_transport' v='platform' />
@@ -8635,8 +8647,12 @@
     <tag k='gtfs:stop_id' v='36658 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='口和中学校前' />
+    <tag k='name:en' v='Kuchiwa Chugakko-mae (Kuchiwa Junior High School)' />
     <tag k='name:ja' v='口和中学校前' />
     <tag k='name:ja-Hira' v='くちわちゅうがつこうまえ' />
+    <tag k='name:ko' v='구치와 중학교' />
+    <tag k='name:zh-Hans' v='口和中学前' />
+    <tag k='name:zh-Hant' v='口和中學前' />
     <tag k='operator' v='備北交通' />
     <tag k='operator:en' v='Bihoku' />
     <tag k='public_transport' v='platform' />
@@ -12586,8 +12602,12 @@
     <tag k='gtfs:stop_id' v='36977 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='小奴可中学校前' />
+    <tag k='name:en' v='Onuka Chugakko-mae (Onuka Junior High School)' />
     <tag k='name:ja' v='小奴可中学校前' />
     <tag k='name:ja-Hira' v='おぬかちゆうがつこうまえ' />
+    <tag k='name:ko' v='오누카 중학교' />
+    <tag k='name:zh-Hans' v='小奴可中学前' />
+    <tag k='name:zh-Hant' v='小奴可中學前' />
     <tag k='operator' v='備北交通' />
     <tag k='operator:en' v='Bihoku' />
     <tag k='public_transport' v='platform' />
@@ -16403,8 +16423,12 @@
     <tag k='gtfs:stop_id' v='4 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='広島バスセンター' />
+    <tag k='name:en' v='Hiroshima Bus Center' />
     <tag k='name:ja' v='広島バスセンター' />
     <tag k='name:ja-Hira' v='ひろしまばすせんたー' />
+    <tag k='name:ko' v='히로시마 버스센터' />
+    <tag k='name:zh-Hans' v='广岛巴士中心' />
+    <tag k='name:zh-Hant' v='廣島公車中心' />
     <tag k='operator' v='備北交通' />
     <tag k='operator:en' v='Bihoku' />
     <tag k='public_transport' v='platform' />
@@ -16415,8 +16439,12 @@
     <tag k='highway' v='bus_stop' />
     <tag k='local_ref' v='9' />
     <tag k='name' v='広島バスセンター' />
+    <tag k='name:en' v='Hiroshima Bus Center' />
     <tag k='name:ja' v='広島バスセンター' />
     <tag k='name:ja-Hira' v='ひろしまばすせんたー' />
+    <tag k='name:ko' v='히로시마 버스센터' />
+    <tag k='name:zh-Hans' v='广岛巴士中心' />
+    <tag k='name:zh-Hant' v='廣島公車中心' />
     <tag k='operator' v='備北交通' />
     <tag k='operator:en' v='Bihoku' />
     <tag k='public_transport' v='platform' />

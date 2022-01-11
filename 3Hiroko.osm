@@ -11157,8 +11157,12 @@
     <tag k='gtfs:stop_id' v='5017 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='緑井小学校前' />
+    <tag k='name:en' v='Midorii Shogakko-mae (Midorii Elementary School)' />
     <tag k='name:ja' v='緑井小学校前' />
     <tag k='name:ja-Hira' v='みどりいしょうがっこうまえ' />
+    <tag k='name:ko' v='미도리이 초등학교' />
+    <tag k='name:zh-Hans' v='绿井小学前' />
+    <tag k='name:zh-Hant' v='綠井小學前' />
     <tag k='operator' v='広島交通' />
     <tag k='operator:en' v='Hiroko' />
     <tag k='public_transport' v='platform' />
@@ -11168,8 +11172,12 @@
     <tag k='gtfs:stop_id' v='5017 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='緑井小学校前' />
+    <tag k='name:en' v='Midorii Shogakko-mae (Midorii Elementary School)' />
     <tag k='name:ja' v='緑井小学校前' />
     <tag k='name:ja-Hira' v='みどりいしょうがっこうまえ' />
+    <tag k='name:ko' v='미도리이 초등학교' />
+    <tag k='name:zh-Hans' v='绿井小学前' />
+    <tag k='name:zh-Hant' v='綠井小學前' />
     <tag k='operator' v='広島交通' />
     <tag k='operator:en' v='Hiroko' />
     <tag k='public_transport' v='platform' />
@@ -11179,8 +11187,12 @@
     <tag k='gtfs:stop_id' v='5017 4' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='緑井小学校前' />
+    <tag k='name:en' v='Midorii Shogakko-mae (Midorii Elementary School)' />
     <tag k='name:ja' v='緑井小学校前' />
     <tag k='name:ja-Hira' v='みどりいしょうがっこうまえ' />
+    <tag k='name:ko' v='미도리이 초등학교' />
+    <tag k='name:zh-Hans' v='绿井小学前' />
+    <tag k='name:zh-Hant' v='綠井小學前' />
     <tag k='operator' v='広島交通' />
     <tag k='operator:en' v='Hiroko' />
     <tag k='public_transport' v='platform' />

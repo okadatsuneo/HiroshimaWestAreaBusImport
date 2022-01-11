@@ -3700,7 +3700,7 @@
     <tag k='name' v='康成病院前' />
     <tag k='name:en' v='Kosei Byoin-mae (Kosei Hospital)' />
     <tag k='name:ja' v='康成病院前' />
-    <tag k='name:ja-Hira' v='0' />
+    <tag k='name:ja-Hira' v='こうせいびょういんまえ' />
     <tag k='name:ko' v='고세이 병원' />
     <tag k='name:zh-Hans' v='康成病院前' />
     <tag k='name:zh-Hant' v='康成病院前' />
@@ -3715,7 +3715,7 @@
     <tag k='name' v='康成病院前' />
     <tag k='name:en' v='Kosei Byoin-mae (Kosei Hospital)' />
     <tag k='name:ja' v='康成病院前' />
-    <tag k='name:ja-Hira' v='0' />
+    <tag k='name:ja-Hira' v='こうせいびょういんまえ' />
     <tag k='name:ko' v='고세이 병원' />
     <tag k='name:zh-Hans' v='康成病院前' />
     <tag k='name:zh-Hant' v='康成病院前' />
@@ -8137,8 +8137,12 @@
     <tag k='gtfs:stop_id' v='50043 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='壬生口' />
+    <tag k='name:en' v='Mibuguchi' />
     <tag k='name:ja' v='壬生口' />
     <tag k='name:ja-Hira' v='みぶぐち' />
+    <tag k='name:ko' v='미부구치' />
+    <tag k='name:zh-Hans' v='壬生口' />
+    <tag k='name:zh-Hant' v='壬生口' />
     <tag k='operator' v='中国ジェイアールバス' />
     <tag k='operator:en' v='Chugoku JR Bus' />
     <tag k='public_transport' v='platform' />
@@ -8148,8 +8152,12 @@
     <tag k='gtfs:stop_id' v='50043 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='壬生口' />
+    <tag k='name:en' v='Mibuguchi' />
     <tag k='name:ja' v='壬生口' />
     <tag k='name:ja-Hira' v='みぶぐち' />
+    <tag k='name:ko' v='미부구치' />
+    <tag k='name:zh-Hans' v='壬生口' />
+    <tag k='name:zh-Hant' v='壬生口' />
     <tag k='operator' v='中国ジェイアールバス' />
     <tag k='operator:en' v='Chugoku JR Bus' />
     <tag k='public_transport' v='platform' />
@@ -8731,7 +8739,7 @@
     <tag k='name' v='明神峠' />
     <tag k='name:en' v='Myojintoge' />
     <tag k='name:ja' v='明神峠' />
-    <tag k='name:ja-Hira' v='0' />
+    <tag k='name:ja-Hira' v='みょうじんとうげ' />
     <tag k='name:ko' v='묘진토게' />
     <tag k='name:zh-Hans' v='明神峠' />
     <tag k='name:zh-Hant' v='明神峠' />
@@ -8746,7 +8754,7 @@
     <tag k='name' v='明神峠' />
     <tag k='name:en' v='Myojintoge' />
     <tag k='name:ja' v='明神峠' />
-    <tag k='name:ja-Hira' v='0' />
+    <tag k='name:ja-Hira' v='みょうじんとうげ' />
     <tag k='name:ko' v='묘진토게' />
     <tag k='name:zh-Hans' v='明神峠' />
     <tag k='name:zh-Hant' v='明神峠' />
@@ -12561,7 +12569,7 @@
     <tag k='name' v='神田橋' />
     <tag k='name:en' v='Jindembashi' />
     <tag k='name:ja' v='神田橋' />
-    <tag k='name:ja-Hira' v='0' />
+    <tag k='name:ja-Hira' v='かんだばし' />
     <tag k='name:ko' v='진덴바시' />
     <tag k='name:zh-Hans' v='神田桥' />
     <tag k='name:zh-Hant' v='神田橋' />
@@ -12576,7 +12584,7 @@
     <tag k='name' v='神田橋' />
     <tag k='name:en' v='Jindembashi' />
     <tag k='name:ja' v='神田橋' />
-    <tag k='name:ja-Hira' v='0' />
+    <tag k='name:ja-Hira' v='かんだばし' />
     <tag k='name:ko' v='진덴바시' />
     <tag k='name:zh-Hans' v='神田桥' />
     <tag k='name:zh-Hant' v='神田橋' />
@@ -14233,12 +14241,8 @@
     <tag k='gtfs:stop_id' v='60034 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='ＮＴＴ山口前' />
-    <tag k='name:en' v='Ichigo Heights-mae' />
     <tag k='name:ja' v='ＮＴＴ山口前' />
     <tag k='name:ja-Hira' v='えぬてぃーてぃーやまぐちまえ' />
-    <tag k='name:ko' v='이치고 하이츠 마에' />
-    <tag k='name:zh-Hans' v='ICHIGO公寓前' />
-    <tag k='name:zh-Hant' v='ICHIGO公寓前' />
     <tag k='operator' v='中国ジェイアールバス' />
     <tag k='operator:en' v='Chugoku JR Bus' />
     <tag k='public_transport' v='platform' />
@@ -14248,12 +14252,8 @@
     <tag k='gtfs:stop_id' v='60034 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='ＮＴＴ山口前' />
-    <tag k='name:en' v='Ichigo Heights-mae' />
     <tag k='name:ja' v='ＮＴＴ山口前' />
     <tag k='name:ja-Hira' v='えぬてぃーてぃーやまぐちまえ' />
-    <tag k='name:ko' v='이치고 하이츠 마에' />
-    <tag k='name:zh-Hans' v='ICHIGO公寓前' />
-    <tag k='name:zh-Hant' v='ICHIGO公寓前' />
     <tag k='operator' v='中国ジェイアールバス' />
     <tag k='operator:en' v='Chugoku JR Bus' />
     <tag k='public_transport' v='platform' />
@@ -14263,8 +14263,12 @@
     <tag k='gtfs:stop_id' v='60035 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='湯田温泉' />
+    <tag k='name:en' v='Yuda Onsen' />
     <tag k='name:ja' v='湯田温泉' />
     <tag k='name:ja-Hira' v='ゆだおんせん' />
+    <tag k='name:ko' v='유다온센' />
+    <tag k='name:zh-Hans' v='汤田温泉' />
+    <tag k='name:zh-Hant' v='湯田溫泉' />
     <tag k='operator' v='中国ジェイアールバス' />
     <tag k='operator:en' v='Chugoku JR Bus' />
     <tag k='public_transport' v='platform' />
@@ -14274,8 +14278,12 @@
     <tag k='gtfs:stop_id' v='60035 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='湯田温泉' />
+    <tag k='name:en' v='Yuda Onsen' />
     <tag k='name:ja' v='湯田温泉' />
     <tag k='name:ja-Hira' v='ゆだおんせん' />
+    <tag k='name:ko' v='유다온센' />
+    <tag k='name:zh-Hans' v='汤田温泉' />
+    <tag k='name:zh-Hant' v='湯田溫泉' />
     <tag k='operator' v='中国ジェイアールバス' />
     <tag k='operator:en' v='Chugoku JR Bus' />
     <tag k='public_transport' v='platform' />
@@ -14414,8 +14422,12 @@
     <tag k='gtfs:stop_id' v='60041 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='山口大学前' />
+    <tag k='name:en' v='Yamaguchi University' />
     <tag k='name:ja' v='山口大学前' />
     <tag k='name:ja-Hira' v='やまぐちだいがくまえ' />
+    <tag k='name:ko' v='야마구치 대학' />
+    <tag k='name:zh-Hans' v='山口大学' />
+    <tag k='name:zh-Hant' v='山口大學' />
     <tag k='operator' v='中国ジェイアールバス' />
     <tag k='operator:en' v='Chugoku JR Bus' />
     <tag k='public_transport' v='platform' />
@@ -14840,7 +14852,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='本宮野' />
     <tag k='name:ja' v='本宮野' />
-    <tag k='name:ja-Hira' v='0' />
+    <tag k='name:ja-Hira' v='ほんみやの' />
     <tag k='operator' v='中国ジェイアールバス' />
     <tag k='operator:en' v='Chugoku JR Bus' />
     <tag k='public_transport' v='platform' />
@@ -14851,7 +14863,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='本宮野' />
     <tag k='name:ja' v='本宮野' />
-    <tag k='name:ja-Hira' v='0' />
+    <tag k='name:ja-Hira' v='ほんみやの' />
     <tag k='operator' v='中国ジェイアールバス' />
     <tag k='operator:en' v='Chugoku JR Bus' />
     <tag k='public_transport' v='platform' />
@@ -15953,7 +15965,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='大田中央' />
     <tag k='name:ja' v='大田中央' />
-    <tag k='name:ja-Hira' v='0' />
+    <tag k='name:ja-Hira' v='おおだちゅうおう' />
     <tag k='operator' v='中国ジェイアールバス' />
     <tag k='operator:en' v='Chugoku JR Bus' />
     <tag k='public_transport' v='platform' />
@@ -15964,7 +15976,7 @@
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='大田中央' />
     <tag k='name:ja' v='大田中央' />
-    <tag k='name:ja-Hira' v='0' />
+    <tag k='name:ja-Hira' v='おおだちゅうおう' />
     <tag k='operator' v='中国ジェイアールバス' />
     <tag k='operator:en' v='Chugoku JR Bus' />
     <tag k='public_transport' v='platform' />
@@ -16621,12 +16633,8 @@
     <tag k='gtfs:stop_id' v='70010 1' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='西河原' />
-    <tag k='name:en' v='Saikyoji-mae (Saikyoji Temple)' />
     <tag k='name:ja' v='西河原' />
     <tag k='name:ja-Hira' v='にしがわら' />
-    <tag k='name:ko' v='사이쿄지 절' />
-    <tag k='name:zh-Hans' v='西教寺前' />
-    <tag k='name:zh-Hant' v='西教寺前' />
     <tag k='operator' v='中国ジェイアールバス' />
     <tag k='operator:en' v='Chugoku JR Bus' />
     <tag k='public_transport' v='platform' />
@@ -16636,12 +16644,8 @@
     <tag k='gtfs:stop_id' v='70010 2' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='西河原' />
-    <tag k='name:en' v='Saikyoji-mae (Saikyoji Temple)' />
     <tag k='name:ja' v='西河原' />
     <tag k='name:ja-Hira' v='にしがわら' />
-    <tag k='name:ko' v='사이쿄지 절' />
-    <tag k='name:zh-Hans' v='西教寺前' />
-    <tag k='name:zh-Hant' v='西教寺前' />
     <tag k='operator' v='中国ジェイアールバス' />
     <tag k='operator:en' v='Chugoku JR Bus' />
     <tag k='public_transport' v='platform' />
