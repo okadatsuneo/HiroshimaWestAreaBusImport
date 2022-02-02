@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='9418004227' timestamp='2022-01-29T20:55:10Z' uid='9322792' user='Imagener' visible='true' version='2' changeset='116759344' lat='34.3983429' lon='132.4767423'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='50860 25' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='3' />
+    <tag k='name' v='広島駅新幹線口' />
+    <tag k='name:en' v='Hiroshima Station Shinkansen Entrance' />
+    <tag k='name:ja' v='広島駅新幹線口' />
+    <tag k='name:ja-Hira' v='ひろしまえきしんかんせんぐち' />
+    <tag k='name:ko' v='히로시마 역 신칸센 출입구' />
+    <tag k='name:zh-Hans' v='广岛站新干线口' />
+    <tag k='name:zh-Hant' v='廣島站新幹線口' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9417996200' timestamp='2022-01-14T13:31:40Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='116147888' lat='34.3962533' lon='132.4564902'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='10 9' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='9' />
+    <tag k='name' v='広島バスセンター' />
+    <tag k='name:en' v='Hiroshima Bus Center' />
+    <tag k='name:ja' v='広島バスセンター' />
+    <tag k='name:ja-Hira' v='ひろしまばすせんたー' />
+    <tag k='name:ko' v='히로시마 버스센터' />
+    <tag k='name:zh-Hans' v='广岛巴士中心' />
+    <tag k='name:zh-Hant' v='廣島公車中心' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9416853613' timestamp='2022-01-14T02:01:38Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='116130558' lat='34.4363482' lon='132.4099088'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='24140 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='沼田料金所前' />
+    <tag k='name:en' v='Numata Ryokinjo-mae' />
+    <tag k='name:ja' v='沼田料金所前' />
+    <tag k='name:ja-Hira' v='ぬまたりょうきんじょまえ' />
+    <tag k='name:ko' v='누마타 료킨조 마에' />
+    <tag k='name:zh-Hans' v='沼田收费站前' />
+    <tag k='name:zh-Hant' v='沼田收費站前' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9416805996' timestamp='2022-01-14T02:01:38Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='116130558' lat='34.4420675' lon='132.4043559'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='14960 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大塚駅' />
+    <tag k='name:en' v='Ozuka Station' />
+    <tag k='name:ja' v='大塚駅' />
+    <tag k='name:ja-Hira' v='おおづかえき' />
+    <tag k='name:ko' v='오즈카 역' />
+    <tag k='name:zh-Hans' v='大塚站' />
+    <tag k='name:zh-Hant' v='大塚站' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9416853604' timestamp='2022-01-14T02:01:38Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='116130558' lat='34.4463234' lon='132.3954206'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='23730 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ａシティ中央' />
+    <tag k='name:en' v='A City-chuo' />
+    <tag k='name:ja' v='Ａシティ中央' />
+    <tag k='name:ja-Hira' v='えーしてぃちゅうおう' />
+    <tag k='name:ko' v='A 시티 추오' />
+    <tag k='name:zh-Hans' v='A.CITY中央' />
+    <tag k='name:zh-Hant' v='A.CITY中央' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9416853557' timestamp='2022-01-14T02:01:38Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='116130558' lat='34.6743584' lon='132.540687'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='20500 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='千代田（高速）' />
+    <tag k='name:en' v='Chiyoda' />
+    <tag k='name:ja' v='千代田（高速）' />
+    <tag k='name:ja-Hira' v='ちよだ' />
+    <tag k='name:ko' v='지요다 （고속）' />
+    <tag k='name:zh-Hans' v='千代田（高速）' />
+    <tag k='name:zh-Hant' v='千代田（高速）' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9416853541' timestamp='2022-01-14T02:01:38Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='116130558' lat='34.7182116' lon='132.6622555'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='19720 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='美土里（高速）' />
+    <tag k='name:en' v='Midori' />
+    <tag k='name:ja' v='美土里（高速）' />
+    <tag k='name:ja-Hira' v='みどり' />
+    <tag k='name:ko' v='미도리' />
+    <tag k='name:zh-Hans' v='美土里' />
+    <tag k='name:zh-Hant' v='美土裏' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9416853543' timestamp='2022-01-14T02:01:38Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='116130558' lat='34.7492529' lon='132.7238097'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='19730 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='高宮（高速）' />
+    <tag k='name:en' v='Takamiya' />
+    <tag k='name:ja' v='高宮（高速）' />
+    <tag k='name:ja-Hira' v='たかみやこうそくよう' />
+    <tag k='name:ko' v='다카미야' />
+    <tag k='name:zh-Hans' v='高宫' />
+    <tag k='name:zh-Hant' v='高宮' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9416853721' timestamp='2022-01-14T02:01:38Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='116130558' lat='34.8028284' lon='132.8552645'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='7850 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='3' />
+    <tag k='name' v='三次駅前' />
+    <tag k='name:en' v='Miyoshi Station' />
+    <tag k='name:ja' v='三次駅前' />
+    <tag k='name:ja-Hira' v='みよしえきまえ' />
+    <tag k='name:ko' v='미요시 역' />
+    <tag k='name:zh-Hans' v='三次站前' />
+    <tag k='name:zh-Hant' v='三次站前' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9416853723' timestamp='2022-01-14T02:01:38Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='116130558' lat='34.8047833' lon='132.8563381'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='7860 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='三次（たび館三次前）' />
+    <tag k='name:ja' v='三次（たび館三次前）' />
+    <tag k='name:ja-Hira' v='みよし' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9416853732' timestamp='2022-01-14T02:01:38Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='116130558' lat='34.8118505' lon='132.9307483'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='8191 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='和知（高速）' />
+    <tag k='name:en' v='Wachi [Expressway]' />
+    <tag k='name:ja' v='和知（高速）' />
+    <tag k='name:ja-Hira' v='わち（こうそく）' />
+    <tag k='name:ko' v='와치 （고속）' />
+    <tag k='name:zh-Hans' v='和知（高速）' />
+    <tag k='name:zh-Hant' v='和知（高速）' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9416853734' timestamp='2022-01-14T02:01:38Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='116130558' lat='34.8547141' lon='133.0200056'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='8192 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='庄原中学校前' />
+    <tag k='name:en' v='Shobara Chugakko-mae (Shobara Junior High School)' />
+    <tag k='name:ja' v='庄原中学校前' />
+    <tag k='name:ja-Hira' v='しようばらちゆうがつこうまえ' />
+    <tag k='name:ko' v='쇼바라 중학교' />
+    <tag k='name:zh-Hans' v='庄原中学前' />
+    <tag k='name:zh-Hant' v='莊原中學前' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9416853737' timestamp='2022-01-14T02:01:38Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='116130558' lat='34.8577971' lon='133.0174723'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='8202 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='庄原市役所' />
+    <tag k='name:en' v='Shobara Shiyakusho (Shobara City Hall)' />
+    <tag k='name:ja' v='庄原市役所' />
+    <tag k='name:ja-Hira' v='しょうばらしやくしょ' />
+    <tag k='name:ko' v='쇼바라 시청' />
+    <tag k='name:zh-Hans' v='庄原市政府' />
+    <tag k='name:zh-Hant' v='莊原市政府' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9416853739' timestamp='2022-01-14T02:01:38Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='116130558' lat='34.8621133' lon='133.0164722'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='8300 1' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='庄原駅' />
+    <tag k='name:en' v='Shobara Station' />
+    <tag k='name:ja' v='庄原駅' />
+    <tag k='name:ja-Hira' v='しょうばらえき' />
+    <tag k='name:ko' v='쇼바라역' />
+    <tag k='name:zh-Hans' v='莊原站' />
+    <tag k='name:zh-Hant' v='庄原站' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9418004248' timestamp='2022-01-14T13:31:40Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='116147888' lat='34.3800352' lon='132.4779759'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='50950 3' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='3' />
+    <tag k='name' v='大学病院前' />
+    <tag k='name:ja' v='大学病院前' />
+    <tag k='name:ja-Hira' v='だいがくびょういんまえ' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9418004247' timestamp='2022-01-14T13:31:40Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='116147888' lat='34.3797554' lon='132.475806'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='50940 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='出汐一丁目' />
+    <tag k='name:en' v='Deshio-itchome (Deshio 1)' />
+    <tag k='name:ja' v='出汐一丁目' />
+    <tag k='name:ja-Hira' v='でしおいっちょうめ' />
+    <tag k='name:ko' v='데시오 1초메' />
+    <tag k='name:zh-Hans' v='出汐一丁目' />
+    <tag k='name:zh-Hant' v='出汐一丁目' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='1371847968' timestamp='2022-01-14T13:31:40Z' uid='12352917' user='okadatsuneo_import' visible='true' version='4' changeset='116147888' lat='34.3802504' lon='132.4754483'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='2060 1;52370 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大学病院入口' />
+    <tag k='name:en' v='Daigaku Byoin-iriguchi (University Hospital Entrance)' />
+    <tag k='name:ja' v='大学病院入口' />
+    <tag k='name:ja-Hira' v='だいがくびょういんいりぐち' />
+    <tag k='name:ko' v='대학병원' />
+    <tag k='name:zh-Hans' v='大学医院入口' />
+    <tag k='name:zh-Hant' v='大學醫院入口' />
+    <tag k='operator' v='広島バス;広電バス' />
+    <tag k='operator:en' v='Hiroshima Bus;Hiroden Bus' />
+    <tag k='operator:ja' v='広島バス;広電バス' />
+    <tag k='public_transport' v='platform' />
+  </node>
+ <node id='1371847966' timestamp='2022-01-14T13:31:40Z' uid='12352917' user='okadatsuneo_import' visible='true' version='3' changeset='116147888' lat='34.3832485' lon='132.4772674'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='2210 1;52380 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='段原南' />
+    <tag k='name:en' v='Dambara-minami' />
+    <tag k='name:ja' v='段原南' />
+    <tag k='name:ja-Hira' v='だんばらみなみ' />
+    <tag k='name:ko' v='단바라 미나미' />
+    <tag k='name:zh-Hans' v='段原南' />
+    <tag k='name:zh-Hant' v='段原南' />
+    <tag k='operator' v='広島バス;広電バス' />
+    <tag k='operator:en' v='Hiroshima Bus;Hiroden Bus' />
+    <tag k='operator:ja' v='広島バス;広電バス' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9418004338' timestamp='2022-01-14T13:31:40Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='116147888' lat='34.386688' lon='132.4769722'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='52390 4' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='4' />
+    <tag k='name' v='段原中央' />
+    <tag k='name:en' v='Dambara-chuo' />
+    <tag k='name:ja' v='段原中央' />
+    <tag k='name:ja-Hira' v='だんばらちゅうおう' />
+    <tag k='name:ko' v='단바라 추오' />
+    <tag k='name:zh-Hans' v='段原中央' />
+    <tag k='name:zh-Hant' v='段原中央' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9418004235' timestamp='2022-01-14T13:31:40Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='116147888' lat='34.3901043' lon='132.4765888'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='50880 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='段原一丁目' />
+    <tag k='name:en' v='Dambara-itchome (Dambara 1)' />
+    <tag k='name:ja' v='段原一丁目' />
+    <tag k='name:ja-Hira' v='だんばらいっちょうめ' />
+    <tag k='name:ko' v='단바라 1초메' />
+    <tag k='name:zh-Hans' v='段原一丁目' />
+    <tag k='name:zh-Hant' v='段原一丁目' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9418004216' timestamp='2022-01-14T13:31:40Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='116147888' lat='34.3923874' lon='132.4754221'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='50540 2' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='的場町' />
+    <tag k='name:en' v='Matobacho' />
+    <tag k='name:ja' v='的場町' />
+    <tag k='name:ja-Hira' v='まとばちょう' />
+    <tag k='name:ko' v='마토바초' />
+    <tag k='name:zh-Hans' v='的场町' />
+    <tag k='name:zh-Hant' v='的場町' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9418004178' timestamp='2022-01-14T13:31:40Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='116147888' lat='34.3968202' lon='132.474422'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='50060 7' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='7' />
+    <tag k='name' v='広島駅' />
+    <tag k='name:en' v='Hiroshima Station' />
+    <tag k='name:ja' v='広島駅' />
+    <tag k='name:ja-Hira' v='ひろしまえき' />
+    <tag k='name:ko' v='히로시마 역' />
+    <tag k='name:zh-Hans' v='广岛站' />
+    <tag k='name:zh-Hant' v='廣島站' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <relation id='-99801' action='modify' visible='true'>
+    <member type='node' ref='9418004227' role='platform' />
+    <member type='node' ref='9417996200' role='platform' />
+    <member type='node' ref='9416853613' role='platform' />
+    <member type='node' ref='9416805996' role='platform' />
+    <member type='node' ref='9416853604' role='platform' />
+    <member type='node' ref='9416853557' role='platform' />
+    <member type='node' ref='9416853541' role='platform' />
+    <member type='node' ref='9416853543' role='platform' />
+    <member type='node' ref='9416853721' role='platform' />
+    <member type='node' ref='9416853723' role='platform' />
+    <member type='node' ref='9416853732' role='platform' />
+    <member type='node' ref='9416853734' role='platform' />
+    <member type='node' ref='9416853737' role='platform' />
+    <member type='node' ref='9416853739' role='platform' />
+    <tag k='duration' v='02:10:00' />
+    <tag k='from' v='広島駅新幹線口' />
+    <tag k='gtfs:route_id' v='3178734657' />
+    <tag k='name' v='Bus: 広島駅新幹線口-&gt;庄原駅' />
+    <tag k='official_name' v='高速：三次・庄原線' />
+    <tag k='opening_hours' v='Mo-Fr 07:50-10:00; Sa-Su 06:05-10:00' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='庄原駅' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='-99920' action='modify' visible='true'>
+    <member type='node' ref='9418004248' role='platform' />
+    <member type='node' ref='9418004247' role='platform' />
+    <member type='node' ref='1371847968' role='platform' />
+    <member type='node' ref='1371847966' role='platform' />
+    <member type='node' ref='9418004338' role='platform' />
+    <member type='node' ref='9418004235' role='platform' />
+    <member type='node' ref='9418004216' role='platform' />
+    <member type='node' ref='9418004178' role='platform' />
+    <tag k='duration' v='00:13:00' />
+    <tag k='from' v='大学病院前' />
+    <tag k='gtfs:route_id' v='1439205342' />
+    <tag k='name' v='Bus 321: 大学病院前-&gt;広島駅' />
+    <tag k='opening_hours' v='Mo-Fr 07:25-20:16; Sa-Su 08:00-20:10' />
+    <tag k='operator' v='広電バス' />
+    <tag k='operator:en' v='Hiroden Bus' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='ref' v='321' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='広島駅' />
+    <tag k='type' v='route' />
+  </relation>
+</osm>
